@@ -1,2 +1,6 @@
-# best-albums
-Best Albums of All Time
+# Best Albums of All Time
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
