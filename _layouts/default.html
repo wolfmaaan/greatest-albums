@@ -1,40 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
       body {
-        font-family: 'Inter', sans-serif;
-        background-color: #f9f9fb;
-        color: #1f2937;
+        font-family: sans-serif;
         margin: 0;
-        padding: 2rem;
-        line-height: 1.6;
+        padding: 0;
       }
-
-      a {
-        color: #3b82f6;
+      .navbar {
+        display: flex;
+        gap: 1rem;
+        background: #333;
+        padding: 1rem;
+      }
+      .navbar a {
+        color: white;
         text-decoration: none;
-      }
-
-      a:hover {
-        text-decoration: underline;
-      }
-
-      h1, h2, h3, h4, h5, h6 {
-        color: #111827;
-        font-weight: 600;
-      }
-
-      ::selection {
-        background: #dbeafe;
       }
     </style>
   </head>
   <body>
-    {{ content }}
+    <nav class="navbar">
+      <a href="/">🎶 Home</a>
+      <a href="#about">About</a>
+      <a href="https://github.com/wolfmaaan/best-albums">GitHub</a>
+    </nav>
+    <div class="content">
+      {{ content }}
+    </div>
   </body>
 </html>
