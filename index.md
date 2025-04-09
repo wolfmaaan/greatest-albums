@@ -13,6 +13,9 @@ title: Greatest Albums of All Time
   <option value="year">Sort by Year</option>
 </select>
 
+{% assign album_count = site.data.albums | size %}
+<p>Total albums submitted: {{ album_count }}</p>
+
 <div class="album-list">
   {% for album in site.data.albums %}
     <div class="album">
