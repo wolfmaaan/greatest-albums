@@ -5,6 +5,10 @@ labels: [submission]
 assignees:
   - wolfmaaan
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a album for consideration.
   - type: input
     id: artist
     attributes:
@@ -32,9 +36,17 @@ body:
       label: Cover Image URL
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Source cover art from [Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)
   - type: input
     id: wiki_url
     attributes:
       label: Wikipedia URL
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Source Wiki link from [Wikipedia](https://en.wikipedia.org/)
