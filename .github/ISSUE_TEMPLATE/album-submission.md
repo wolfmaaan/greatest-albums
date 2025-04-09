@@ -1,0 +1,32 @@
+name: Album Submission
+about: Suggest a new album for the site
+title: "[Album Submission] Artist - Album Name"
+labels: [submission]
+body:
+  - type: input
+    id: artist
+    attributes:
+      label: Artist
+      placeholder: e.g. Radiohead
+  - type: input
+    id: title
+    attributes:
+      label: Album Title
+      placeholder: e.g. OK Computer
+  - type: input
+    id: year
+    attributes:
+      label: Release Year
+      placeholder: e.g. 1997
+  - type: input
+    id: genre
+    attributes:
+      label: Genre(s)
+  - type: input
+    id: image_url
+    attributes:
+      label: Cover Image URL
+  - type: input
+    id: wiki_url
+    attributes:
+      label: Wikipedia URL
