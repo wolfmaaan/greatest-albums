@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for submitting a album for consideration.
+        Thanks for submitting an album for consideration on the list to end all lists.
   - type: input
     id: artist
     attributes:
