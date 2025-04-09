@@ -6,15 +6,15 @@ title: Greatest Albums of All Time
 <h1>Greatest Albums of All Time</h1>
 <p>A curated list of the most iconic albums in music history. Only the best of the best.</p>
 
+{% assign album_count = site.data.albums | size %}
+<p>Total albums submitted: {{ album_count }}</p>
+
 <input type="text" id="searchInput" placeholder="Search albums..." onkeyup="filterAlbums()">
 <select id="sortSelect" onchange="sortAlbums()">
   <option value="title">Sort by Title</option>
   <option value="artist">Sort by Artist</option>
   <option value="year">Sort by Year</option>
 </select>
-
-{% assign album_count = site.data.albums | size %}
-<p>Total albums submitted: {{ album_count }}</p>
 
 <div class="album-list">
   {% for album in site.data.albums %}
