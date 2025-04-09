@@ -820,6 +820,12 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/7f/80/9b7f802d-810b-dc29-b089-3d48a757d067/13ULAIM50389.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Real_Life_(Magazine_album)
 
+- title: Bubblegum
+  artist: Mark Lanegan Band
+  year: 2004
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/b6/e7/5cb6e780-4d29-3460-932f-1bf60f3cbd85/607618023782.png/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Bubblegum_(Mark_Lanegan_album)
+
 - title: Phantom Radio
   artist: Mark Lanegan Band
   year: 2014
@@ -868,11 +874,131 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/81/2b/66812b5b-2ca9-3a2d-eb19-357461d8d5dd/886447005965.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Moondog_(1969_album)
 
+- title: Straight Outta Compton
+  artist: NWA
+  year: 1989
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/82/52/e38252e8-148d-551e-2216-4b51e847f1bd/00602547276506.rgb.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Straight_Outta_Compton
+
+- title: Filthy Underneath
+  artist: Nadine Shah
+  year: 2024
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f4/5a/54/f45a5456-4e75-eb9a-5a95-517706dfcf9e/23UM1IM13819.rgb.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Filthy_Underneath
+
 - title: In The Aeroplane Over The Sea
   artist: Neutral Milk Hotel
   year: 1998
   cover: https://archive.org/download/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e-8579764982_thumb250.jpg
   link: https://en.wikipedia.org/wiki/In_the_Aeroplane_Over_the_Sea
+
+- title: New York Dolls
+  artist: New York Dolls
+  year: 1973
+  cover:
+  link: https://en.wikipedia.org/wiki/New_York_Dolls_(album)
+
+- title: The Firstborn is Dead
+  artist: Nick Cave and the Bad Seeds
+  year: 1985
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9b/02/af/9b02afc9-1423-b4d8-4a2c-fe20a7442b8a/5099923699656.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/The_Firstborn_Is_Dead
+
+- title: Let Love In
+  artist: Nick Cave and the Bad Seeds
+  year: 1994
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/c4/a9/7bc4a9bb-7061-1b0c-6da7-2f75185b0285/5099909572058.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Let_Love_In
+
+- title: Murder Ballads
+  artist: Nick Cave and the Bad Seeds
+  year: 1996
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/33/41/5f/33415f6c-f636-ead8-078b-f7e67dc398ed/5099909572454.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Murder_Ballads
+
+- title: Push The Sky Away
+  artist: Nick Cave and the Bad Seeds
+  year: 2013
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Features/v4/78/b9/65/78b9651c-4868-ca76-8777-793177cc967a/dj.xvsmmslt.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Push_the_Sky_Away
+
+- title: Skeleton Tree
+  artist: Nick Cave and the Bad Seeds
+  year: 2016
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/78/ca/c078caca-479e-1616-6337-21b1d26bf210/5060454943860.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Skeleton_Tree
+
+- title: Nilsson Schmilsson
+  artist: Nilsson
+  year: 1971
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/f1/bf/f7f1bf43-3324-6c2d-d7e0-368d506fd56d/078635451528.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Nilsson_Schmilsson
+
+- title: Little Girl Blue
+  artist: Nina Simone
+  year: 1959
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/91/02/969102f0-5629-ca7d-f952-6856248b935e/4050538685794.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Little_Girl_Blue
+
+- title: The First Days of Spring
+  artist: Noah and the Whale
+  year: 2009
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/98/57/78/985778d9-40f8-3877-a712-c99ca903ef69/00602527188928.rgb.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/The_First_Days_of_Spring
+
+- title: Ready to Die
+  artist: The Notorious B.I.G.
+  year: 1994
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/5b/0e/505b0e6f-cb2d-df8f-58df-02a8d8e61c59/075679456762.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Ready_to_Die
+
+- title: Definitely Maybe
+  artist: Oasis
+  year: 1994
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/e7/ea/9fe7eac2-87dc-c1df-3333-dc30b82bdd74/5051961006100.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Definitely_Maybe
+
+- title: (What's The Story) Morning Glory?
+  artist: Oasis
+  year: 1995
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F
+
+- title: Smash
+  artist: The Offspring
+  year: 1994
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/a3/6f/afa36ff7-01fd-f054-1e05-b257aff7cd20/0045778686865.png/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Smash_(The_Offspring_album)
+
+- title: Of The Blue Colour Of The Sky
+  artist: OK Go
+  year: 2010
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/ad/c3/eaadc317-1c7f-4748-b613-b8392448bf68/884977645187_cover.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Of_the_Blue_Colour_of_the_Sky
+
+- title: Stankonia
+  artist: OutKast
+  year: 2000
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/4c/f4/e04cf460-46a5-992a-87c7-2c1aef7e3a46/730082607223.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Stankonia
+
+- title: Speakerboxxx / The Love Below
+  artist: OutKast
+  year: 2003
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/e6/fc/39e6fca2-9d12-cc95-81d0-f8f9d11d51c7/196872578973.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Speakerboxxx/The_Love_Below
+
+- title: Horses
+  artist: Patti Smith
+  year: 1975
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/cd/a8/0bcda80a-0046-aa13-1416-71d844dfb711/886445500394.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Horses_(album)
+
+- title: Ten
+  artist: Pearl Jam
+  year: 1991
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/26/d8/b926d8be-9037-509b-9a26-6f2071117d26/5099746888497.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Ten_(Pearl_Jam_album)
 
 - title: The Dark Side of the Moon
   artist: Pink Floyd
