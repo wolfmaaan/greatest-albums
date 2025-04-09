@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Greatest Albums of All Time
+title: Greatest Albums of All Time - About
 ---
 
 <h1>About</h1>
 <p>Everyone has the best taste in music. Said no one ever. People like Coldplay and voted for the Nazi's. You can't trust people.</p>
 <p>A list inspired by others, but based on evidence. No one's actually listened to every one of the albums on the 1001 albums list. There are shocking emissions from every list anyway. Take this as the definitive one. Feel free to submit album requests to be added (or ignored, depending on the subject). You won't find any White Stripes or U2 here.</p>
 
-![image](https://fullcolorzagency.be/wp-content/uploads/2017/10/LOGO-Discogs-1.png)
+<h2>Wolfmaaan on Discogs</h2>
+[![image](https://fullcolorzagency.be/wp-content/uploads/2017/10/LOGO-Discogs-1.png)](https://www.discogs.com/user/wealthdale)
 
 <h2>Other lists you can ignore</h2>
 

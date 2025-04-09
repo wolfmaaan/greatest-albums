@@ -4,7 +4,7 @@ title: Greatest Albums of All Time
 ---
 
 <h1>Greatest Albums of All Time</h1>
-<p>A curated list of the most iconic albums in music history. Click each title to learn more.</p>
+<p>A curated list of the most iconic albums in music history. Only the best of the best.</p>
 
 <input type="text" id="searchInput" placeholder="Search albums..." onkeyup="filterAlbums()">
 <select id="sortSelect" onchange="sortAlbums()">
