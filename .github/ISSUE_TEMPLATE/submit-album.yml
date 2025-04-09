@@ -1,28 +1,40 @@
 name: Album Submission
-about: Suggest a new album for the site
+description: Suggest a new album for the site
 title: "[Album Submission] Artist - Album Name"
 labels: [submission]
+assignees:
+  - wolfmaaan
 body:
   - type: input
     id: artist
     attributes:
       label: Artist
       placeholder: e.g. Radiohead
+    validations:
+      required: true
   - type: input
     id: title
     attributes:
       label: Album Title
       placeholder: e.g. OK Computer
+    validations:
+      required: true
   - type: input
     id: year
     attributes:
       label: Release Year
       placeholder: e.g. 1997
+    validations:
+      required: true
   - type: input
     id: image_url
     attributes:
       label: Cover Image URL
+    validations:
+      required: true
   - type: input
     id: wiki_url
     attributes:
       label: Wikipedia URL
+    validations:
+      required: true
