@@ -6,8 +6,6 @@ title: Greatest Albums of All Time
 <h1>Greatest Albums of All Time</h1>
 <p>A curated list of the most iconic albums in music history. Click each title to learn more.</p>
 
-[Submit an Album](https://github.com/wolfmaaan/best-albums/issues/new?template=album-submission.md)
-
 <input type="text" id="searchInput" placeholder="Search albums..." onkeyup="filterAlbums()">
 <select id="sortSelect" onchange="sortAlbums()">
   <option value="title">Sort by Title</option>
