@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Album of the Day
+title: Greatest Albums of All Time - Album of the Day
 ---
 
 {% assign all_albums = site.data.albums %}
