@@ -1,4 +1,4 @@
-# Best Albums of All Time
+# Greatest Albums of All Time
 
 ![Discogs](https://img.shields.io/badge/Discogs-blueviolet?style=for-the-badge&logo=discogs&logoColor=white)
 ![MusicBrainz](https://img.shields.io/badge/MusicBrainz-BA478F?style=for-the-badge&logo=musicbrainz&logoColor=white)
