@@ -50,7 +50,7 @@
   artist: Amon Tobin
   year: 2000
   cover:
-  link: https://en.wikipedia.org/wiki/Supermodified
+  link: https://en.wikipedia.org/wiki/Supermodified_(album)
 
 - title: Back to Black
   artist: Amy Winehouse
@@ -1207,7 +1207,7 @@
 - title: New York Dolls
   artist: New York Dolls
   year: 1973
-  cover:
+  cover: https://i.discogs.com/NGRgLqIa8IHrd9ES5f6CpiKMJGYBWtG8JkkkSHxOK4s/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk1/MTctMTU1NjY1ODQ5/MC0xNTg4LmpwZWc.jpeg
   link: https://en.wikipedia.org/wiki/New_York_Dolls_(album)
 
 - title: The Firstborn is Dead
@@ -1513,7 +1513,7 @@
 - title: In Rainbows
   artist: Radiohead
   year: 2007
-  cover: hhttps://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/50/c7/dd50c790-99ac-d3d0-5ab8-e3891fb8fd52/634904032463.png/600x600bb.jpg
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/50/c7/dd50c790-99ac-d3d0-5ab8-e3891fb8fd52/634904032463.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_Rainbows
 
 - title: Rage Against The Machine
