@@ -9,13 +9,16 @@ title: Greatest Albums of All Time - Album of the Day
 {% assign index = today_string | modulo: album_count %}
 {% assign daily_album = all_albums[index] %}
 
-<div class="album-of-the-day" style="border: 1px solid #ccc; padding: 1rem; border-radius: 0.5rem;">
+<div class="album-of-the-day" style="border: 1px solid #ccc; padding: 1rem; border-radius: 0.5rem; text-align: center;">
   <h2>Album of the Day</h2>
   <p><strong>{{ daily_album.title }}</strong> by {{ daily_album.artist }}</p>
   {% if daily_album.cover %}
-    <img src="{{ daily_album.cover }}" alt="Album cover for {{ daily_album.title }}" style="max-width: 100%; height: auto;">
+    <img src="{{ daily_album.cover }}" alt="Album cover for {{ daily_album.title }}" style="max-width: 100%; height: auto; margin: 1rem auto; display: block;">
   {% endif %}
   {% if daily_album.link %}
     <p><a href="{{ daily_album.link }}">More about this album →</a></p>
+  {% endif %}
+  {% if daily_album.youtube %}
+    <p><a href="{{ daily_album.youtube }}">Listen on YouTube →</a></p>
   {% endif %}
 </div>

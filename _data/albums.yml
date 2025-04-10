@@ -328,6 +328,12 @@
   cover: https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Trout_Mask_Replica.png/250px-Trout_Mask_Replica.png
   link: https://en.wikipedia.org/wiki/Trout_Mask_Replica
 
+- title: Tapestry
+  artist: Carole King
+  year: 1971
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)
+
 - title: Pompeii
   artist: Cate Le Bon
   year: 2022
@@ -1864,6 +1870,7 @@
   year: 2018
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/aa/35/eeaa351e-e593-ae4f-1f76-7e9863a1da5d/5054526838536.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Street_Worms
+  youtube: https://youtu.be/7FF1bWAiBFg?si=uiHMpoT46NNEzTYM
 
 - title: Lost In The Dream
   artist: The War On Drugs
