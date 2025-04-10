@@ -49,7 +49,7 @@
 - title: Supermodified
   artist: Amon Tobin
   year: 2000
-  cover:
+  cover: https://upload.wikimedia.org/wikipedia/en/a/af/Amon_Tobin-Supermodified.jpg
   link: https://en.wikipedia.org/wiki/Supermodified_(album)
 
 - title: Back to Black
@@ -169,7 +169,7 @@
 - title: Midnight Vultures
   artist: Beck
   year: 1999
-  cover: 
+  cover: https://upload.wikimedia.org/wikipedia/en/d/db/BeckMidniteVultures.jpg
   link: https://en.wikipedia.org/wiki/Midnight_Vultures
 
 - title: Postindustrial Hometown Blues
@@ -325,7 +325,7 @@
 - title: Trout Mask Replica
   artist: Captain Beefheart and his Magic Band
   year: 1969
-  cover: https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Captain_Beefheart_-_Trout_Mask_Replica.jpg/220px-Captain_Beefheart_-_Trout_Mask_Replica.jpg
+  cover: https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Trout_Mask_Replica.png/250px-Trout_Mask_Replica.png
   link: https://en.wikipedia.org/wiki/Trout_Mask_Replica
 
 - title: Pompeii
@@ -517,13 +517,13 @@
 - title: Rejoicing In The Hands Of The Golden Empress
   artist: Devendra Banhart
   year: 2004
-  cover:
+  cover: https://upload.wikimedia.org/wikipedia/en/4/40/DB-Rejoicing.jpg
   link: https://en.wikipedia.org/wiki/Rejoicing_in_the_Hands_of_the_Golden_Empress
 
 - title: Q- Are We Not Men? A- We Are Devo!
   artist: Devo
   year: 1978
-  cover:
+  cover: https://i0.wp.com/proxymusic.club/wp-content/uploads/2018/08/devo-notmendevo.jpg?fit=2280%2C2280&ssl=1
   link: https://en.wikipedia.org/wiki/Q:_Are_We_Not_Men%3F_A:_We_Are_Devo!
 
 - title: Brothers in Arms
@@ -547,7 +547,7 @@
 - title: Valentia
   artist: Dominick Martin
   year: 1996
-  cover: 
+  cover: https://f4.bcbits.com/img/a0170585867_10.jpg
   link: https://en.wikipedia.org/wiki/Calibre_(musician)
 
 - title: Cosmic Wheels
@@ -979,7 +979,7 @@
 - title: The White Room
   artist: The KLF
   year: 1991
-  cover: 
+  cover: https://upload.wikimedia.org/wikipedia/en/7/7e/The_KLF_-_The_White_Room.jpg
   link: https://en.wikipedia.org/wiki/The_White_Room
 
 - title: Autobahn
@@ -1117,7 +1117,7 @@
 - title: Blue Lines
   artist: Massive Attack
   year: 1991
-  cover: https://www.discogs.com/release/4661004-Massive-Attack-Blue-Lines/image/SW1hZ2U6OTM2NDg0Mw==
+  cover: https://upload.wikimedia.org/wikipedia/en/a/a7/MassiveAttackBlueLines.jpg
   link: https://en.m.wikipedia.org/wiki/Blue_Lines
 
 - title: Mezzanine
