@@ -15,7 +15,7 @@ title: Greatest Albums of All Time - Album of the Day
   {% if daily_album.cover %}
     <img src="{{ daily_album.cover }}" alt="Album cover for {{ daily_album.title }}" style="max-width: 100%; height: auto;">
   {% endif %}
-  {% if daily_album.url %}
-    <p><a href="{{ daily_album.url }}">More about this album →</a></p>
+  {% if daily_album.link %}
+    <p><a href="{{ daily_album.link }}">More about this album →</a></p>
   {% endif %}
 </div>
