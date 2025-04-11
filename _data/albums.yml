@@ -129,10 +129,10 @@
   artist: Animal Collective
   year: 2009
   slug: merriweather
-  genre: 
+  genre: Indie Rock, Experimental, Psychedelic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/79/67/64796709-9482-2221-b1b7-64cdbe1b99f2/dj.fuppzyzi.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Merriweather_Post_Pavilion
-  review: 
+  review: https://pitchfork.com/reviews/albums/12518-merriweather-post-pavilion/
   songkick: 137427
   bandcamp: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3317028941/size=large/bgcol=ffffff/linkcol=0687f5/license_id=1197/tracklist=false/transparent=true/" seamless><a href="https://anmlcollectve.bandcamp.com/album/merriweather-post-pavilion">Merriweather Post Pavilion by Animal Collective</a></iframe>'
   youtube: 
@@ -146,7 +146,7 @@
   link: https://en.wikipedia.org/wiki/Anna_Calvi_(album)
   review: https://pitchfork.com/reviews/albums/15153-anna-calvi/
   songkick: 2361324
-  bandcamp: '<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=999999999/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://annacalvi.bandcamp.com/album/anna-calvi">Anna Calvi by Anna Calvi</a></iframe>'
+  bandcamp: '<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2823970726/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://annacalvi.bandcamp.com/album/anna-calvi">Anna Calvi by Anna Calvi</a></iframe>'
   youtube: 
 
 - title: Funeral
