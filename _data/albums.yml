@@ -2354,17 +2354,17 @@
   artist: Sabu Martinez
   year: 1973
   genre: Latin Jazz, Afrobeat
-  cover: https://aquariumdrunkard.com/_newness/wp-content/uploads/2018/01/Front.jpg
+  cover: https://www.dustygroove.com/images/products/m/martin_sabu_afrotempl_101b.jpg
   link: https://en.wikipedia.org/wiki/Afro_Temple
   youtube: https://www.youtube.com/watch?v=5Jv_nJ2vXkQ
 
 - title: Foxbase Alpha
   artist: Saint Etienne
   year: 1991
-  genre: 
+  genre: Electronic, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/e8/d7/1f/e8d71f4b-e994-ea4b-44fd-4653c010f733/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Foxbase_Alpha
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=vZAajrxvDs4&list=PL8-XOnjKHlIUbbZpt8yD6GbvX2IensEt7
 
 - title: Northern Exposure
   artist: Sasha And John Digweed
@@ -2388,7 +2388,7 @@
   genre: Latin
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/dd/da/53dddab9-1667-41b6-dae6-c8174ad95358/184923136562_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Grandeza
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=vm_TMCG3w50&list=PLMjQ8eLhqDtTcEYp3tjO2gIW0GWYDltvv
 
 - title: Never Mind the Bollocks, Here's the Sex Pistols
   artist: Sex Pistols
@@ -2396,31 +2396,31 @@
   genre: Punk Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b5/de/3a/b5de3acd-3008-fe1d-8f40-f4a497cfb16c/00602527965031.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=xnNpY3KA6GM&list=PL8twFco4YVGLKRxVUgmLD5eoC4t7Lld2Z
 
 - title: Remind Me Tomorrow
   artist: Sharon Van Etten
   year: 2019
-  genre: 
+  genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/06/f3/0006f34f-a5cf-a6bf-edbe-62b826faf64c/dj.srbbhdke.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Remind_Me_Tomorrow
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=BiWasRqxGcI&list=PLZqsyBiYZFQ27eE3GEsZ9nXZ2JGByM6qr
 
 - title: Sharon Van Etten & The Attachment Theory
   artist: Sharon Van Etten
   year: 2025
-  genre: 
+  genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/45/3a/95453a58-bbb3-31be-c4fa-97e94b0b4d0d/48684.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sharon_Van_Etten_%26_The_Attachment_Theory
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=bZBsDxzSuHY&list=PLZxKy04e5wXqXUtt3vGn03azOOcy4xz3I
 
 - title: Salt of the Earth
   artist: Shotty Horroh
   year: 2018
-  genre: 
+  genre: Hip Hop, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/af/b2/14/afb21401-78ad-9b7d-b5bd-3a4f88fec7d6/886446917238.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Salt_of_the_Earth_(Shotty_Horroh_album)
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=xJZy_9_TL4s&list=PL_PRKnsgcLHcdSzuvL45k0H_EIj4-q8Es
 
 - title: ( )
   artist: Sigur Rós
@@ -2553,49 +2553,50 @@
 - title: Emperor Tomato Ketchup
   artist: Stereolab
   year: 1996
+  genre: Indie Rock, Post Rock, Krautrock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/e5/01/19e5011c-a666-1823-559c-3509aa06abc9/dj.omgprlex.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Emperor_Tomato_Ketchup
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=GLYu0allKgs&list=PL5SMXYhIcZ5JTthU6b8D7KxznK4ebSNTW
 
-- title: Wake Up... It's Tomorrow
+- title: Wake Up...It's Tomorrow
   artist: Strawberry Alarm Clock
   year: 1968
-  genre: 
+  genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/99/8b/49998b99-8812-4a73-dfa1-cd50c16508f1/00602537759187.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wake_Up..._It%27s_Tomorrow
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=Ey-qnCXYAg8&list=PLBDA16864A1941381
 
 - title: The Stooges
   artist: The Stooges
   year: 1969
-  genre: 
+  genre: Garage Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/18/b1/0d/18b10d00-6d5e-8877-d3e5-070d079de6a6/dj.wtepolml.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Stooges_(album)
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=mmkfdYvXznM&list=PLMxy067kbpQjCZaATEzi6m-WS_PZ4gNOF
 
 - title: Original Pirate Material
   artist: The Streets
   year: 2002
-  genre: 
+  genre: Electronic, Hip Hop, UK Garage
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/b7/02/6db70261-c634-2fa5-bc5c-5cc231a91ae8/s06.odtfpkas.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Original_Pirate_Material
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=G35mqJ9JtQM&list=PLV3QObPp4Pie78Ye0bVGk23aAC7WsPUhK
 
 - title: A Grand Don't Come For Free
   artist: The Streets
   year: 2004
-  genre: 
+  genre: Electronic, Breaks, UK Garage
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/3a/66/673a66cf-4aea-74b9-b98d-db3126315325/s06.yhibaurj.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Grand_Don%27t_Come_for_Free
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=QIKqw-pTiJ0&list=PLd9wbquOb4FhJRAN2zdSAjRUJN1QwKU3Q
 
 - title: Is This It
   artist: The Strokes
   year: 2001
-  genre: 
+  genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/18/7b/cf187bcd-029d-5167-bab6-87219f32d95a/078636804521.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Is_This_It
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=0a5Wnuxe5x4
 
 - title: Carrie & Lowell
   artist: Sufjan Stevens
@@ -2937,7 +2938,7 @@
   artist: Youth Lagoon
   year: 2011
   genre: Electronic, Rock
-  cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/98/29/69/982969b3-f071-2949-3635-2e5706681cf7/886446283494.jpg/600x600bb.jpg
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/22/2d/84222db0-c68a-ce99-0fd8-e8c7674bc9f7/886446283388.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wondrous_Bughouse
   youtube: https://www.youtube.com/watch?v=sC0UtEH2Su0&list=PL13DD1F35BBB24C95
 
