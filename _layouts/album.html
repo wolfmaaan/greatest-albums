@@ -84,12 +84,10 @@
         <p><a href="{{ album.youtube }}" target="_blank">Listen on YouTube</a></p>
         {% endif %}
 
-        {% if album.songkick %}
-        <div class="songkick" style="margin-top: 2rem;">
-            <iframe src="https://widget.songkick.com/artists/{{ album.songkick }}/calendar-widget" width="100%"
-                height="610" frameborder="0" scrolling="no">
-            </iframe>
-        </div>
+        {% if album.discogs %}
+        <p><iframe style="border: 0; width: 600px; height: 600px;"
+                src="https://www.jeanluckhayes.com/EmbeddedDiscogsViewer/discogs_album_embed.html?release={{ album.discogs }}"
+                seamless></iframe></p>
         {% endif %}
     </div>
     {% else %}
