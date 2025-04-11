@@ -34,6 +34,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/14/a1/9314a1c8-46ce-ec91-7568-5965ce5d7356/859719029600_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Friends_of_Mine_(Adam_Green_album)
+  review: 
+  songkick: 25361
   youtube: 
 
 - title: Gemstones
@@ -43,6 +45,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0e/43/2a/0e432a65-efe6-e3a8-c346-5cd29e3965d4/859719033409_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Gemstones_(album)
+  review: 
+  songkick: 25361
   youtube: 
 
 - title: Moon Safari
@@ -52,6 +56,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/ed/cf/a2/edcfa2bc-4a9a-75f6-80b5-6576d826742c/dj.romspvqk.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Moon_Safari
+  review: 
+  songkick: 
   youtube: 
 
 - title: Jagged Little Pill
@@ -61,6 +67,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/6a/5e/786a5eb8-e00f-c2af-89ec-36adb97dfefc/603497845958.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Jagged_Little_Pill
+  songkick: 
   youtube: 
 
 - title: Ptah, the El Daoud
@@ -70,6 +77,8 @@
   genre: Spiritual Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/c5/2a/71c52a48-cd92-fb2b-f74e-c1edf51a25f1/06UMGIM04794.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ptah,_the_El_Daoud
+  review: 
+  songkick: 
   youtube: https://www.youtube.com/playlist?list=OLAK5uy_k5g-tNq408m0s7x7l0m0m7g8e4g6v0y68
 
 - title: Journey in Satchidananda
@@ -79,6 +88,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/5c/40/af5c40a1-54b1-855d-3da2-f875efbd8372/06UMGIM04169.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Journey_in_Satchidananda
+  review: 
+  songkick: 
   youtube: 
 
 - title: World Galaxy
@@ -88,6 +99,8 @@
   genre: Spiritual Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/fc/2b/08fc2b45-3ff2-56e3-dbd6-463a51875bea/00602465452822.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/World_Galaxy
+  review: 
+  songkick: 
   youtube: https://www.youtube.com/playlist?list=OLAK5uy_n767x_0yT_bYh3q0R4k8s6w9l4
 
 - title: Supermodified
@@ -97,6 +110,8 @@
   genre: 
   cover: https://upload.wikimedia.org/wikipedia/en/a/af/Amon_Tobin-Supermodified.jpg
   link: https://en.wikipedia.org/wiki/Supermodified_(album)
+  review: 
+  songkick: 
   youtube: 
 
 - title: Back to Black
@@ -106,6 +121,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Back_to_Black
+  review: 
+  songkick: 
   youtube: 
 
 - title: Merriweather Post Pavilion
@@ -115,15 +132,20 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/79/67/64796709-9482-2221-b1b7-64cdbe1b99f2/dj.fuppzyzi.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Merriweather_Post_Pavilion
+  review: 
+  songkick: 
   youtube: 
 
 - title: Anna Calvi
   artist: Anna Calvi
   year: 2011
   slug: annacalvi
-  genre: 
+  genre: Alternative Rock, Acoustic, Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/c4/fa/87/mzi.axokfxoc.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Anna_Calvi_(album)
+  review: https://pitchfork.com/reviews/albums/15153-anna-calvi/
+  songkick: 2361324
+  bandcamp: '<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=999999999/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://annacalvi.bandcamp.com/album/anna-calvi">Anna Calvi by Anna Calvi</a></iframe>'
   youtube: 
 
 - title: Funeral
