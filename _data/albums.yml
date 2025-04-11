@@ -836,29 +836,29 @@
 - title: The Chronic
   artist: Dr Dre
   year: 1992
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Chronic
-  review: 
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/dr-dre-the-chronic/
+  youtube: https://www.youtube.com/watch?v=pVJV3WA9LxA&list=PLqnKTLvQNFVAak5anui9aOpDx9kzWD2sX
 
 - title: 2001
   artist: Dr Dre
   year: 1999
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/2001_(Dr._Dre_album)
-  review: 
-  youtube: 
+  review: https://albumism.com/features/dr-dre-2001-album-anniversary
+  youtube: https://www.youtube.com/watch?v=bzhEvKdlbnA&list=PLP8toNNI9k1sKH4wSJlIoBULoI3ghGg5z
 
 - title: Porcupine
   artist: Echo & The Bunnymen
   year: 1983
-  genre: 
+  genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/23/be/b123be9d-939c-2324-2663-f85c895121d8/s06.vaoqhtmw.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Porcupine_(album)
-  review: 
-  youtube: 
+  review: https://thequietus.com/opinion-and-essays/anniversary/echo-bunnymen-porcupine/
+  youtube: https://www.youtube.com/watch?v=3fKwo8qlkJE&list=PLI6kLIhBBwmR0J5a991Q9b-KWH7YOtW3G
 
 - title: Ocean Rain
   artist: Echo & The Bunnymen
@@ -974,6 +974,7 @@
   genre: 	Experimental, Art Rock, Indie Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/b8/12/55b81281-ec56-0bc5-5628-030e683ff7c9/886448398486.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Fetch_the_Bolt_Cutters
+  review: https://pitchfork.com/reviews/albums/fiona-apple-fetch-the-bolt-cutters/
   youtube: https://www.youtube.com/watch?v=N541HLPeG6Y&list=PL9tY0BWXOZFthbMAh1WrMDEho_wKVSM_1
 
 - title: The Soft Bulletin
@@ -982,6 +983,7 @@
   genre: Psychedelic Rock, Experimental, Indie Rock, Noise Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/cc/ca/dacccae4-4f00-f451-6051-46d04a7d5099/093624911791.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Soft_Bulletin
+  review: https://www.stereogum.com/2042408/flaming-lips-soft-bulletin-turns-20/reviews/the-anniversary/
   youtube: https://www.youtube.com/watch?v=MBH-169OHNg&list=PLC80P4gsPr-ZPIF5g7Dib7TBgqERKiVHY
 
 - title: Yoshimi Battles The Pink Robots
@@ -990,6 +992,7 @@
   genre: Experimental, Synth-pop, Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/1f/f5/8f1ff578-4952-563a-7c4a-ab65e040ce95/093624913450.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Yoshimi_Battles_the_Pink_Robots
+  review: https://pitchfork.com/reviews/albums/3081-yoshimi-battles-the-pink-robots/
   youtube: https://www.youtube.com/watch?v=eITvHa3YB2E&list=PLX68ZEYlh74uKnyNZo1AbOGlmPRSLmaPO
 
 - title: Rumours
@@ -998,6 +1001,7 @@
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rumours_(album)
+  review: https://pitchfork.com/reviews/albums/17499-rumours/
   youtube: https://www.youtube.com/watch?v=SLlYUlS_Awo&list=OLAK5uy_nVaA0orpORfdRjNAGyfMZhGkvrYkkgMHI
 
 - title: Tango In The Night
@@ -1006,6 +1010,7 @@
   genre: Rock
   cover: https://a5.mzstatic.com/us/r1000/0/Music125/v4/a3/71/ee/a371eea6-b148-0e47-9170-baf2147c8f7b/603497870066.jpg
   link: https://en.m.wikipedia.org/wiki/Tango_in_the_Night
+  review: https://pitchfork.com/reviews/albums/22976-tango-in-the-night-deluxe-edition/
   youtube: https://www.youtube.com/watch?v=gU62pLxtbYk&list=PLNPGM2D7aODfHg2XMouwkK_PZlvTT9R9C
 
 - title: You're Dead!
@@ -1014,6 +1019,7 @@
   genre: Electronic, Jazz Fusion, Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/c9/d2/7ec9d2f9-5979-0482-70b6-15a98e856d2c/WARP256_Packshot_RGB_2500.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/You%27re_Dead!
+  review: https://pitchfork.com/reviews/albums/19875-flying-lotus-youre-dead/
   youtube: https://www.youtube.com/watch?v=H46jS-b2z786
 
 - title: Dogrel
@@ -1022,6 +1028,7 @@
   genre: Indie Rock, Post-Punk
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/eb/cc/d4ebcc22-7fa0-1394-1eee-5120724b6d4a/720841216605_Cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dogrel
+  review: https://pitchfork.com/reviews/albums/fontaines-dc-dogrel/
   youtube: https://www.youtube.com/watch?v=7eM4MkqvDiY&list=PLcnPdZHPO1-YJL6MhGBJ98hsqTSZIxC2B
 
 - title: Rounds
@@ -1030,6 +1037,7 @@
   genre: Electronic, Leftfield, Downtempo
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/4a/82/02/mzi.wggtbdbs.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rounds_(album)
+  review: https://pitchfork.com/reviews/albums/3166-rounds/
   youtube: https://www.youtube.com/watch?v=xPMucX6Gkfw&list=PL29LzAOiuYCx5podwGnl6JjjZO7XtvqNs
 
 - title: Hang
@@ -1038,15 +1046,17 @@
   genre: Psychedelic Rock, Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d9/5b/9f/d95b9f2c-d8de-7778-bf6f-394472bfc351/dj.bofpfqjq.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Hang_(album)
+  review: https://pitchfork.com/reviews/albums/22755-hang/
   youtube: https://www.youtube.com/watch?v=kUf8zS3LoS0&list=PLIfdNcRqod7I68H23K7I2Ck3Fvc9PpBMm
 
 - title: Apostrophe (')
   artist: Frank Zappa
   year: 1974
-  genre: 
+  genre: Prog Rock, Jazz-Rock, Fusion, Avantgarde
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/27/e4/4227e4f9-784d-3209-9d38-38cbbfcf0907/12UMGIM36704.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Apostrophe_(')
-  youtube: 
+  review: https://www.sputnikmusic.com/review/650/Frank-Zappa-Apostrophe/#google_vignette
+  youtube: https://www.youtube.com/watch?v=shq0PoqGp84&list=PLMNMmvIC2uGaSasBdRs1ZBCn4eHunIGxr
 
 - title: The Score
   artist: Fugees
@@ -1096,18 +1106,20 @@
 - title: I'm New Here
   artist: Gil Scott-Heron
   year: 2010
-  genre: 
+  genre: Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/7c/b3/037cb34d-8b4d-a98d-241e-486ba57f26be/634904047160.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/I%27m_New_Here
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/13893-im-new-here/
+  youtube: https://www.youtube.com/watch?v=fkwjIDITti8&list=PL8887D870AE65BE49
 
 - title: World Music
   artist: Goat
   year: 2012
-  genre: 
+  genre: Krautrock, Tribal, Nordic, Prog Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/ad/6a/09ad6ad8-92a7-2532-9771-2847f852317d/5055300352712.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/World_Music_(Goat_album)
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/17332-world-music/
+  youtube: https://www.youtube.com/watch?v=TSMaUeWL6RM&list=PLT5jUSXU-6oQJLbtwCaJCWYHMPPjqVetI
 
 - title: Timeless
   artist: Goldie
@@ -1115,15 +1127,17 @@
   genre: Drum and Bass
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/0a/a3/f00aa3a7-daec-e9ad-7af3-b417b4bda71c/081227692360.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Timeless_(Goldie_album)
+  review: https://www.theguardian.com/music/2011/jun/15/goldie-releases-timeless
   youtube: https://www.youtube.com/playlist?list=PL3969F4F1715459E7
 
 - title: Bring It On
   artist: Gomez
   year: 1998
-  genre: 
+  genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/ef/2d/e3ef2dd8-b18c-f821-f475-485211d78f5b/00724384559250.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bring_It_On_(Gomez_album)
-  youtube: 
+  review: https://guitar.com/reviews/album/the-genius-of-bring-it-on-by-gomez/
+  youtube: https://www.youtube.com/watch?v=8hEFQsqWhUQ&list=PLuWKDhdtDuliCnbiO7e2m5YmrRv8GCuHb
 
 - title: Merrie Land
   artist: The Good, The Bad & The Queen
@@ -1131,6 +1145,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/cc/28/1bcc280e-c733-2377-54cd-d80dcce8dcc6/190296941238.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Merrie_Land
+  review: 
   youtube: 
 
 - title: Gorillaz
@@ -1139,6 +1154,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Gorillaz_(album)
+  review: 
   youtube: 
 
 - title: Demon Days
@@ -1147,6 +1163,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Demon_Days
+  review: 
   youtube: 
 
 - title: Plastic Beach
@@ -1155,6 +1172,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Plastic_Beach
+  review: 
   youtube: 
 
 - title: Refuge Cove
@@ -1162,7 +1180,8 @@
   year: 2019
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c5/5a/bc/c55abc22-6b11-2294-4514-b054f3a71e05/9332727100864_Cover.jpg/600x600bb.jpg
-  link: https://en.wikipedia.org/wiki/Refuge_Cove
+  link: https://en.wikipedia.org/wiki/Grace_Cummings
+  review: 
   youtube: 
 
 - title: Nightclubbing
@@ -1170,7 +1189,8 @@
   year: 1981
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/7a/76/e57a76bc-7c54-eef0-2b03-3243145734ed/21UMGIM19764.rgb.jpg/600x600bb.jpg
-  link: https://en.wikipedia.org/wiki/Nightclubbing
+  link: https://en.wikipedia.org/wiki/Nightclubbing_(Grace_Jones_album)
+  review: 
   youtube: 
 
 - title: Dookie
@@ -1179,6 +1199,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/83/e7/8883e74b-1b7c-0725-09de-21e4e00d54b5/093624915713.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dookie
+  review: 
   youtube: 
 
 - title: Miami
@@ -1187,6 +1208,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c7/3f/f0c73f16-1a82-f8ed-c21d-9157f982c580/195497578368.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Miami_(The_Gun_Club_album)
+  review: 
   youtube: 
 
 - title: Appetite for Destruction
