@@ -821,6 +821,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/8f/cb/da8fcb46-549d-fbfd-08b9-7a60040eeb18/8445490293761.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Cosmic_Wheels
+  review: 
   youtube: 
 
 - title: The Doors
@@ -829,6 +830,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/97/e2/ce/97e2ce16-02e1-54f6-3896-dcc55249ff7d/603497838738.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Doors_(album)
+  review: 
   youtube: 
 
 - title: The Chronic
@@ -837,6 +839,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Chronic
+  review: 
   youtube: 
 
 - title: 2001
@@ -845,6 +848,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/2001_(Dr._Dre_album)
+  review: 
   youtube: 
 
 - title: Porcupine
@@ -853,87 +857,98 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/23/be/b123be9d-939c-2324-2663-f85c895121d8/s06.vaoqhtmw.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Porcupine_(album)
+  review: 
   youtube: 
 
 - title: Ocean Rain
   artist: Echo & The Bunnymen
   year: 1984
-  genre: 
+  genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/99/89/2d998936-e611-01a4-1a49-f29d8215666a/mzi.ocbcfibz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ocean_Rain
-  youtube: 
+  review: https://thequietus.com/opinion-and-essays/anniversary/echo-and-the-bunnymen-ocean-rain-review/
+  youtube: https://www.youtube.com/watch?v=sQ_QRK_iWrk&list=PLI6kLIhBBwmTeFIw79P888Fj-F97UtcqQ
 
 - title: Beautiful Freak
   artist: Eels
   year: 1996
-  genre: 
+  genre: Alternative Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/df/09/18df09a9-e8c5-02c4-e00f-fe20e5e97ad9/5400863103811_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Beautiful_Freak
-  youtube: 
+  review: https://latetothegame.blog/2018/05/01/stand-out-albums-eels-beautiful-freak-1996/
+  youtube: https://www.youtube.com/watch?v=OP9v0UIeBec&list=PLNPGM2D7aODd9PQu_KZAiwUbOmamVAkF7
 
 - title: Out of the Blue
   artist: Electric Light Orchestra
   year: 1977
-  genre: 
+  genre: Prog Rock, Symphonic Rock, Classic Rock, Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/0f/f9/2c0ff9b3-693b-5690-a17d-641076ae3140/886445593945.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Out_of_the_Blue
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/9922-out-of-the-blue/
+  youtube: https://www.youtube.com/watch?v=BDhJU_cNCZE&list=PL6ogdCG3tAWiNDlZTuWfYO8GcEtXiJidF
 
 - title: Goodbye Yellow Brick Road
   artist: Elton John
   year: 1973
-  genre: 
+  genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road
-  youtube: 
+  review: https://www.rollingstone.com/music/music-album-reviews/goodbye-yellow-brick-road-249137/
+  youtube: https://www.youtube.com/watch?v=3p_xAToFzck&list=PLUyhoB9KsCSIAP4zZ4ie2r-MkkEfyKphQ
 
 - title: The Marshall Mathers LP
   artist: Eminem
   year: 2000
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/eminem-the-marshall-mathers-lp/
+  youtube: https://www.youtube.com/watch?v=kBFYjIuFKO4&list=PLQeroY7XkiFE_RbmlqM6yUknKoEhY3TYI
 
 - title: Walking On A Dream
   artist: Empire Of The Sun
   year: 2008
-  genre: 
+  genre: Pop Rock, Synth-pop
   cover: https://a5.mzstatic.com/us/r1000/0/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg
   link: https://en.m.wikipedia.org/wiki/Walking_on_a_Dream_(album)
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/12484-walking-on-a-dream/
+  youtube: https://www.youtube.com/watch?v=Pw_x8cpDPO0&list=PL-GOqpQKhjBfRLI72VfPaPMc8eKan9_Wd
 
 - title: This Could Be Texas
   artist: English Teacher
   year: 2024
-  genre: 
+  genre: Alternative Rock, Post-Punk
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/40/d5/72/40d57277-b6cc-2750-2c30-675aaa767d2e/23UM1IM56861.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/This_Could_Be_Texas
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/english-teacher-this-could-be-texas/
+  youtube: https://www.youtube.com/watch?v=9ufhx17tnk8&list=PLvsYXqtYjMYebc3VdMHRX1GpxhBBecFoO
 
 - title: Paid In Full
   artist: Eric B & Rakim
   year: 1987
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/78/da/2e78da25-1192-2372-d044-a90278bb09c5/06UMGIM63977.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Paid_in_Full
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/11734-paid-in-full-follow-the-leader/
+  youtube: https://www.youtube.com/watch?v=mpVNCB5RKjM&list=PLOFZMp5SZNnbRgrPotuYR8h9hZb7njO6N
 
 - title: The Real Thing
   artist: Faith No More
   year: 1989
-  genre: 
+  genre: Alternative Metal, Funk Metal, Alternative Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/66/6c/1c666c64-4140-05c4-296b-54e8a69cb983/mzi.pqhqsipo.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Real_Thing_(album)
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/20606-faith-no-more-the-real-thing-angel-dust/
+  youtube: https://www.youtube.com/watch?v=Fi1SSiTJDDg&list=PLIKpCFu8Fpmnu7TMYxrlMxREav_wcpwKV
 
 - title: This Nation's Saving Grace
   artist: The Fall
   year: 1985
-  genre: 
+  genre: Post-Punk, Punk, New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ef/6e/d9/ef6ed92c-cfbd-5499-ee9f-777a21c810c7/607618006709.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/This_Nation%27s_Saving_Grace
-  youtube: 
+  review: https://www.theguardian.com/music/2011/dec/15/the-fall-nations-grace-review
+  youtube: https://www.youtube.com/watch?v=tBc5OyAYlyo&list=PLi4QuvGG7lLaVd31kUrV-spFEdwNkq4vm
 
 - title: You've Come A Long Way, Baby
   artist: Fatboy Slim
@@ -941,6 +956,7 @@
   genre: Electronic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/97/04/52/97045290-59ff-5f50-6cee-28594a376ae3/5025425551130.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/You%27ve_Come_a_Long_Way,_Baby
+  review: https://pitchfork.com/reviews/albums/fatboy-slim-youve-come-a-long-way-baby/
   youtube: https://www.youtube.com/watch?v=lYJ0ukkVeOg&list=PL6mpyAioMZGikoqaPZS-dSmwlfEcxrfa4
 
 - title: Serfs Up!
