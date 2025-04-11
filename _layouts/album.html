@@ -49,17 +49,33 @@
         <h1>{{ album.title }}</h1>
         <p><strong>Artist:</strong> {{ album.artist }}</p>
         <p><strong>Year:</strong> {{ album.year }}</p>
+        <p><strong>Genre:</strong> {{ album.genre }}</p>
 
         {% if album.cover %}
         <img src="{{ album.cover }}" alt="Album cover" style="max-width: 300px;">
         {% endif %}
 
         {% if album.link %}
-        <p><a href="{{ album.link }}" target="_blank">More info →</a></p>
+        <p><a href="{{ album.link }}" target="_blank">More info on Wikipedia</a></p>
+        {% endif %}
+
+        {% if album.review %}
+        <p><a href="{{ album.review }}" target="_blank">Read a review</a></p>
         {% endif %}
 
         {% if album.youtube %}
-        <p><a href="{{ album.youtube }}" target="_blank">YouTube Playlist →</a></p>
+        {% assign id = album.youtube | split: 'v=' | last | split: '/' | last %}
+        <div class="youtube-embed" style="margin-top: 2rem;">
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/{{ id }}" title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+            </iframe>
+        </div>
+        {% endif %}
+
+        {% if album.youtube %}
+        <p><a href="{{ album.youtube }}" target="_blank">Listen on YouTube</a></p>
         {% endif %}
     </div>
     {% else %}
