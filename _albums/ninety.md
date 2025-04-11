@@ -1,6 +1,6 @@
 ---
 layout: default
 title: 90
-slug: 90
-album_slug: 90
+slug: ninety
+album_slug: ninety
 ---
