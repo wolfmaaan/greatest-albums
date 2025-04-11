@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: /albums/:slug/
+---
+
+{% assign album = site.data.albums | where: "slug", page.slug | first %}
+
+{% if album %}
+<div class="album-detail" style="text-align: center;">
+    <h1>{{ album.title }}</h1>
+    <p><strong>Artist:</strong> {{ album.artist }}</p>
+    <p><strong>Year:</strong> {{ album.year }}</p>
+
+    {% if album.cover %}
+    <img src="{{ album.cover }}" alt="{{ album.title }} cover" style="max-width: 300px;">
+    {% endif %}
+
+    {% if album.link %}
+    <p><a href="{{ album.link }}" target="_blank">More info →</a></p>
+    {% endif %}
+
+    {% if album.youtube %}
+    <p><a href="{{ album.youtube }}" target="_blank">YouTube Playlist →</a></p>
+    {% endif %}
+</div>
+{% else %}
+<p>Album not found.</p>
+{% endif %}

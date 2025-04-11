@@ -1,6 +1,7 @@
 - title: 90
   artist: 808 State
   year: 1989
+  slug: 90
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/44/56/71/445671c3-a899-7888-d632-663521df8506/20UMGIM87814.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/90_(album)
@@ -9,6 +10,7 @@
 - title: The Psychedelic Sounds Of The 13th Floor Elevators
   artist: 13th Floor Elevators
   year: 1966
+  slug: psychsounds
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/68/f4/09/68f40950-5d6e-67fe-da36-5b22d2d30d93/887396217546.tif/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Psychedelic_Sounds_of_the_13th_Floor_Elevators
@@ -17,6 +19,7 @@
 - title: The Low End Theory
   artist: A Tribe Called Quest
   year: 1991
+  slug: lowend
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Low_End_Theory
@@ -25,6 +28,7 @@
 - title: Friends of Mine
   artist: Adam Green
   year: 2003
+  slug: friendsofmine
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/14/a1/9314a1c8-46ce-ec91-7568-5965ce5d7356/859719029600_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Friends_of_Mine_(Adam_Green_album)
@@ -33,6 +37,7 @@
 - title: Gemstones
   artist: Adam Green
   year: 2005
+  slug: gemstones
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0e/43/2a/0e432a65-efe6-e3a8-c346-5cd29e3965d4/859719033409_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Gemstones_(album)
@@ -41,6 +46,7 @@
 - title: Moon Safari
   artist: Air
   year: 1998
+  slug: moonsafari
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/ed/cf/a2/edcfa2bc-4a9a-75f6-80b5-6576d826742c/dj.romspvqk.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Moon_Safari
@@ -49,6 +55,7 @@
 - title: Jagged Little Pill
   artist: Alanis Morrisette
   year: 1995
+  slug: jagged
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/6a/5e/786a5eb8-e00f-c2af-89ec-36adb97dfefc/603497845958.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Jagged_Little_Pill
