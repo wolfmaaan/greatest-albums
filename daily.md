@@ -18,6 +18,9 @@ title: Album of the Day
   {% if daily_album.link %}
     <p><a href="{{ daily_album.link }}" target="_blank">More about this album</a></p>
   {% endif %}
+  {% if daily_album.review %}
+    <p><a href="{{ daily_album.review }}" target="_blank">Read a review</a></p>
+  {% endif %}
   {% if daily_album.youtube %}
     <p><a href="{{ daily_album.youtube }}" target="_blank">Listen on YouTube</a></p>
   {% endif %}

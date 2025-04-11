@@ -949,6 +949,7 @@
   genre: Psychedelic Rock, Experimental
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/08/0d/77080d96-cf84-21e6-e6f9-395ad1f4ac13/dj.hulbhakw.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Serfs_Up!
+  review: https://www.theguardian.com/music/2019/apr/21/fat-white-family-serfs-up-review-giant-leap-forward
   youtube: https://www.youtube.com/watch?v=NOqAR-7vUlc&list=PLi3N1MxEaSZp0w4RLPOJkBlOmSsx3Gx5k
 
 - title: Fetch The Bolt Cutters
@@ -1018,10 +1019,10 @@
 - title: Hang
   artist: Foxygen
   year: 2017
-  genre: 
+  genre: Psychedelic Rock, Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d9/5b/9f/d95b9f2c-d8de-7778-bf6f-394472bfc351/dj.bofpfqjq.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Hang_(album)
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=kUf8zS3LoS0&list=PLIfdNcRqod7I68H23K7I2Ck3Fvc9PpBMm
 
 - title: Apostrophe (')
   artist: Frank Zappa
@@ -1034,26 +1035,29 @@
 - title: The Score
   artist: Fugees
   year: 1996
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/66/3f/c3663fe2-5c90-f701-93f8-54d5b56bc1df/888880608932.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Score_(album)
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/fugees-the-score/
+  youtube: https://www.youtube.com/watch?v=uOJDCEapPpM&list=PLpT23Oq1XOBCs3qJY2GXBgxJUvtp6eC5g
 
 - title: Maggot Brain
   artist: Funkadelic
   year: 1971
-  genre: 
+  genre: P.Funk, Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/19/49/c4194943-0b41-5987-b2e8-193b74ea70ed/artwork.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Maggot_Brain
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/funkadelic-maggot-brain/
+  youtube: https://www.youtube.com/watch?v=xby5467EbdU&list=PLJfwklRIOOp0kajwFW7Lyo-Ofvb3GsoLI
 
 - title: Entertainment!
   artist: Gang of Four
   year: 1979
-  genre: 
+  genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/a3/06/cda306e6-3990-978c-2b54-e3638363969c/mzm.mwjizabp.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Entertainment!
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/3389-entertainment/
+  youtube: https://www.youtube.com/watch?v=ee_HrbO9xfI&list=PLMxy067kbpQjPnhror6MtgZeJ8WFN3_bq
 
 - title: All Things Must Pass
   artist: George Harrison
@@ -1061,15 +1065,17 @@
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/2a/f4/322af42a-41fd-f52f-e1ee-dc7502bd4bba/0602547025340.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/All_Things_Must_Pass
-  youtube: https://www.youtube.com/playlist?list=PLolQf-5-Yj2p9aXqQvR2J69869v6g31hG
+  review: https://pitchfork.com/reviews/albums/22037-all-things-must-pass/
+  youtube: https://www.youtube.com/watch?v=bEoaZc7pY4M&list=PLLlShhoizXgvyHb4CLoVSuGV1R6phw7k1
 
 - title: Pieces of a Man
   artist: Gil Scott-Heron
   year: 1971
-  genre: 
+  genre: Jazz, Funk / Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f8/e8/5b/f8e85bc3-8854-a257-9622-524e0dbc7b76/29667527484.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pieces_of_a_Man
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/gil-scott-heron-pieces-of-a-man/
+  youtube: https://www.youtube.com/watch?v=XUi580gA5BQ&list=PLcxGlEuFOO3USm9h3XdBFx2mnmLv7ybPj
 
 - title: I'm New Here
   artist: Gil Scott-Heron
