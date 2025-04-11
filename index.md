@@ -4,7 +4,7 @@ title: Greatest Albums of All Time
 ---
 
 <h1>Greatest Albums of All Time</h1>
-<p>A curated list of the most iconic albums in music history. Only the best of the best.</p>
+<p>A community curated list of the most iconic albums in music history. Only the best of the best. Nostalgia, sentiment, connection, experience, aesthetic pleasure. It all plays a part. There are no rules. Cardiacs taught us that.</p>
 
 {% assign album_count = site.data.albums | size %}
 <p>Total albums submitted: {{ album_count }}</p>

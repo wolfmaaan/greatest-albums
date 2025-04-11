@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Greatest Albums of All Time - About
+title: About
 ---
 
 <h1>About</h1>
