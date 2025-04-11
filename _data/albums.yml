@@ -40,11 +40,27 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/6a/5e/786a5eb8-e00f-c2af-89ec-36adb97dfefc/603497845958.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Jagged_Little_Pill
 
+- title: Ptah, the El Daoud
+  artist: Alice Coltrane with Pharoah Sanders
+  year: 1970
+  genre: Spiritual Jazz
+  cover: https://upload.wikimedia.org/wikipedia/en/f/f1/Alice_Coltrane_-_Ptah%2C_the_El_Daoud.jpg
+  link: https://en.wikipedia.org/wiki/Ptah,_the_El_Daoud
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_k5g-tNq408m0s7x7l0m0m7g8e4g6v0y68
+
 - title: Journey in Satchidananda
   artist: Alice Coltrane
   year: 1971
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/5c/40/af5c40a1-54b1-855d-3da2-f875efbd8372/06UMGIM04169.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Journey_in_Satchidananda
+
+- title: World Galaxy
+  artist: Alice Coltrane with Strings
+  year: 1971
+  genre: Spiritual Jazz
+  cover: https://upload.wikimedia.org/wikipedia/en/3/3c/Alice_Coltrane_-_World_Galaxy.jpg
+  link: https://en.wikipedia.org/wiki/World_Galaxy
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_n767x_0yT_bYh3q0R4k8s6w9l4
 
 - title: Supermodified
   artist: Amon Tobin
@@ -331,14 +347,24 @@
 - title: Tapestry
   artist: Carole King
   year: 1971
+  genre: Pop, Soft Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)
+  youtube: https://www.youtube.com/playlist?list=PL091A24367D98902C
 
 - title: Pompeii
   artist: Cate Le Bon
   year: 2022
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/1e/2b/a31e2bfc-fe05-e95b-4b94-343a2cc43bc6/184923131567_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pompeii_(Cate_Le_Bon_album)
+
+- title: Tea for the Tillerman
+  artist: Cat Stevens
+  year: 1970
+  genre: Folk Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/8/85/Cat_Stevens_-_Tea_for_the_Tillerman.jpg
+  link: https://en.wikipedia.org/wiki/Tea_for_the_Tillerman
+  youtube: https://www.youtube.com/playlist?list=PLt9Jg571M2x6n-K96j4b_3H-p2D2gU9gP
 
 - title: The Seaside
   artist: Cardiacs
@@ -375,6 +401,14 @@
   year: 2010
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/96/f6/b996f67a-1653-eb36-4971-f4e81d04a0cd/184923116649_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Forever_Dolphin_Love
+
+- title: Tellin' Stories
+  artist: The Charlatans
+  year: 1997
+  genre: Britpop
+  cover: https://upload.wikimedia.org/wikipedia/en/a/a3/The_Charlatans_-_Tellin%27_Stories.jpg
+  link: https://en.wikipedia.org/wiki/Tellin%27_Stories
+  youtube: https://www.youtube.com/playlist?list=PL9433E74565360405
 
 - title: The Coral
   artist: The Coral
@@ -489,6 +523,14 @@
   year: 2025
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/eb/21/29eb2135-04cd-99b4-e0b3-6dc23e763c4a/104966.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Decius_Vol._II_(Splendour_%26_Obedience)
+
+- title: Adrenaline
+  artist: Deftones
+  year: 1995
+  genre: Alternative Metal
+  cover: https://upload.wikimedia.org/wikipedia/en/a/a2/Deftones_-_Adrenaline.jpg
+  link: https://en.wikipedia.org/wiki/Adrenaline_(Deftones_album)
+  youtube: https://www.youtube.com/playlist?list=PL478170A4419713D9
 
 - title: White Pony
   artist: Deftones
@@ -730,6 +772,14 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/a3/06/cda306e6-3990-978c-2b54-e3638363969c/mzm.mwjizabp.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Entertainment!
 
+- title: All Things Must Pass
+  artist: George Harrison
+  year: 1970
+  genre: Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/9/9d/AllThingsMustPass.jpg
+  link: https://en.wikipedia.org/wiki/All_Things_Must_Pass
+  youtube: https://www.youtube.com/playlist?list=PLolQf-5-Yj2p9aXqQvR2J69869v6g31hG
+
 - title: Pieces of a Man
   artist: Gil Scott-Heron
   year: 1971
@@ -747,6 +797,14 @@
   year: 2012
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/ad/6a/09ad6ad8-92a7-2532-9771-2847f852317d/5055300352712.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/World_Music_(Goat_album)
+
+- title: Timeless
+  artist: Goldie
+  year: 1995
+  genre: Drum and Bass
+  cover: https://upload.wikimedia.org/wikipedia/en/a/a7/Goldie_-_Timeless.jpg
+  link: https://en.wikipedia.org/wiki/Timeless_(Goldie_album)
+  youtube: https://www.youtube.com/playlist?list=PL3969F4F1715459E7
 
 - title: Bring It On
   artist: Gomez
@@ -802,6 +860,14 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c7/3f/f0c73f16-1a82-f8ed-c21d-9157f982c580/195497578368.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Miami_(The_Gun_Club_album)
 
+- title: Appetite for Destruction
+  artist: Guns n Roses
+  year: 1987
+  genre: Hard Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/9/92/Guns_N%27_Roses_-_Appetite_for_Destruction.jpg
+  link: https://en.wikipedia.org/wiki/Appetite_for_Destruction
+  youtube: https://www.youtube.com/playlist?list=PLGqYj7x9Hn6w3hGv6l0W3j0v_4m_K6l-m
+
 - title: Glutton for Punishment
   artist: Heartworms
   year: 2025
@@ -820,11 +886,35 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4f/e5/f5/4fe5f511-462e-e87b-0711-d4e42809fb17/dj.goshfswo.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Head_Hunters
 
+- title: Future Shock
+  artist: Herbie Hancock
+  year: 1983
+  genre: Electro-funk
+  cover: https://upload.wikimedia.org/wikipedia/en/d/d6/Herbie_Hancock_-_Future_Shock.jpg
+  link: https://en.wikipedia.org/wiki/Future_Shock_(album)
+  youtube: https://www.youtube.com/playlist?list=PL034F943255540996
+
 - title: A Different Ship
   artist: Here We Go Magic
   year: 2012
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/f8/3b/52/f83b5216-d4f2-db18-5fef-2bc7e7458e01/dj.xnozbnai.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Different_Ship
+
+- title: Hirth from Earth
+  artist: Hirth Martinez
+  year: 1975
+  genre: Folk Rock, Singer-Songwriter
+  cover: https://upload.wikimedia.org/wikipedia/en/a/a8/Hirth_Martinez_-_Hirth_from_Earth.jpg
+  link: https://en.wikipedia.org/wiki/Hirth_from_Earth
+  youtube: https://www.youtube.com/watch?v=6rG7Wj-f6_k
+
+- title: Skylarking
+  artist: Horace Andy
+  year: 1972
+  genre: Reggae
+  cover: https://upload.wikimedia.org/wikipedia/en/b/b1/HoraceAndySkylarking.jpg
+  link: https://en.wikipedia.org/wiki/Skylarking_(album)
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_l32_463y5w6pBw_0fQ6g85f8k43q78854
 
 - title: New Boots and Panties!!
   artist: Ian Dury
@@ -844,11 +934,27 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/2c/56/fb2c56ca-05ad-f73f-a1b7-9917081db1b9/17UMGIM08423.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Lust_for_Life_(album)
 
+- title: Science
+  artist: Incubus
+  year: 1997
+  genre: Alternative Rock, Funk Metal
+  cover: https://upload.wikimedia.org/wikipedia/en/6/64/Incubus_-_S.C.I.E.N.C.E..jpg
+  link: https://en.wikipedia.org/wiki/S.C.I.E.N.C.E.
+  youtube: https://www.youtube.com/playlist?list=PL9E232D307448799E
+
 - title: 3 + 3
   artist: The Isley Brothers
   year: 1973
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/1a/2f/7e1a2f9c-154a-49d0-0484-44550a26da26/mzm.fckxoqtz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/3_%2B_3_(The_Isley_Brothers_album)
+
+- title: A Livingroom Hush
+  artist: Jaga Jazzist
+  year: 2001
+  genre: Nu Jazz, Post-Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/e/e8/Jaga_Jazzist_-_A_Livingroom_Hush.jpg
+  link: https://en.wikipedia.org/wiki/A_Livingroom_Hush
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_n32x4Vqj-2n4jP9_q7F-1s2W1wQ_Q3p_U
 
 - title: Modern Kosmology
   artist: Jane Weaver
@@ -873,6 +979,22 @@
   year: 1994
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album)
+
+- title: Waveform Transmission Vol. 1
+  artist: Jeff Mills
+  year: 1993
+  genre: Techno
+  cover: https://upload.wikimedia.org/wikipedia/en/f/f9/Jeff_Mills_-_Waveform_Transmission_Vol._1.jpg
+  link: https://en.wikipedia.org/wiki/Waveform_Transmission_Vol._1
+  youtube: https://www.youtube.com/playlist?list=PLo10h1U-gH6O0K9c498879yY-314q5u75
+
+- title: Live At The Liquid Room, Tokyo
+  artist: Jeff Mills
+  year: 1996
+  genre: Techno, Live Album
+  cover: https://f4.bcbits.com/img/a1587898979_16.jpg
+  link: https://www.discogs.com/Jeff-Mills-Live-At-The-Liquid-Room-Tokyo/master/1414
+  youtube: https://www.youtube.com/watch?v=H46jS-b2z78
 
 - title: Surrealistic Pillow
   artist: Jefferson Airplane
@@ -1121,6 +1243,14 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/What%27s_Going_On_(album)
 
+- title: Colour Yes
+  artist: Matthew Halsall
+  year: 2009
+  genre: Modern Jazz
+  cover: https://f4.bcbits.com/img/a1234736498_16.jpg
+  link: https://matthewhalsall.bandcamp.com/album/colour-yes
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_k8_tJ8v5_tJ-6Y77sY7Yv6i6l3P_x647Y
+
 - title: Blue Lines
   artist: Massive Attack
   year: 1991
@@ -1139,6 +1269,14 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/89/ea/1389ea43-83fe-6cf2-59df-85216996d80b/05099960946652.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Heligoland_(album)
 
+- title: Black Album
+  artist: Metallica
+  year: 1991
+  genre: Heavy Metal
+  cover: https://upload.wikimedia.org/wikipedia/en/3/3c/Metallica_-_Metallica.jpg
+  link: https://en.wikipedia.org/wiki/Metallica_(album)
+  youtube: https://www.youtube.com/playlist?list=PL33DF2992308E1D0D
+
 - title: Congratulations
   artist: MGMT
   year: 2010
@@ -1156,6 +1294,14 @@
   year: 1982
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Thriller
+
+- title: Right Time
+  artist: The Mighty Diamonds
+  year: 1976
+  genre: Reggae
+  cover: https://upload.wikimedia.org/wikipedia/en/8/8b/MightyDiamondsRightTime.jpg
+  link: https://en.wikipedia.org/wiki/Right_Time
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_lG54414B-6fEaG726bW-4C9m1I1-4Qo74
 
 - title: Bitches Brew
   artist: Miles Davis
@@ -1181,6 +1327,14 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/81/2b/66812b5b-2ca9-3a2d-eb19-357461d8d5dd/886447005965.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Moondog_(1969_album)
 
+- title: Origin of Symmetry
+  artist: Muse
+  year: 2001
+  genre: Alternative Rock, Space Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/8/8f/Muse_-_Origin_of_Symmetry.jpg
+  link: https://en.wikipedia.org/wiki/Origin_of_Symmetry
+  youtube: https://www.youtube.com/playlist?list=PL19DED9F9263701A3
+
 - title: Loveless
   artist: My Bloody Valentine
   year: 1991
@@ -1198,6 +1352,14 @@
   year: 2024
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f4/5a/54/f45a5456-4e75-eb9a-5a95-517706dfcf9e/23UM1IM13819.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Filthy_Underneath
+
+- title: Loud Louder Stop
+  artist: Neil Cowley Trio
+  year: 2008
+  genre: Jazz
+  cover: https://upload.wikimedia.org/wikipedia/en/8/88/Neil_Cowley_Trio_-_Loud_Louder_Stop.jpg
+  link: https://en.wikipedia.org/wiki/Loud_Louder_Stop
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_l577y4v9m-bE_0n_6wM_2N9h61qHh0i0Q
 
 - title: Welcome Reality
   artist: Nero
@@ -1312,6 +1474,14 @@
   year: 1994
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/a3/6f/afa36ff7-01fd-f054-1e05-b257aff7cd20/0045778686865.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Smash_(The_Offspring_album)
+
+- title: Americana
+  artist: The Offspring
+  year: 1998
+  genre: Punk Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/b/b2/The_Offspring_-_Americana.jpg
+  link: https://en.wikipedia.org/wiki/Americana_(The_Offspring_album)
+  youtube: https://www.youtube.com/playlist?list=PL06F237545E2F46D2
 
 - title: Of The Blue Colour Of The Sky
   artist: OK Go
@@ -1481,6 +1651,14 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/71/6c/55716cc7-aeb8-5b2d-f4f1-e8e6022e625e/781484068020.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Purple_Mountains_(album)
 
+- title: Otherworldly
+  artist: The Pyramids
+  year: 2012
+  genre: Avant-garde Jazz, Spiritual Jazz
+  cover: https://f4.bcbits.com/img/a2155039720_16.jpg
+  link: https://thepyramids.bandcamp.com/album/otherworldly
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_l94l25f42v9w6414f5w6g3y4p9y_1_u0Q
+
 - title: Yessir Whatever
   artist: Quasimoto
   year: 2013
@@ -1553,17 +1731,57 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c6/b5/fe/c6b5fec8-e7bb-4ffe-91bc-0a26e5c69234/dj.pfglhkev.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Coles_Corner
 
+- title: New Forms
+  artist: Roni Size / Reprazent
+  year: 1997
+  genre: Drum and Bass
+  cover: https://upload.wikimedia.org/wikipedia/en/1/1a/Roni_Size_Reprazent_-_New_Forms.jpg
+  link: https://en.wikipedia.org/wiki/New_Forms
+  youtube: https://www.youtube.com/playlist?list=PLfP644l045L53a-u8p3v-xW01lqj-l21m
+
+- title: Royal Blood
+  artist: Royal Blood
+  year: 2014
+  genre: Alternative Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/0/02/Royal_Blood_-_Royal_Blood.jpg
+  link: https://en.wikipedia.org/wiki/Royal_Blood_(album)
+  youtube: https://www.youtube.com/playlist?list=PLfP644l045L736o0t6hXl-6l4Fw9-R7hQ
+
 - title: Run The Jewels
   artist: Run The Jewels
   year: 2013
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/2b/c5/d42bc5f7-7ca5-2b31-b5e1-e4059b7a0d05/853895007148.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Run_the_Jewels_(album)
 
+- title: Afro Temple
+  artist: Sabu Martinez
+  year: 1973
+  genre: Latin Jazz, Afrobeat
+  cover: https://upload.wikimedia.org/wikipedia/en/7/71/Sabu_Martinez_-_Afro_Temple.jpg
+  link: https://en.wikipedia.org/wiki/Afro_Temple
+  youtube: https://www.youtube.com/watch?v=5Jv_nJ2vXkQ
+
 - title: Foxbase Alpha
   artist: Saint Etienne
   year: 1991
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/e8/d7/1f/e8d71f4b-e994-ea4b-44fd-4653c010f733/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Foxbase_Alpha
+
+- title: Northern Exposure
+  artist: Sasha And John Digweed
+  year: 1996
+  genre: Progressive House, Trance
+  cover: https://upload.wikimedia.org/wikipedia/en/b/b1/Sasha_and_John_Digweed_-_Northern_Exposure.jpg
+  link: https://en.wikipedia.org/wiki/Northern_Exposure_(Sasha_%26_John_Digweed_album)
+  youtube: https://www.youtube.com/playlist?list=PL9B987E9629C6906A
+
+- title: Angles
+  artist: Scroobius Pip vs Dan Le Sac
+  year: 2008
+  genre: Hip Hop
+  cover: https://upload.wikimedia.org/wikipedia/en/9/9e/Scroobius_Pip_vs_Dan_le_Sac_-_Angles.jpg
+  link: https://en.wikipedia.org/wiki/Angles_(album)
+  youtube: https://www.youtube.com/playlist?list=PL6978D8D442457F44
 
 - title: Grandeza
   artist: Sessa
@@ -1614,6 +1832,14 @@
   link: https://en.wikipedia.org/wiki/Spiderland
   youtube: https://youtu.be/FAApF-FDkoY?si=HJ5UKl632pWtEAsN
 
+- title: Slipknot
+  artist: Slipknot
+  year: 1999
+  genre: Nu Metal
+  cover: https://upload.wikimedia.org/wikipedia/en/1/16/Slipknot_album_cover.jpg
+  link: https://en.wikipedia.org/wiki/Slipknot_(album)
+  youtube: https://www.youtube.com/playlist?list=PL536C2848E9318E64
+
 - title: There's a Riot Goin' On
   artist: Sly & The Family Stone
   year: 1971
@@ -1643,6 +1869,14 @@
   year: 1986
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Queen_Is_Dead
+
+- title: The Stone Roses
+  artist: The Stone Roses
+  year: 1989
+  genre: Madchester, Indie Rock
+  cover: https://upload.wikimedia.org/wikipedia/en/8/8c/The_Stone_Roses_-_The_Stone_Roses.jpg
+  link: https://en.wikipedia.org/wiki/The_Stone_Roses_(album)
+  youtube: https://www.youtube.com/playlist?list=PLvT4iWp4l0nB-J-98K7qg7s-9y-9K5p_Z
 
 - title: Doggystyle
   artist: Snoop Doggy Dogg
@@ -1709,6 +1943,14 @@
   year: 2001
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/18/7b/cf187bcd-029d-5167-bab6-87219f32d95a/078636804521.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Is_This_It
+
+- title: Carrie & Lowell
+  artist: Sufjan Stevens
+  year: 2015
+  genre: Indie Folk
+  cover: https://upload.wikimedia.org/wikipedia/en/b/b2/Sufjan_Stevens_-_Carrie_%26_Lowell.png
+  link: https://en.wikipedia.org/wiki/Carrie_%26_Lowell
+  youtube: https://www.youtube.com/playlist?list=PLb15vXD_Xg8O9yJ0-88V-t6Y6Wj-c_70x
 
 - title: Fuzzy Logic
   artist: Super Furry Animals
@@ -1829,6 +2071,14 @@
   year: 1981
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/6f/14/906f1454-6cd1-e8f5-a148-ef70cf665c5e/06UMGIM42568.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tom_Tom_Club_(album)
+
+- title: Loveplaydance
+  artist: Toshio Matsuura Group
+  year: 2018
+  genre: Jazz, Electronic
+  cover: https://f4.bcbits.com/img/a1144319507_16.jpg
+  link: https://toshiomatsuuragroup.bandcamp.com/album/loveplaydance
+  youtube: https://www.youtube.com/playlist?list=OLAK5uy_n-8tq-tT-g_3J6H868s267jK5P9FwX2_k
 
 - title: A Laughing Death in Meatspace
   artist: Tropical Fuck Storm
