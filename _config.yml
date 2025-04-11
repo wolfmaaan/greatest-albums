@@ -1,11 +1,8 @@
 theme: minima
 title: Greatest Albums of All Time
 description: A list of the very best
-plugins:
-  - jekyll-datapage-generator
-page_gen:
-  - data: albums
-    template: album
-    name: slug
-    dir: "albums"
-    title: "title"
+baseurl: "/greatest-albums"
+collections:
+  albums:
+    output: true
+    permalink: /albums/:slug/
