@@ -9,6 +9,29 @@ title: Greatest Albums of All Time
 {% assign album_count = site.data.albums | size %}
 <p>Total albums submitted: {{ album_count }}</p>
 
+{% assign year_counts = {} %}
+{% for album in site.data.albums %}
+  {% assign year = album.year | stringify %}
+  {% if year_counts[year] %}
+    {% assign year_counts = year_counts | merge: {{ year }}: {{ year_counts[year] | plus: 1 }} %}
+  {% else %}
+    {% assign year_counts = year_counts | merge: {{ year }}: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% assign most_popular_year = nil %}
+{% assign max_count = 0 %}
+
+{% for year in year_counts %}
+  {% if year[1] > max_count %}
+    {% assign max_count = year[1] %}
+    {% assign most_popular_year = year[0] %}
+  {% endif %}
+{% endfor %}
+
+<p>The most popular year for music in this list is <strong>{{ most_popular_year }}</strong> with {{ max_count }} albums.</p>
+
+
 <input type="text" id="searchInput" placeholder="Search albums..." onkeyup="filterAlbums()">
 <select id="sortSelect" onchange="sortAlbums()">
   <option value="title">Sort by Title</option>
