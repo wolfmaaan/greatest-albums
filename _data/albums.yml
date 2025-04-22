@@ -4,7 +4,7 @@
   slug: 808-90
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/44/56/71/445671c3-a899-7888-d632-663521df8506/20UMGIM87814.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/90_(album)
-  discogs: 
+  discogs: 52827
   review: https://www.sputnikmusic.com/review/89045/808-State-Ninety/
   youtube: https://www.youtube.com/watch?v=3xVPwp5CkXA
 
@@ -34,94 +34,102 @@
   slug: ag-friends
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/14/a1/9314a1c8-46ce-ec91-7568-5965ce5d7356/859719029600_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Friends_of_Mine_(Adam_Green_album)
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 960858
+  review: https://www.sputnikmusic.com/review/9303/Adam-Green-Friends-of-Mine/
+  youtube: https://www.youtube.com/watch?v=9AnUaPbfNuY
 
 - title: Gemstones
   artist: Adam Green
   year: 2005
   slug: ag-gemstones
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0e/43/2a/0e432a65-efe6-e3a8-c346-5cd29e3965d4/859719033409_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Gemstones_(album)
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 412599
+  review: https://pitchfork.com/reviews/albums/3627-gemstones/
+  youtube: https://www.youtube.com/watch?v=mvBABurDhAw
 
 - title: Moon Safari
   artist: Air
   year: 1998
   slug: air-moonsafari
+  genre: Electronic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/ed/cf/a2/edcfa2bc-4a9a-75f6-80b5-6576d826742c/dj.romspvqk.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Moon_Safari
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 2798033
+  review: https://thequietus.com/opinion-and-essays/anniversary/air-moon-safari-review-anniversary/
+  youtube: https://www.youtube.com/watch?v=3XTV6pkQne0
 
 - title: Jagged Little Pill
   artist: Alanis Morrisette
   year: 1995
   slug: alanis-jagged
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/6a/5e/786a5eb8-e00f-c2af-89ec-36adb97dfefc/603497845958.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Jagged_Little_Pill
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 750272
+  review: https://www.albumoftheyear.org/user/implicitdoom/album/3939-jagged-little-pill/
+  youtube: https://www.youtube.com/watch?v=_DBP9OWIyB0
 
 - title: Ptah, the El Daoud
   artist: Alice Coltrane with Pharoah Sanders
   year: 1970
   slug: alice-ptah
+  genre: Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/c5/2a/71c52a48-cd92-fb2b-f74e-c1edf51a25f1/06UMGIM04794.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ptah,_the_El_Daoud
-  discogs: 
-  review: 
-  youtube: https://www.youtube.com/playlist?list=OLAK5uy_k5g-tNq408m0s7x7l0m0m7g8e4g6v0y68
+  discogs: 385862
+  review: https://www.sputnikmusic.com/review/89405/Alice-Coltrane-Ptah-The-El-Daoud/
+  youtube: https://www.youtube.com/watch?v=BiMHewopOAY
 
 - title: Journey in Satchidananda
   artist: Alice Coltrane
   year: 1971
   slug: alice-satchidananda
+  genre: Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/5c/40/af5c40a1-54b1-855d-3da2-f875efbd8372/06UMGIM04169.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Journey_in_Satchidananda
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 549847
+  review: https://pitchfork.com/reviews/albums/alice-coltrane-journey-in-satchidananda/
+  youtube: https://www.youtube.com/watch?v=thVfao_p3hU
 
 - title: World Galaxy
   artist: Alice Coltrane with Strings
   year: 1971
   slug: alice-worldgalaxy
+  genre: Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/fc/2b/08fc2b45-3ff2-56e3-dbd6-463a51875bea/00602465452822.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/World_Galaxy
-  discogs: 
-  review: 
-  youtube: https://www.youtube.com/playlist?list=OLAK5uy_n767x_0yT_bYh3q0R4k8s6w9l4
+  discogs: 385859
+  review: https://insheepsclothinghifi.com/album/alice-coltrane-world-galaxy/
+  youtube: https://www.youtube.com/watch?v=hJyncnM7jZk
 
 - title: Supermodified
   artist: Amon Tobin
   year: 2000
-  slug: supermodified
+  slug: amon-supermodified
+  genre: Electronic
   cover: https://upload.wikimedia.org/wikipedia/en/a/af/Amon_Tobin-Supermodified.jpg
   link: https://en.wikipedia.org/wiki/Supermodified_(album)
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 31128
+  review: https://pitchfork.com/reviews/albums/8082-supermodified/
+  youtube: https://www.youtube.com/watch?v=W6M5_sCIIYI
 
 - title: Back to Black
   artist: Amy Winehouse
   year: 2006
-  slug: backtoblack
+  slug: amy-backtoblack
+  genre: Funk / Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Back_to_Black
-  discogs: 
-  review:  
-  youtube: 
+  discogs: 2848009
+  review: https://www.theguardian.com/music/2019/sep/13/best-album-21st-century-amy-winehouse-back-to-black
+  youtube: https://www.youtube.com/watch?v=N2iN1nXH3MM
 
 - title: Merriweather Post Pavilion
   artist: Animal Collective
   year: 2009
-  slug: merriweather
+  slug: ac-merriweather
   genre: Indie Rock, Experimental, Psychedelic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/79/67/64796709-9482-2221-b1b7-64cdbe1b99f2/dj.fuppzyzi.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Merriweather_Post_Pavilion
@@ -138,37 +146,40 @@
   link: https://en.wikipedia.org/wiki/Anna_Calvi_(album)
   discogs: 2668379
   review: https://pitchfork.com/reviews/albums/15153-anna-calvi/
-  bandcamp: '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2823970726/size=small/bgcol=ffffff/linkcol=e99708/artwork=none/transparent=true/" seamless><a href="https://annacalvi.bandcamp.com/album/anna-calvi">Anna Calvi by Anna Calvi</a></iframe>'
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=PBrhb11Gbz0
 
 - title: Funeral
   artist: Arcade Fire
   year: 2004
-  slug: funeral
+  slug: arcade-funeral
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/09/6e/2b096e8c-ae65-fc42-a4b1-19abb4100433/886446576442.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Funeral_(album)
+  discogs: 409021
   review: https://pitchfork.com/reviews/albums/452-funeral/
-  bandcamp: 
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=qg7XMMAuCJo
 
 - title: Humbug
   artist: Arctic Monkeys
   year: 2009
-  slug: humbug
-  genre: 
+  slug: arctic-humbug
+  genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/07/92/4a0792a5-03c9-10d8-a60c-94fa8bb6508a/mzi.nlrajrgr.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Humbug_(album)
-  youtube: 
+  discogs: 1895502
+  review: https://pitchfork.com/reviews/albums/13374-humbug/
+  youtube: https://www.youtube.com/watch?v=BxCUhVgJ2PY
 
 - title: I Haven't Got Anything Better To Do
   artist: Astrud Gilberto
   year: 1969
-  slug: bettertodo
-  genre: 
+  slug: astrud-better
+  genre: Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/82/d9/de/82d9de0e-5864-91ad-1885-cb1782061888/00602537858798.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/I_Haven%27t_Got_Anything_Better_to_Do
-  youtube: 
+  discogs: 2072973
+  review: https://goodsinginggum.com/2022/01/24/album-of-the-week-astrud-gilbertos-i-havent-got-anything-better-to-do-1969/
+  youtube: https://www.youtube.com/watch?v=mxxGYEDmLhk
 
 - title: Relationship Of Command
   artist: At The Drive-In
@@ -177,6 +188,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/64/e9/c064e951-85af-2d13-2ade-5b1e60a0d344/887845506221.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Relationship_of_Command
+  discogs: 
+  review: 
   youtube: 
 
 - title: The B-52s
@@ -186,6 +199,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/9a/2b/929a2bd6-7417-77f3-2cc5-c307ca59281e/15UMGIM22248.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_B-52%27s_(album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: The Night Chancers
@@ -195,6 +210,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/8f/22/218f2221-b211-4f3d-ed0a-c4fbb52847e4/5400863022914_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Night_Chancers
+  discogs: 
+  review: 
   youtube: 
 
 - title: Licensed to Ill
@@ -204,6 +221,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Licensed_to_Ill
+  discogs: 
+  review: 
   youtube: 
 
 - title: Paul's Boutique
@@ -213,6 +232,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/8c/46/638c461c-7bdd-5181-13c5-619b9c178a9f/13UABIM29394.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Paul%27s_Boutique
+  discogs: 
+  review: 
   youtube: 
 
 - title: Ill Communication
@@ -222,6 +243,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ill_Communication
+  discogs: 
+  review: 
   youtube: 
 
 - title: Pet Sounds
@@ -231,6 +254,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/bb/c4/35bbc4eb-9387-97b0-b138-64b7a949ea43/13UABIM03512.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pet_Sounds
+  discogs: 
+  review: 
   youtube: 
 
 - title: Rubber Soul
@@ -240,6 +265,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rubber_Soul
+  discogs: 
+  review: 
   youtube: 
 
 - title: Revolver
@@ -249,6 +276,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/4a/10/584a1058-de0a-6a6b-d0bd-da09a028b8bc/00602567705499.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Revolver_(album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Sgt. Pepper's Lonely Hearts Club Band
@@ -258,6 +287,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/79/8d/6f798d84-7475-8525-fc91-f7b51b2b5a9b/00602567725428.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band
+  discogs: 
+  review: 
   youtube: 
 
 - title: White Album
@@ -267,6 +298,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/5b/89/fa5b898d-bad6-e053-4195-260e5c74f2bb/00602567725466.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Beatles_(album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Abbey Road
@@ -276,6 +309,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/53/43/485343e3-dd6a-0034-faec-f4b6403f8108/13UMGIM63890.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Abbey_Road
+  discogs: 
+  review: 
   youtube: 
 
 - title: Odelay
@@ -285,6 +320,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8d/bd/6f/8dbd6f98-5445-2673-153b-d77f0e272e1c/00720642490822.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Odelay
+  discogs: 
+  review: 
   youtube: 
 
 - title: Midnight Vultures
@@ -294,6 +331,8 @@
   genre: 
   cover: https://upload.wikimedia.org/wikipedia/en/d/db/BeckMidniteVultures.jpg
   link: https://en.wikipedia.org/wiki/Midnight_Vultures
+  discogs: 
+  review: 
   youtube: 
 
 - title: Postindustrial Hometown Blues
@@ -303,6 +342,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d8/99/8fd899c0-cbf0-e82f-8885-204ac3b8e9e3/822166000256_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Postindustrial_Hometown_Blues
+  discogs: 
+  review: 
   youtube: 
 
 - title: Dragon New Warm Mountain I Believe In You
@@ -312,6 +353,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/c8/ea/14c8ea65-2155-8d44-f0c5-6faa8f51f95d/191400040878.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dragon_New_Warm_Mountain_I_Believe_in_You
+  discogs: 
+  review: 
   youtube: 
 
 - title: A Bad Wind Blows In My Heart
@@ -321,6 +364,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/f9/ba/4cf9bac5-807b-aa92-e5d3-93bf02396fc5/billryderjones_abadwind.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Bad_Wind_Blows_in_My_Heart
+  discogs: 
+  review: 
   youtube: 
 
 - title: Junkyard
@@ -330,6 +375,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/b0/88/56b088e0-a3d2-f560-9511-08b32bb53d12/652637020786.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Junkyard_(album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Debut
@@ -339,6 +386,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/b0/57/dbb05765-70f8-9e0e-0a60-6d7cd71ef3d9/5016958995065.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Debut_(Bj%C3%B6rk_album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Ants From Up There
@@ -348,6 +397,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/83/4f/3e834feb-a778-0df8-6c1b-83afddc888da/5054429151442.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ants_from_Up_There
+  discogs: 
+  review: 
   youtube: 
 
 - title: Enema of The State
@@ -357,6 +408,8 @@
   genre: 
   cover: https://a5.mzstatic.com/us/r1000/0/Music221/v4/c1/3d/86/c13d8619-0794-ceee-6b1b-d0709119a9cf/16UMGIM35657.rgb.jpg
   link: https://en.m.wikipedia.org/wiki/Enema_of_the_State
+  discogs: 
+  review: 
   youtube: 
 
 - title: Silent Alarm
@@ -366,6 +419,8 @@
   genre: silentalarm
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/f3/40/bff340ad-740a-25dc-2a68-0c8bd28b52ae/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Silent_Alarm
+  discogs: 
+  review: 
   youtube: 
 
 - title: Parallel Lines
@@ -375,6 +430,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/1e/01/b01e0139-3640-a161-ef5c-027451d30c48/00724353359959.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Parallel_Lines
+  discogs: 
+  review: 
   youtube: 
 
 - title: Parklife
@@ -384,6 +441,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/71/66/8a71664b-3baa-537b-e008-b32d86da27bc/5099997227755.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Parklife
+  discogs: 
+  review: 
   youtube: 
 
 - title: The Ballad of Darren
@@ -393,6 +452,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/5e/55/255e55f8-46d3-ebeb-c742-d67aa2181093/5054197688263.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Ballad_of_Darren
+  discogs: 
+  review: 
   youtube: 
 
 - title: Music Has the Right to Children
@@ -402,6 +463,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b5/4c/c2/b54cc20d-03f5-f2c4-4a0d-9b51ad65af89/dj.txuslqgv.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Music_Has_the_Right_to_Children
+  discogs: 
+  review: 
   youtube: 
 
 - title: Geogaddi
@@ -411,6 +474,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/77/7c/2e777c13-60e3-c231-8be0-b0d43dc91598/mzi.yseuvnlj.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Geogaddi
+  discogs: 
+  review: 
   youtube: 
 
 - title: Highway 61 Revisited
@@ -420,6 +485,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/ff/c0/f8ffc056-55b4-2033-657d-32492d1eea25/827969239926.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Highway_61_Revisited
+  discogs: 
+  review: 
   youtube: 
 
 - title: Blonde on Blonde
@@ -429,6 +496,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/9d/bf/209dbf58-f698-7181-33de-0c29480beba0/074640084126.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Blonde_on_Blonde
+  discogs: 
+  review: 
   youtube: 
 
 - title: Blood on the Tracks
@@ -438,6 +507,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/6e/4d/346e4d1c-c9ef-cf7f-96d9-aad97286febb/074643323529.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Blood_on_the_Tracks
+  discogs: 
+  review: 
   youtube: 
 
 - title: The Bravest Man In The Universe
@@ -447,6 +518,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/0f/f5/f50ff522-9217-5f82-281f-9ce814bacf75/634904056155.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Bravest_Man_in_the_Universe
+  discogs: 
+  review: 
   youtube: 
 
 - title: Natty Dread
@@ -456,6 +529,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b9/ec/9f/b9ec9f4a-c4f1-5136-7587-86826e28d67b/06UMGIM34964.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Natty_Dread
+  discogs: 
+  review: 
   youtube: 
 
 - title: Exodus
@@ -465,6 +540,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/fa/f8/23faf820-c4fa-2bf1-d672-846971f5cf5c/06UMGIM31355.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_&_The_Wailers_album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: My Life In The Bush Of Ghosts
@@ -474,6 +551,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/45/2c/5e/452c5ea2-7f65-e5df-4874-c4ef2f6b3fb5/00094633134157.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/My_Life_in_the_Bush_of_Ghosts
+  discogs: 
+  review: 
   youtube: 
 
 - title: Thank God for Mental Illness
@@ -483,6 +562,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/b1/57/62b15715-aa07-dcea-504a-e6efd304ca73/689492067229.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Thank_God_for_Mental_Illness
+  discogs: 
+  review: 
   youtube: 
 
 - title: Who Killed Sgt. Pepper?
@@ -492,6 +573,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/55/05/90550589-4678-aa42-14f4-f0a589112006/5055300312259.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Who_Killed_Sgt._Pepper%3F
+  discogs: 
+  review: 
   youtube: 
 
 - title: The Noise Made by People
@@ -501,6 +584,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/b4/9f/20b49faf-2f6b-53a1-6747-9496f6841fd3/mzi.jskzhdnu.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Noise_Made_by_People
+  discogs: 
+  review: 
   youtube: 
 
 - title: The Beach Boys Vs J Dilla - Pet Sounds- In The Key Of Dee
@@ -510,6 +595,8 @@
   genre: Mashup, Electronic, Hip Hop
   cover: https://i1.sndcdn.com/artworks-000098112456-8ny0kr-t500x500.jpg
   link: https://www.discogs.com/Bullion-Presents-The-Beach-Boys-Vs-J-Dilla-Pet-Sounds-In-The-Key-Of-Dee/release/1958588
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/playlist?list=OLAK5uy_lG54414B-6fEaG726bW-4C9m1I1-4Qo740
 
 - title: Locust Abortion Technician
@@ -519,6 +606,8 @@
   genre: Krautrock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/eb/31/5feb31cc-2a75-7244-a16a-7c059933202a/191401199063.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Locust_Abortion_Technician
+  discogs: 
+  review: 
   youtube: 
 
 - title: Tago Mago
@@ -528,6 +617,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/91/a5/de/91a5deb0-de1a-995d-875a-7431d09f344d/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tago_Mago
+  discogs: 
+  review: 
   youtube: 
 
 - title: Future Days
@@ -537,6 +628,8 @@
   genre: Krautrock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/4d/94/41/4d944109-79bd-76ee-8f02-d5ae5f96946e/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Future_Days
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/watch?v=H46jS-b2z787
 
 - title: Trout Mask Replica
@@ -546,6 +639,8 @@
   genre: 
   cover: https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Trout_Mask_Replica.png/250px-Trout_Mask_Replica.png
   link: https://en.wikipedia.org/wiki/Trout_Mask_Replica
+  discogs: 
+  review: 
   youtube: 
 
 - title: Tapestry
@@ -555,6 +650,8 @@
   genre: Pop, Soft Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/playlist?list=PL091A24367D98902C
 
 - title: Pompeii
@@ -564,6 +661,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/1e/2b/a31e2bfc-fe05-e95b-4b94-343a2cc43bc6/184923131567_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pompeii_(Cate_Le_Bon_album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Tea for the Tillerman
@@ -573,6 +672,8 @@
   genre: Folk Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/4f/5a/cd4f5a23-598e-dc04-eb84-4ebd6d0019b4/20UMGIM61780.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tea_for_the_Tillerman
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/playlist?list=PLt9Jg571M2x6n-K96j4b_3H-p2D2gU9gP
 
 - title: The Seaside
@@ -582,6 +683,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/0c/ed/850cedfe-d10e-1414-c5b7-f01314e8dd43/dj.mmkztrlg.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Seaside
+  discogs: 
+  review: 
   youtube: 
 
 - title: A Little Man and a House and the Whole World Window
@@ -591,6 +694,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/4f/8c/854f8cb3-f912-2f1e-5a10-c79506623634/mzi.mehxisci.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Little_Man_and_a_House_and_the_Whole_World_Window
+  discogs: 
+  review: 
   youtube: 
 
 - title: No More Idols
@@ -600,6 +705,8 @@
   genre: 
   cover: https://a5.mzstatic.com/us/r1000/0/Music221/v4/3e/06/f2/3e06f23e-3722-42a8-64e2-ef12d872adcf/10UMGIM33675.rgb.jpg
   link: https://en.m.wikipedia.org/wiki/No_More_Idols
+  discogs: 
+  review: 
   youtube: 
 
 - title: Rest
@@ -609,6 +716,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/a2/38/68a238ed-1df0-0518-6880-db47589c8264/5060525431784_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rest_(Charlotte_Gainsbourg_album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Surrender
@@ -618,6 +727,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/23/d9/3023d9d2-f5de-2711-8bb6-5febff1a7baa/00724384761059.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Surrender_(The_Chemical_Brothers_album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Iradelphic
@@ -627,6 +738,8 @@
   genre: Electronic, IDM
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/6f/c7/d2/6fc7d212-9dd5-8cae-f078-7ca6908d56b2/0801061022235.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Iradelphic
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/watch?v=H46jS-b2z785
 
 - title: Cold Krush Cuts [CD 1]
@@ -636,6 +749,8 @@
   genre: Electronic, Trip Hop, Turntablism
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/05/28/db0528f4-f9d8-ea97-44c5-a447f2869b8f/5054429193923.png/600x600bb.jpg
   link: https://www.discogs.com/Coldcut-Vs-DJ-Food-Cold-Krush-Cuts/release/10886
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/watch?v=H46jS-b2z783
 
 - title: Forever Dolphin Love
@@ -645,6 +760,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/96/f6/b996f67a-1653-eb36-4971-f4e81d04a0cd/184923116649_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Forever_Dolphin_Love
+  discogs: 
+  review: 
   youtube: 
 
 - title: Paranoid Cocoon
@@ -655,6 +772,8 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/dc/0f/94/mzi.smpmhtzh.tif/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Paranoid_Cocoon
   review: https://www.metacritic.com/music/paranoid-cocoon/cotton-jones
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/watch?v=EtgTcPiALbM&list=PLD865gEvap8nFzzKIv_yh_OsNxZtmly33
 
 - title: Tellin' Stories
@@ -664,6 +783,8 @@
   genre: Britpop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/0a/af/620aaf08-68d8-37f6-b83d-0fe4d6cf8f9e/607618079086.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tellin%27_Stories
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/playlist?list=PL9433E74565360405
 
 - title: The Coral
@@ -673,6 +794,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/c2/f6/45/c2f64501-19b7-90cf-0560-52f5eaa610fc/886445746112.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Coral_(album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Nightfreak and the Sons of Becker
@@ -682,6 +805,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/91/c8/3a/mzi.wzwppwei.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Nightfreak_and_the_Sons_of_Becker
+  discogs: 
+  review: 
   youtube: 
 
 - title: Sometimes I Sit and Think, and Sometimes I Just Sit
@@ -691,6 +816,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/de/91/45de91d1-ee47-53fa-0c0a-3b875bf7d6c7/5060186926773.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sometimes_I_Sit_and_Think%2C_and_Sometimes_I_Just_Sit
+  discogs: 
+  review: 
   youtube: 
 
 - title: Men's Needs, Women's Needs, Whatever
@@ -700,6 +827,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/f9/3e/18f93e9f-3dc7-1017-f9af-e8872dd5ae41/5055036271264_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Men%27s_Needs%2C_Women%27s_Needs%2C_Whatever
+  discogs: 
+  review: 
   youtube: 
 
 - title: In the Belly of the Brazen Bull
@@ -709,6 +838,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d5/5a/a2/d55aa2d6-636e-f44e-dc74-20c5582d4ee0/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_the_Belly_of_the_Brazen_Bull
+  discogs: 
+  review: 
   youtube: 
 
 - title: Curtis
@@ -718,6 +849,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/37/7e/f9377e37-bad1-6aee-c672-a9a0bf37cdd4/081227847562.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Curtis_(album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Alive 2007
@@ -727,6 +860,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b7/15/5f/b7155f62-f93a-2fe7-d98d-cc19240b4bd0/5099951165857_1500x1500_300dpi.jpg/600x600bb.jpg
   link: https://en.m.wikipedia.org/wiki/Alive_2007
+  discogs: 
+  review: 
   youtube: 
 
 - title: TRON- Legacy Reconfigured
@@ -736,6 +871,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f3/ff/7d/f3ff7d57-3d4c-4ca6-45df-11dcd1fcfe3a/00050087237196.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tron:_Legacy_Reconfigured
+  discogs: 
+  review: 
   youtube: 
 
 - title: Everyday Robots
@@ -745,6 +882,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/cd/fd/4ecdfd6b-ad51-564f-5823-fbbf21861929/825646331338.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Everyday_Robots
+  discogs: 
+  review: 
   youtube: 
 
 - title: The Dandy Warhols Come Down
@@ -754,6 +893,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/22/fa/5f22fa6b-6160-c872-0127-f0bd62f49d8f/5400863129927_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Dandy_Warhols_Come_Down
+  discogs: 
+  review: 
   youtube: 
 
 - title: Hi, How Are You?
@@ -763,6 +904,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/70/559f70c6-64e6-1580-07d9-dcee3af82d2e/196006261788.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Hi,_How_Are_You%3F
+  discogs: 
+  review: 
   youtube: 
 
 - title: Hunky Dory
@@ -772,6 +915,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/b9/68/f0b9680e-b028-b3d6-f793-7c268256499a/825646286034.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Hunky_Dory
+  discogs: 
+  review: 
   youtube: 
 
 - title: The Rise and Fall of Ziggy Stardust and the Spiders from Mars
@@ -781,6 +926,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5f/fa/56/5ffa56c2-ea1f-7a17-6bad-192ff9b6476d/825646124206.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars
+  discogs: 
+  review: 
   youtube: 
 
 - title: Aladdin Sane
@@ -790,6 +937,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/aa/3e/32aa3eeb-830e-e378-dd40-ac2b701066d8/825646123582.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Aladdin_Sane
+  discogs: 
+  review: 
   youtube: 
 
 - title: Low
@@ -799,6 +948,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/49/2d/f7492da6-164e-b023-4b17-937329c35458/190295842895.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Low_(album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Blackstar
@@ -808,6 +959,9 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/c9/0d/cdc90daa-b426-916f-163a-1ff65a6f4108/5054197573972.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Blackstar_(album)
+  discogs: 
+  review: 
+  youtube: 
 
 - title: Love This Giant
   artist: David Byrne and St. Vincent
@@ -816,6 +970,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/bf/c6/ecbfc6ee-1c0c-7a6f-bc00-36e8f5a2b745/652637323153.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Love_This_Giant
+  discogs: 
+  review: 
   youtube: 
 
 - title: Lets Get Killed
@@ -825,6 +981,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b3/80/75/b380756f-4e28-1e0f-0e9c-5207489e50ce/00731453910027.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Let%27s_Get_Killed
+  discogs: 
+  review: 
   youtube: 
 
 - title: Decius Vol. II (Splendour & Obedience)
@@ -834,6 +992,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/eb/21/29eb2135-04cd-99b4-e0b3-6dc23e763c4a/104966.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Decius_Vol._II_(Splendour_%26_Obedience)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Adrenaline
@@ -842,6 +1002,8 @@
   genre: Alternative Metal
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Adrenaline_(Deftones_album)
+  discogs: 
+  review: 
   youtube: https://www.youtube.com/playlist?list=PL478170A4419713D9
 
 - title: White Pony
@@ -850,6 +1012,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/White_Pony
+  discogs: 
+  review: 
   youtube: 
 
 - title: 3 Feet High and Rising
@@ -858,6 +1022,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/1e/c3/131ec37d-d764-51a6-c800-ace81490e20d/810098502627.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/3_Feet_High_and_Rising
+  discogs: 
+  review: 
   youtube: 
 
 - title: De La Soul Is Dead
@@ -866,6 +1032,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/95/c6/6195c62e-5ab7-da8b-b751-5a488060d728/810098503105.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/De_La_Soul_Is_Dead
+  discogs: 
+  review: 
   youtube: 
 
 - title: Dost 2
@@ -874,6 +1042,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7a/52/b9/7a52b9fa-1dab-cac1-bc02-b25892202630/4062548049299.png/600x600bb.jpg
   link: https://deryayildirimandgrupsimsek.bandcamp.com/album/dost-2
+  discogs: 
+  review: 
   youtube: 
 
 - title: Milo Goes to College
@@ -882,6 +1052,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/af/7b/96af7b2b-effe-a906-5bc9-16c6b7d87c42/669910745755.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Milo_Goes_to_College
+  discogs: 
+  review: 
   youtube: 
 
 - title: Rejoicing In The Hands Of The Golden Empress
@@ -890,6 +1062,8 @@
   genre: 
   cover: https://upload.wikimedia.org/wikipedia/en/4/40/DB-Rejoicing.jpg
   link: https://en.wikipedia.org/wiki/Rejoicing_in_the_Hands_of_the_Golden_Empress
+  discogs: 
+  review: 
   youtube: 
 
 - title: Q- Are We Not Men? A- We Are Devo!
@@ -898,6 +1072,8 @@
   genre: 
   cover: https://i0.wp.com/proxymusic.club/wp-content/uploads/2018/08/devo-notmendevo.jpg?fit=2280%2C2280&ssl=1
   link: https://en.wikipedia.org/wiki/Q:_Are_We_Not_Men%3F_A:_We_Are_Devo!
+  discogs: 
+  review: 
   youtube: 
 
 - title: Brothers in Arms
@@ -906,6 +1082,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/5c/4b/e65c4bc3-c707-7502-bff1-550815956bc6/21UMGIM32483.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Brothers_in_Arms
+  discogs: 
+  review: 
   youtube: 
 
 - title: Kaleidoscope
@@ -914,6 +1092,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/cb/af/f6/mzi.afkihiwm.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Kaleidoscope_(DJ_Food_album)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Endtroducing
@@ -922,6 +1102,8 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/14/6d/0d146d5c-44c5-22e2-c596-2242180f4774/5400863103361_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Endtroducing.....
+  discogs: 
+  review: 
   youtube: 
 
 - title: Valentia
@@ -930,6 +1112,8 @@
   genre: 
   cover: https://f4.bcbits.com/img/a0170585867_10.jpg
   link: https://en.wikipedia.org/wiki/Calibre_(musician)
+  discogs: 
+  review: 
   youtube: 
 
 - title: Cosmic Wheels
@@ -938,6 +1122,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/8f/cb/da8fcb46-549d-fbfd-08b9-7a60040eeb18/8445490293761.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Cosmic_Wheels
+  discogs: 
   review: 
   youtube: 
 
@@ -947,6 +1132,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/97/e2/ce/97e2ce16-02e1-54f6-3896-dcc55249ff7d/603497838738.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Doors_(album)
+  discogs: 
   review: 
   youtube: 
 
