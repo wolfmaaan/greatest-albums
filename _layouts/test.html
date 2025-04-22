@@ -53,6 +53,15 @@
                 seamless></iframe></p>
         {% endif %}
 
+        {% if album.link %}
+        <p><a href="{{ album.link }}" target="_blank">Wikipedia</a>
+            {% endif %}
+            |
+            {% if album.review %}
+            <a href="{{ album.review }}" target="_blank">Review</a>
+            {% endif %}
+        </p>
+
         {% if album.youtube %}
         {% assign id = album.youtube | split: 'v=' | last | split: '/' | last | split: '&' | first %}
         <div class="youtube-embed" style="margin-top: 2rem;">
@@ -62,14 +71,6 @@
                 allowfullscreen>
             </iframe>
         </div>
-        {% endif %}
-
-        {% if album.link %}
-        <p><a href="{{ album.link }}" target="_blank">More info on Wikipedia</a></p>
-        {% endif %}
-
-        {% if album.review %}
-        <p><a href="{{ album.review }}" target="_blank">Read a review</a></p>
         {% endif %}
     </div>
     {% else %}
