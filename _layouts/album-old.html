@@ -47,20 +47,22 @@
     {% assign album = site.data.albums | where: "slug", page.album_slug | first %}
     {% if album %}
     <div style="text-align: center;">
-        {% if album.discogs %}
-        <p><iframe style="border: 0; width: 600px; height: 600px;"
-                src="https://www.jeanluckhayes.com/EmbeddedDiscogsViewer/discogs_album_embed.html?release={{ album.discogs }}"
-                seamless></iframe></p>
+        <h1>{{ album.title }}</h1>
+        <p><strong>Artist:</strong> {{ album.artist }}</p>
+        <p><strong>Year:</strong> {{ album.year }}</p>
+        <p><strong>Genre:</strong> {{ album.genre }}</p>
+
+        {% if album.cover %}
+        <img src="{{ album.cover }}" alt="Album cover" style="max-width: 300px;">
         {% endif %}
 
         {% if album.link %}
-        <p><a href="{{ album.link }}" target="_blank">Wikipedia</a>
-            {% endif %}
-            |
-            {% if album.review %}
-            <a href="{{ album.review }}" target="_blank">Review</a>
-            {% endif %}
-        </p>
+        <p><a href="{{ album.link }}" target="_blank">More info on Wikipedia</a></p>
+        {% endif %}
+
+        {% if album.review %}
+        <p><a href="{{ album.review }}" target="_blank">Read a review</a></p>
+        {% endif %}
 
         {% if album.youtube %}
         {% assign id = album.youtube | split: 'v=' | last | split: '/' | last | split: '&' | first %}
@@ -71,6 +73,22 @@
                 allowfullscreen>
             </iframe>
         </div>
+        {% endif %}
+
+        {% if album.bandcamp %}
+        <div class="bandcamp" style="margin-top: 2rem;">
+            {{ album.bandcamp | raw }}
+        </div>
+        {% endif %}
+
+        {% if album.youtube %}
+        <p><a href="{{ album.youtube }}" target="_blank">Listen on YouTube</a></p>
+        {% endif %}
+
+        {% if album.discogs %}
+        <p><iframe style="border: 0; width: 600px; height: 600px;"
+                src="https://www.jeanluckhayes.com/EmbeddedDiscogsViewer/discogs_album_embed.html?release={{ album.discogs }}"
+                seamless></iframe></p>
         {% endif %}
     </div>
     {% else %}
