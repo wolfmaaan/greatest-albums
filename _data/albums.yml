@@ -184,35 +184,35 @@
 - title: Relationship Of Command
   artist: At The Drive-In
   year: 2000
-  slug: relationship
-  genre: 
+  slug: atdi-relationship
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/64/e9/c064e951-85af-2d13-2ade-5b1e60a0d344/887845506221.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Relationship_of_Command
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 381186
+  review: https://pitchfork.com/reviews/albums/329-relationship-of-command/
+  youtube: https://www.youtube.com/watch?v=4Uc0uYIU_gE
 
 - title: The B-52s
   artist: The B-52s
   year: 1979
   slug: bfiftytwo
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/9a/2b/929a2bd6-7417-77f3-2cc5-c307ca59281e/15UMGIM22248.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_B-52%27s_(album)
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 141542
+  review: https://pitchfork.com/reviews/albums/the-b-52s-the-b-52s/
+  youtube: https://www.youtube.com/watch?v=47YAcpCa5dM
 
 - title: The Night Chancers
   artist: Baxter Dury
   year: 2020
-  slug: nightchancers
-  genre: 
+  slug: baxter-night
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/8f/22/218f2221-b211-4f3d-ed0a-c4fbb52847e4/5400863022914_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Night_Chancers
-  discogs: 
-  review: 
-  youtube: 
+  discogs: 14946788
+  review: https://thequietus.com/quietus-reviews/baxter-dury-the-night-chancers-review/
+  youtube: https://www.youtube.com/watch?v=x_x9tB2Qsyk
 
 - title: Licensed to Ill
   artist: Beastie Boys
