@@ -61,7 +61,7 @@
             <a href="{{ album.review }}" target="_blank">Review</a>
             {% endif %}
         </p>
-
+        
         {% if album.youtube %}
         {% assign id = album.youtube | split: 'v=' | last | split: '/' | last | split: '&' | first %}
         <div class="youtube-embed" style="margin-top: 2rem;">
@@ -71,6 +71,9 @@
                 allowfullscreen>
             </iframe>
         </div>
+        {% endif %}
+        {% if album.spotify %}
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/{{album.spotify}}?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         {% endif %}
     </div>
     {% else %}

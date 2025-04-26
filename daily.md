@@ -12,6 +12,7 @@ title: Album of the Day
   <p><a hidden id="link" target="_blank">More about this album</a></p>
   <p><a hidden id="review" href="" target="_blank">Read a review</a></p>
   <p><a hidden id="youtube" href="" target="_blank">Listen on YouTube</a></p>
+  <p><a hidden id="spotify" href="" target="_blank">Listen on Spotify</a></p>
 </div>
 
 <script>
@@ -70,5 +71,6 @@ title: Album of the Day
     setLink('link', dailyAlbum.link);
     setLink('review', dailyAlbum.review);
     setLink('youtube', dailyAlbum.youtube);
+    setLink('spotify', `https://open.spotify.com/album/${dailyAlbum.spotify}`);
   }
 </script>
