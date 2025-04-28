@@ -23,5 +23,5 @@
 
 ## Contributors
 
-[@wolfmaaan](https://github.com/wolfmaaan)
+[@wolfmaaan](https://github.com/wolfmaaan)\
 [@thomasorton](https://github.com/thomasorton)
