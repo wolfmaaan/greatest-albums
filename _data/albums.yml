@@ -1091,6 +1091,7 @@
   year: 1995
   genre: Alternative Metal
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/600x600bb.jpg
+  slug: deftones-adrenaline
   link: https://en.wikipedia.org/wiki/Adrenaline_(Deftones_album)
   discogs: 
   review: 
@@ -1102,6 +1103,7 @@
   year: 2000
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/600x600bb.jpg
+  slug: deftones-whitepony
   link: https://en.wikipedia.org/wiki/White_Pony
   discogs: 
   review: 
@@ -1113,6 +1115,7 @@
   year: 1989
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/1e/c3/131ec37d-d764-51a6-c800-ace81490e20d/810098502627.png/600x600bb.jpg
+  slug: delasoul-3feethighandrising
   link: https://en.wikipedia.org/wiki/3_Feet_High_and_Rising
   discogs: 
   review: 
@@ -1124,6 +1127,7 @@
   year: 1991
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/95/c6/6195c62e-5ab7-da8b-b751-5a488060d728/810098503105.png/600x600bb.jpg
+  slug: delasoul-delasoulisdead
   link: https://en.wikipedia.org/wiki/De_La_Soul_Is_Dead
   discogs: 
   review: 
@@ -1135,6 +1139,7 @@
   year: 2022
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7a/52/b9/7a52b9fa-1dab-cac1-bc02-b25892202630/4062548049299.png/600x600bb.jpg
+  slug: deryayildirimgrupsimsek-dost2
   link: https://deryayildirimandgrupsimsek.bandcamp.com/album/dost-2
   discogs: 
   review: 
@@ -1146,6 +1151,7 @@
   year: 1982
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/af/7b/96af7b2b-effe-a906-5bc9-16c6b7d87c42/669910745755.jpg/600x600bb.jpg
+  slug: descendents-milogoestocollege
   link: https://en.wikipedia.org/wiki/Milo_Goes_to_College
   discogs: 
   review: 
@@ -1157,6 +1163,7 @@
   year: 2004
   genre: 
   cover: https://upload.wikimedia.org/wikipedia/en/4/40/DB-Rejoicing.jpg
+  slug: devendra-rejoicing
   link: https://en.wikipedia.org/wiki/Rejoicing_in_the_Hands_of_the_Golden_Empress
   discogs: 
   review: 
@@ -1168,6 +1175,7 @@
   year: 1978
   genre: 
   cover: https://i0.wp.com/proxymusic.club/wp-content/uploads/2018/08/devo-notmendevo.jpg?fit=2280%2C2280&ssl=1
+  slug: devo-arewenotmen
   link: https://en.wikipedia.org/wiki/Q:_Are_We_Not_Men%3F_A:_We_Are_Devo!
   discogs: 
   review: 
@@ -1179,6 +1187,7 @@
   year: 1985
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/5c/4b/e65c4bc3-c707-7502-bff1-550815956bc6/21UMGIM32483.rgb.jpg/600x600bb.jpg
+  slug: direstraits-brothersinarms
   link: https://en.wikipedia.org/wiki/Brothers_in_Arms
   discogs: 
   review: 
@@ -1190,6 +1199,7 @@
   year: 2000
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/cb/af/f6/mzi.afkihiwm.jpg/600x600bb.jpg
+  slug: djfood-kaleidoscope
   link: https://en.wikipedia.org/wiki/Kaleidoscope_(DJ_Food_album)
   discogs: 
   review: 
@@ -1201,6 +1211,7 @@
   year: 1996
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/14/6d/0d146d5c-44c5-22e2-c596-2242180f4774/5400863103361_cover.jpg/600x600bb.jpg
+  slug: djshadow-endtroducing
   link: https://en.wikipedia.org/wiki/Endtroducing.....
   discogs: 
   review: 
@@ -1212,6 +1223,7 @@
   year: 1996
   genre: 
   cover: https://f4.bcbits.com/img/a0170585867_10.jpg
+  slug: dominickmartin-valentia
   link: https://en.wikipedia.org/wiki/Calibre_(musician)
   discogs: 
   review: 
@@ -1223,6 +1235,7 @@
   year: 1973
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/8f/cb/da8fcb46-549d-fbfd-08b9-7a60040eeb18/8445490293761.jpg/600x600bb.jpg
+  slug: donovan-cosmicwheels
   link: https://en.wikipedia.org/wiki/Cosmic_Wheels
   discogs: 
   review: 
@@ -1234,6 +1247,7 @@
   year: 1967
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/97/e2/ce/97e2ce16-02e1-54f6-3896-dcc55249ff7d/603497838738.jpg/600x600bb.jpg
+  slug: thedoors
   link: https://en.wikipedia.org/wiki/The_Doors_(album)
   discogs: 
   review: 
@@ -1244,6 +1258,7 @@
   artist: Dr Dre
   year: 1992
   genre: Hip Hop
+  slug: drdre-thechronic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Chronic
   review: https://pitchfork.com/reviews/albums/dr-dre-the-chronic/
@@ -1254,6 +1269,7 @@
   artist: Dr Dre
   year: 1999
   genre: Hip Hop
+  slug: drdre-2001
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/63/ed/fd63ed6c-178c-7fa9-4844-29a7326bf655/06UMGIM01277.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/2001_(Dr._Dre_album)
   review: https://albumism.com/features/dr-dre-2001-album-anniversary
@@ -1264,6 +1280,7 @@
   artist: Echo & The Bunnymen
   year: 1983
   genre: New Wave
+  slug: echothebunnymen-porcupine
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/23/be/b123be9d-939c-2324-2663-f85c895121d8/s06.vaoqhtmw.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Porcupine_(album)
   review: https://thequietus.com/opinion-and-essays/anniversary/echo-bunnymen-porcupine/
@@ -1274,6 +1291,7 @@
   artist: Echo & The Bunnymen
   year: 1984
   genre: New Wave
+  slug: echothebunnymen-oceanrain
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/99/89/2d998936-e611-01a4-1a49-f29d8215666a/mzi.ocbcfibz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ocean_Rain
   review: https://thequietus.com/opinion-and-essays/anniversary/echo-and-the-bunnymen-ocean-rain-review/
@@ -1284,6 +1302,7 @@
   artist: Eels
   year: 1996
   genre: Alternative Rock
+  slug: eels-beautifulfreak
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/18/df/09/18df09a9-e8c5-02c4-e00f-fe20e5e97ad9/5400863103811_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Beautiful_Freak
   review: https://latetothegame.blog/2018/05/01/stand-out-albums-eels-beautiful-freak-1996/
@@ -1294,6 +1313,7 @@
   artist: Electric Light Orchestra
   year: 1977
   genre: Prog Rock, Symphonic Rock, Classic Rock, Pop Rock
+  slug: elo-outoftheblue
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/0f/f9/2c0ff9b3-693b-5690-a17d-641076ae3140/886445593945.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Out_of_the_Blue
   review: https://pitchfork.com/reviews/albums/9922-out-of-the-blue/
@@ -1304,6 +1324,7 @@
   artist: Elton John
   year: 1973
   genre: Pop Rock
+  slug: eltonjohn-goodbyeyellowbrickroad
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/60/b6/b360b655-4d28-179d-d0d4-4e128ebdf4c9/13UAEIM19273.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road
   review: https://www.rollingstone.com/music/music-album-reviews/goodbye-yellow-brick-road-249137/
@@ -1314,6 +1335,7 @@
   artist: Eminem
   year: 2000
   genre: Hip Hop
+  slug: eminem-themarshallmatherslp
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/76/f4/f776f482-406b-301a-4145-14617d0b8cf5/00606949062927.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP
   review: https://pitchfork.com/reviews/albums/eminem-the-marshall-mathers-lp/
@@ -1324,6 +1346,7 @@
   artist: Empire Of The Sun
   year: 2008
   genre: Pop Rock, Synth-pop
+  slug: empireofthesun-walkingonadream
   cover: https://a5.mzstatic.com/us/r1000/0/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg
   link: https://en.m.wikipedia.org/wiki/Walking_on_a_Dream_(album)
   review: https://pitchfork.com/reviews/albums/12484-walking-on-a-dream/
@@ -1334,6 +1357,7 @@
   artist: English Teacher
   year: 2024
   genre: Alternative Rock, Post-Punk
+  slug: englishteacher-thiscouldbetexas
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/40/d5/72/40d57277-b6cc-2750-2c30-675aaa767d2e/23UM1IM56861.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/This_Could_Be_Texas
   review: https://pitchfork.com/reviews/albums/english-teacher-this-could-be-texas/
@@ -1344,6 +1368,7 @@
   artist: Eric B & Rakim
   year: 1987
   genre: Hip Hop
+  slug: ericbrakim-paidinfull
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/78/da/2e78da25-1192-2372-d044-a90278bb09c5/06UMGIM63977.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Paid_in_Full
   review: https://pitchfork.com/reviews/albums/11734-paid-in-full-follow-the-leader/
@@ -1354,6 +1379,7 @@
   artist: Faith No More
   year: 1989
   genre: Alternative Metal, Funk Metal, Alternative Rock
+  slug: faithnomore-therealthing
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/66/6c/1c666c64-4140-05c4-296b-54e8a69cb983/mzi.pqhqsipo.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Real_Thing_(album)
   review: https://pitchfork.com/reviews/albums/20606-faith-no-more-the-real-thing-angel-dust/
@@ -1364,6 +1390,7 @@
   artist: The Fall
   year: 1985
   genre: Post-Punk, Punk, New Wave
+  slug: thefall-thisnationssavinggrace
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ef/6e/d9/ef6ed92c-cfbd-5499-ee9f-777a21c810c7/607618006709.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/This_Nation%27s_Saving_Grace
   review: https://www.theguardian.com/music/2011/dec/15/the-fall-nations-grace-review
@@ -1374,6 +1401,7 @@
   artist: Fatboy Slim
   year: 1998
   genre: Electronic
+  slug: fatboyslim-youvecomealongwaybaby
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/97/04/52/97045290-59ff-5f50-6cee-28594a376ae3/5025425551130.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/You%27ve_Come_a_Long_Way,_Baby
   review: https://pitchfork.com/reviews/albums/fatboy-slim-youve-come-a-long-way-baby/
@@ -1384,6 +1412,7 @@
   artist: Fat White Family
   year: 2019
   genre: Psychedelic Rock, Experimental
+  slug: fatwhitefamily-serfsup
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/08/0d/77080d96-cf84-21e6-e6f9-395ad1f4ac13/dj.hulbhakw.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Serfs_Up!
   review: https://www.theguardian.com/music/2019/apr/21/fat-white-family-serfs-up-review-giant-leap-forward
@@ -1394,6 +1423,7 @@
   artist: Fiona Apple
   year: 2020
   genre: Experimental, Art Rock, Indie Pop
+  slug: fionaapple-fetchtheboltcutters
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/b8/12/55b81281-ec56-0bc5-5628-030e683ff7c9/886448398486.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Fetch_the_Bolt_Cutters
   review: https://pitchfork.com/reviews/albums/fiona-apple-fetch-the-bolt-cutters/
@@ -1404,6 +1434,7 @@
   artist: The Flaming Lips
   year: 1999
   genre: Psychedelic Rock, Experimental, Indie Rock, Noise Rock
+  slug: theflaminglips-thesoftbulletin
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/cc/ca/dacccae4-4f00-f451-6051-46d04a7d5099/093624911791.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Soft_Bulletin
   review: https://www.stereogum.com/2042408/flaming-lips-soft-bulletin-turns-20/reviews/the-anniversary/
@@ -1414,6 +1445,7 @@
   artist: The Flaming Lips
   year: 2002
   genre: Experimental, Synth-pop, Indie Rock
+  slug: theflaminglips-yoshimi
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/1f/f5/8f1ff578-4952-563a-7c4a-ab65e040ce95/093624913450.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Yoshimi_Battles_the_Pink_Robots
   review: https://pitchfork.com/reviews/albums/3081-yoshimi-battles-the-pink-robots/
@@ -1424,6 +1456,7 @@
   artist: Fleetwood Mac
   year: 1977
   genre: Rock
+  slug: fleetwoodmac-rumours
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rumours_(album)
   review: https://pitchfork.com/reviews/albums/17499-rumours/
@@ -1434,6 +1467,7 @@
   artist: Fleetwood Mac
   year: 1987
   genre: Rock
+  slug: fleetwoodmac-tangointhenight
   cover: https://a5.mzstatic.com/us/r1000/0/Music125/v4/a3/71/ee/a371eea6-b148-0e47-9170-baf2147c8f7b/603497870066.jpg
   link: https://en.m.wikipedia.org/wiki/Tango_in_the_Night
   review: https://pitchfork.com/reviews/albums/22976-tango-in-the-night-deluxe-edition/
@@ -1444,6 +1478,7 @@
   artist: Flying Lotus
   year: 2014
   genre: Electronic, Jazz Fusion, Hip Hop
+  slug: flyinglotus-youredead
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/c9/d2/7ec9d2f9-5979-0482-70b6-15a98e856d2c/WARP256_Packshot_RGB_2500.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/You%27re_Dead!
   review: https://pitchfork.com/reviews/albums/19875-flying-lotus-youre-dead/
@@ -1454,6 +1489,7 @@
   artist: Fontaines D.C.
   year: 2019
   genre: Indie Rock, Post-Punk
+  slug: fontainesdc-dogrel
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/eb/cc/d4ebcc22-7fa0-1394-1eee-5120724b6d4a/720841216605_Cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dogrel
   review: https://pitchfork.com/reviews/albums/fontaines-dc-dogrel/
@@ -1464,6 +1500,7 @@
   artist: Four Tet
   year: 2003
   genre: Electronic, Leftfield, Downtempo
+  slug: fourtet-rounds
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/4a/82/02/mzi.wggtbdbs.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rounds_(album)
   review: https://pitchfork.com/reviews/albums/3166-rounds/
@@ -1474,6 +1511,7 @@
   artist: Foxygen
   year: 2017
   genre: Psychedelic Rock, Indie Rock
+  slug: foxygen-hang
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d9/5b/9f/d95b9f2c-d8de-7778-bf6f-394472bfc351/dj.bofpfqjq.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Hang_(album)
   review: https://pitchfork.com/reviews/albums/22755-hang/
@@ -1484,6 +1522,7 @@
   artist: Frank Zappa
   year: 1974
   genre: Prog Rock, Jazz-Rock, Fusion, Avantgarde
+  slug: frankzappa-apostrophe
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/27/e4/4227e4f9-784d-3209-9d38-38cbbfcf0907/12UMGIM36704.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Apostrophe_(')
   review: https://www.sputnikmusic.com/review/650/Frank-Zappa-Apostrophe/#google_vignette
@@ -1494,6 +1533,7 @@
   artist: Fugees
   year: 1996
   genre: Hip Hop
+  slug: fugees-thescore
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/66/3f/c3663fe2-5c90-f701-93f8-54d5b56bc1df/888880608932.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Score_(album)
   review: https://pitchfork.com/reviews/albums/fugees-the-score/
@@ -1504,6 +1544,7 @@
   artist: Funkadelic
   year: 1971
   genre: P.Funk, Psychedelic Rock
+  slug: funkadelic-maggotbrain
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/19/49/c4194943-0b41-5987-b2e8-193b74ea70ed/artwork.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Maggot_Brain
   review: https://pitchfork.com/reviews/albums/funkadelic-maggot-brain/
@@ -1514,6 +1555,7 @@
   artist: Gang of Four
   year: 1979
   genre: New Wave
+  slug: gangoffour-entertainment
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/a3/06/cda306e6-3990-978c-2b54-e3638363969c/mzm.mwjizabp.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Entertainment!
   review: https://pitchfork.com/reviews/albums/3389-entertainment/
@@ -1524,6 +1566,7 @@
   artist: George Harrison
   year: 1970
   genre: Rock
+  slug: georgeharrison-allthingsmustpass
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/2a/f4/322af42a-41fd-f52f-e1ee-dc7502bd4bba/0602547025340.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/All_Things_Must_Pass
   review: https://pitchfork.com/reviews/albums/22037-all-things-must-pass/
@@ -1534,6 +1577,7 @@
   artist: Gil Scott-Heron
   year: 1971
   genre: Jazz, Funk / Soul
+  slug: gilscottheron-piecesofaman
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f8/e8/5b/f8e85bc3-8854-a257-9622-524e0dbc7b76/29667527484.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pieces_of_a_Man
   review: https://pitchfork.com/reviews/albums/gil-scott-heron-pieces-of-a-man/
@@ -1544,6 +1588,7 @@
   artist: Gil Scott-Heron
   year: 2010
   genre: Soul
+  slug: gilscottheron-imnewhere
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/7c/b3/037cb34d-8b4d-a98d-241e-486ba57f26be/634904047160.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/I%27m_New_Here
   review: https://pitchfork.com/reviews/albums/13893-im-new-here/
@@ -1554,6 +1599,7 @@
   artist: Goat
   year: 2012
   genre: Krautrock, Tribal, Nordic, Prog Rock
+  slug: goat-worldmusic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/09/ad/6a/09ad6ad8-92a7-2532-9771-2847f852317d/5055300352712.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/World_Music_(Goat_album)
   review: https://pitchfork.com/reviews/albums/17332-world-music/
@@ -1564,6 +1610,7 @@
   artist: Goldie
   year: 1995
   genre: Drum and Bass
+  slug: goldie-timeless
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/0a/a3/f00aa3a7-daec-e9ad-7af3-b417b4bda71c/081227692360.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Timeless_(Goldie_album)
   review: https://www.theguardian.com/music/2011/jun/15/goldie-releases-timeless
@@ -1574,6 +1621,7 @@
   artist: Gomez
   year: 1998
   genre: Indie Rock
+  slug: gomez-bringiton
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/ef/2d/e3ef2dd8-b18c-f821-f475-485211d78f5b/00724384559250.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bring_It_On_(Gomez_album)
   review: https://guitar.com/reviews/album/the-genius-of-bring-it-on-by-gomez/
@@ -1584,6 +1632,7 @@
   artist: The Good, The Bad & The Queen
   year: 2018
   genre: 
+  slug: thegoodthebadthequeen-merrieland
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/cc/28/1bcc280e-c733-2377-54cd-d80dcce8dcc6/190296941238.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Merrie_Land
   review: 
@@ -1594,6 +1643,7 @@
   artist: Gorillaz
   year: 2001
   genre: 
+  slug: gorillaz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Gorillaz_(album)
   review: 
@@ -1604,6 +1654,7 @@
   artist: Gorillaz
   year: 2005
   genre: 
+  slug: gorillaz-demondays
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Demon_Days
   review: 
@@ -1614,6 +1665,7 @@
   artist: Gorillaz
   year: 2010
   genre: 
+  slug: gorillaz-plasticbeach
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Plastic_Beach
   review: 
@@ -1624,6 +1676,7 @@
   artist: Grace Cummings
   year: 2019
   genre: 
+  slug: gracecummings-refugecove
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c5/5a/bc/c55abc22-6b11-2294-4514-b054f3a71e05/9332727100864_Cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Grace_Cummings
   review: 
@@ -1634,6 +1687,7 @@
   artist: Grace Jones
   year: 1981
   genre: 
+  slug: gracejones-nightclubbing
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/7a/76/e57a76bc-7c54-eef0-2b03-3243145734ed/21UMGIM19764.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Nightclubbing_(Grace_Jones_album)
   review: 
@@ -1644,6 +1698,7 @@
   artist: Green Day
   year: 1994
   genre: 
+  slug: greenday-dookie
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/83/e7/8883e74b-1b7c-0725-09de-21e4e00d54b5/093624915713.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dookie
   review: 
@@ -1654,6 +1709,7 @@
   artist: The Gun Club
   year: 1982
   genre: 
+  slug: thegunclub-miami
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/c7/3f/f0c73f16-1a82-f8ed-c21d-9157f982c580/195497578368.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Miami_(The_Gun_Club_album)
   review: 
@@ -1663,6 +1719,7 @@
 - title: Appetite for Destruction
   artist: Guns n Roses
   year: 1987
+  slug: gunsnroses-appetitefordestruction
   genre: Hard Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/4d/c4/a04dc484-03cc-02aa-fa82-5334fcb4bc16/18UMGIM24878.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Appetite_for_Destruction
@@ -1672,6 +1729,7 @@
 - title: Glutton for Punishment
   artist: Heartworms
   year: 2025
+  slug: heartworms-gluttonforpunishment
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/28/28/322828e2-6e5b-9cd2-1bba-6ca16a41fa64/5400863169473_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Glutton_for_Punishment
@@ -1681,6 +1739,7 @@
 - title: Private Energy
   artist: Helado Negro
   year: 2016
+  slug: heladonegro-privateenergy
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/aa/f6/6faaf6f8-8185-67c8-02a4-27f084d843b9/716670165726.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Private_Energy
@@ -1690,6 +1749,7 @@
 - title: Head Hunters
   artist: Herbie Hancock
   year: 1973
+  slug: herbiehancock-headhunters
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4f/e5/f5/4fe5f511-462e-e87b-0711-d4e42809fb17/dj.goshfswo.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Head_Hunters
@@ -1699,6 +1759,7 @@
 - title: Future Shock
   artist: Herbie Hancock
   year: 1983
+  slug: herbiehancock-futureshock
   genre: Electro-funk
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/80/bc/3f/80bc3fd0-44b9-266a-ad03-088acd54f034/dj.qxuqsbxw.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Future_Shock_(album)
@@ -1708,6 +1769,7 @@
 - title: A Different Ship
   artist: Here We Go Magic
   year: 2012
+  slug: herewegomagic-adifferentship
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/f8/3b/52/f83b5216-d4f2-db18-5fef-2bc7e7458e01/dj.xnozbnai.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Different_Ship
@@ -1717,6 +1779,7 @@
 - title: Tawk Tomahawk
   artist: Hiatus Kaiyote
   year: 2012
+  slug: hiatuskaiyote-tawktomahawk
   genre: Neo Soul, Jazz Fusion, Progressive Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/56/b1/f256b166-bdfb-2ee0-c9fb-ca6950129d98/artwork.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tawk_Tomahawk
@@ -1726,6 +1789,7 @@
 - title: Hirth from Earth
   artist: Hirth Martinez
   year: 1975
+  slug: hirthmartinez-hirthfromearth
   genre: Folk Rock, Singer-Songwriter
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m05/d19/h00/s07.ayqgqwlt.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Hirth_from_Earth
@@ -1735,6 +1799,7 @@
 - title: Skylarking
   artist: Horace Andy
   year: 1972
+  slug: horaceandy-skylarking
   genre: Reggae
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d0/36/bc/d036bc66-0d24-db16-72e4-72cb2a1384c5/00724384214951.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Skylarking_(album)
@@ -1744,6 +1809,7 @@
 - title: New Boots and Panties!!
   artist: Ian Dury
   year: 1977
+  slug: iandury-newbootsandpanties
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features/f7/5d/48/dj.sgyjrary.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/New_Boots_and_Panties!!
@@ -1753,6 +1819,7 @@
 - title: AmeriKKKa's Most Wanted
   artist: Ice Cube
   year: 1990
+  slug: icecube-amerikkkasmostwanted
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/62/8c/a1628c8d-f9a9-d278-1a97-ebae7fc3e7d6/00602547276612.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/AmeriKKKa%27s_Most_Wanted
@@ -1762,6 +1829,7 @@
 - title: Lust For Life
   artist: Iggy Pop
   year: 1977
+  slug: iggypop-lustforlife
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/2c/56/fb2c56ca-05ad-f73f-a1b7-9917081db1b9/17UMGIM08423.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Lust_for_Life_(album)
@@ -1771,6 +1839,7 @@
 - title: S.C.I.E.N.C.E.
   artist: Incubus
   year: 1997
+  slug: incubus-science
   genre: Alternative Rock, Funk Metal
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/8c/74/918c742a-e6db-62d7-82bc-c8d963b6501a/mzi.gvjonqqr.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/S.C.I.E.N.C.E.
@@ -1780,6 +1849,7 @@
 - title: 3 + 3
   artist: The Isley Brothers
   year: 1973
+  slug: isleybrothers-33
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/1a/2f/7e1a2f9c-154a-49d0-0484-44550a26da26/mzm.fckxoqtz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/3_%2B_3_(The_Isley_Brothers_album)
@@ -1789,6 +1859,7 @@
 - title: A Livingroom Hush
   artist: Jaga Jazzist
   year: 2001
+  slug: jagajazzist-alivingroomhush
   genre: Nu Jazz, Post-Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/06/ef/f8/mzi.tbdtgmvt.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Livingroom_Hush
@@ -1798,6 +1869,7 @@
 - title: Modern Kosmology
   artist: Jane Weaver
   year: 2017
+  slug: janeweaver-modernkosmology
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/2c/55/722c5548-b4b6-1e20-c447-7dd5d3339b01/809236148407_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Modern_Kosmology
@@ -1807,6 +1879,7 @@
 - title: Kings & Queens
   artist: Jamie T
   year: 2009
+  slug: jamiet-kingsqueens
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/01/b2/1f01b29d-1c98-db7b-f6e0-06a7884e694f/13UABIM52393.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Kings_%26_Queens_(album)
@@ -1816,6 +1889,7 @@
 - title: Oxygene
   artist: Jean-Michel Jarre
   year: 1976
+  slug: jeanmicheljarre-oxygene
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/51/01/8e51015a-6ac5-da6a-f244-c1f936a766a1/0886445417623.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Oxyg%C3%A8ne
@@ -1825,6 +1899,7 @@
 - title: Grace
   artist: Jeff Buckley
   year: 1994
+  slug: jeffbuckley-grace
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album)
@@ -1834,6 +1909,7 @@
 - title: Waveform Transmission Vol. 1
   artist: Jeff Mills
   year: 1993
+  slug: jeffmills-waveformtransmission
   genre: Techno
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/17/e8/6c/mzi.vswtukmi.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Waveform_Transmission_Vol._1
@@ -1843,6 +1919,7 @@
 - title: Live At The Liquid Room, Tokyo
   artist: Jeff Mills
   year: 1996
+  slug: jeffmills-liveattheliquidroomtokyo
   genre: Techno, Live Album
   cover: https://i1.sndcdn.com/artworks-000186620556-mhd0z7-t1080x1080.jpg
   link: https://www.discogs.com/Jeff-Mills-Live-At-The-Liquid-Room-Tokyo/master/1414
@@ -1852,6 +1929,7 @@
 - title: Surrealistic Pillow
   artist: Jefferson Airplane
   year: 1967
+  slug: jeffersonairplane-surrealisticpillow
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/bd/17/5cbd17d6-ceea-e185-e889-ee494cc650da/828765035125.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Surrealistic_Pillow
@@ -1861,6 +1939,7 @@
 - title: U.F.O.
   artist: Jim Sullivan
   year: 1969
+  slug: jimsullivan-ufo
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ce/f6/6d/cef66d7b-41b0-5d17-a104-d707dbb706b9/JimSullivan.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/U.F.O._(Jim_Sullivan_album)
@@ -1870,6 +1949,7 @@
 - title: Are You Experienced?
   artist: Jimi Hendrix
   year: 1967
+  slug: jimihendrix-areyouexperienced
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/52/f2/1452f20c-eedb-5988-177d-33e7d7fe6697/dj.gzmeisav.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Are_You_Experienced
@@ -1879,6 +1959,7 @@
 - title: Futures
   artist: Jimmy Eat World
   year: 2004
+  slug: jimmyeatworld-futures
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/1e/7a/061e7ae6-f0e7-b2e0-9f4e-6caac75011dd/00602498642412.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Futures_(album)
@@ -1888,6 +1969,7 @@
 - title: África Brasil
   artist: Jorge Ben
   year: 1976
+  slug: jorgeben-fricabrasil
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/8f/08/fe8f0815-5573-0fd9-bc5d-3d6a69841d97/07UMGIM12579.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/%C3%81frica_Brasil
@@ -1897,6 +1979,7 @@
 - title: Quality Control
   artist: Jurassic 5
   year: 2000
+  slug: jurassic5-qualitycontrol
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/ff/16/beff16bd-7416-650e-31d9-7aabdb29e55c/5400863132415_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Quality_Control_(Jurassic_5_album)
@@ -1906,6 +1989,7 @@
 - title: To Pimp A Butterfly
   artist: Kendrick Lamar
   year: 2015
+  slug: kendricklamar-topimpabutterfly
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly
@@ -1915,6 +1999,7 @@
 - title: The Universe Smiles Upon You
   artist: Khruangbin
   year: 2015
+  slug: khruangbin-theuniversesmilesuponyou
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/d9/24/08d924cf-3f00-268c-c772-58b7f96b5797/5060391090474_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Universe_Smiles_Upon_You
@@ -1924,6 +2009,7 @@
 - title: Killing Joke
   artist: Killing Joke
   year: 1980
+  slug: killingjoke-killingjoke
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/44/d1/c944d1fb-ceff-9ce2-2a00-2b9e291e0972/5400863147006_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Killing_Joke_(1980_album)
@@ -1933,6 +2019,7 @@
 - title: In The Court of The Crimson King
   artist: King Crimson
   year: 1969
+  slug: kingcrimson-inthecourtofthecrimsonking
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/2f/c7/19/2fc71988-6871-be2c-6731-a3d0f2a6b232/Court_2500px.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_the_Court_of_the_Crimson_King
@@ -1942,6 +2029,7 @@
 - title: I'm In Your Mind Fuzz
   artist: King Gizzard & The Lizard Wizard
   year: 2014
+  slug: kinggizz-iminyourmindfuzz
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/57/19/505719b9-3609-c060-4bc3-2c2761dbf617/5414939801877_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/I%27m_in_Your_Mind_Fuzz
@@ -1951,6 +2039,7 @@
 - title: Quarters
   artist: King Gizzard & The Lizard Wizard
   year: 2015
+  slug: kinggizz-quarters
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/32/c1/fa/32c1fa28-ca9e-2887-b255-cfeb756c622a/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Quarters!
@@ -1960,6 +2049,7 @@
 - title: Nonagon Infinity
   artist: King Gizzard and the Lizard Wizard
   year: 2016
+  slug: kinggizz-nonagoninfinity
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e5/fe/63/e5fe6377-11c1-bea2-0bc6-b4127d1ef4b5/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Nonagon_Infinity
@@ -1969,6 +2059,7 @@
 - title: Flying Microtonal Banana
   artist: King Gizzard & The Lizard Wizard
   year: 2017
+  slug: kinggizz-flyingmicrotonalbanana
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/23/14/9b/23149bb9-8b2e-14aa-b407-08dbfdfd791f/5414939950261_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Flying_Microtonal_Banana
@@ -1978,6 +2069,7 @@
 - title: Polygondwanaland
   artist: King Gizzard & The Lizard Wizard
   year: 2017
+  slug: kinggizz-polygondwanaland
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/83/f6/b0/83f6b0a5-b4be-f29c-0bdb-a64d5e606685/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Polygondwanaland
@@ -1987,6 +2079,7 @@
 - title: Omnium Gatherum
   artist: King Gizzard & The Lizard Wizard
   year: 2022
+  slug: kinggizz-omniumgatherum
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/2d/34/e12d3408-1ac8-3ca2-d00e-f30983a816ed/22UMGIM15617.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Omnium_Gatherum
@@ -1996,6 +2089,7 @@
 - title: Ice, Death, Planets, Lungs, Mushrooms and Lava
   artist: King Gizzard & The Lizard Wizard
   year: 2022
+  slug: kinggizz-icedeathplanetslungsmushroomsandlava
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/6b/96/af6b965d-a1c8-7652-58ed-be34a81c0be3/22UMGIM47432.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ice,_Death,_Planets,_Lungs,_Mushrooms_and_Lava
@@ -2005,6 +2099,7 @@
 - title: The Kinks Are The Village Green Preservation Society
   artist: The Kinks
   year: 1968
+  slug: thekinks-villagegreen
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/19/1c/4b/191c4b01-df7c-638c-7c55-529c71e82447/4050538402223.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Kinks_Are_the_Village_Green_Preservation_Society
@@ -2014,6 +2109,7 @@
 - title: The White Room
   artist: The KLF
   year: 1991
+  slug: theklf-thewhiteroom
   genre: 
   cover: https://upload.wikimedia.org/wikipedia/en/7/7e/The_KLF_-_The_White_Room.jpg
   link: https://en.wikipedia.org/wiki/The_White_Room
@@ -2023,6 +2119,7 @@
 - title: Autobahn
   artist: Kraftwerk
   year: 1974
+  slug: kraftwerk-autobahn
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/a6/b0/49a6b061-cbd8-ede5-446d-dae8b50e3b32/5099996601457.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Autobahn_(album)
@@ -2032,6 +2129,7 @@
 - title: Tour de France
   artist: Kraftwerk
   year: 1983
+  slug: kraftwerk-tourdefrance
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/e3/3c/a4/e33ca4f1-de53-e0e5-d1ef-13efec4a4273/dj.cbjzkonz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tour_de_France_(album)
@@ -2041,6 +2139,7 @@
 - title: Bottle It In
   artist: Kurt Vile
   year: 2018
+  slug: kurtvile-bottleitin
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/a9/3c/2ba93c89-3df4-b71b-5636-d3574f37d686/744861114659.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bottle_It_In
@@ -2050,6 +2149,7 @@
 - title: What Another Man Spills
   artist: Lambchop
   year: 1998
+  slug: lambchop-whatanothermanspills
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/42/98/594298b6-0c76-629b-765b-a3f192153176/4250506815202_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/What_Another_Man_Spills
@@ -2059,6 +2159,7 @@
 - title: The Miseducation of Lauryn Hill
   artist: Lauryn Hill
   year: 1998
+  slug: laurynhill-themiseducationoflaurynhill
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill
@@ -2068,6 +2169,7 @@
 - title: Sound of Silver
   artist: LCD Soundsystem
   year: 2007
+  slug: lcdsoundsystem-soundofsilver
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/fe/a5/fbfea51a-0130-d557-c1f4-9e5e98b7bab8/094638511359.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sound_of_Silver
@@ -2077,6 +2179,7 @@
 - title: Leftism
   artist: Leftfield
   year: 1995
+  slug: leftfield-leftism
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/cc/76/93cc7668-54bc-d18f-1d24-21b70d08fe4f/5099749831025.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Leftism
@@ -2086,6 +2189,7 @@
 - title: Lemonjelly.ky
   artist: Lemon Jelly
   year: 2000
+  slug: lemonjelly-lemonjellyky
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/87/cd/a387cd06-2081-d3d4-e899-cedcb79f30e7/634904013905.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Lemonjelly.ky
@@ -2095,6 +2199,7 @@
 - title: Do Hollywood
   artist: The Lemon Twigs
   year: 2016
+  slug: thelemontwigs-dohollywood
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/36/d8/57/36d85723-8403-4d85-37d4-4eebb03e1660/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Do_Hollywood
@@ -2104,6 +2209,7 @@
 - title: Up The Bracket
   artist: The Libertines
   year: 2002
+  slug: thelibertines-upthebracket
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/68/8a/51688a6c-7e38-7725-cd56-0dbd7072bb9c/609008271261.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Up_the_Bracket
@@ -2112,6 +2218,7 @@
 
 - title: Chocolate Starfish and the Hot Dog Flavored Water
   artist: Limp Bizkit
+  slug: limpbizkit-chocolatestarfish
   year: 2000
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/22/d7/c022d742-bee6-7f53-cd23-dee90303299b/15UMGIM64609.rgb.jpg/600x600bb.jpg
@@ -2121,6 +2228,7 @@
 - title: Sometimes I Might Be Introvert
   artist: Little Simz
   year: 2021
+  slug: littlesimz-sometimesimightbeintrovert
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/08/14/88/0814883a-444f-6447-3eec-6753eb129d5e/5056167162674_1.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sometimes_I_Might_Be_Introvert
@@ -2130,6 +2238,7 @@
 - title: Transformer
   artist: Lou Reed
   year: 1972
+  slug: loureed-transformer
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e7/69/2ae76967-b94e-3b80-a079-93202eeb6157/886445151930.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Transformer_(album)
@@ -2139,6 +2248,7 @@
 - title: Berlin
   artist: Lou Reed
   year: 1973
+  slug: loureed-berlin
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/47/93/ab47936e-b96b-cd80-dd4e-9e30626e72c5/dj.pembshjg.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Berlin_(Lou_Reed_album)
@@ -2148,6 +2258,7 @@
 - title: Forever Changes
   artist: Love
   year: 1967
+  slug: love-foreverchanges
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5a/ee/47/5aee470b-8df3-2b3d-f24e-5f79f24350a9/603497886968.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Forever_Changes
@@ -2157,6 +2268,7 @@
 - title: Logical Progression
   artist: LTJ Bukem
   year: 1996
+  slug: ltjbukem-logicalprogression
   genre: Drum and Bass, Ambient Drum and Bass
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/7e/a6/3c7ea6e2-6f33-4512-69c2-1257aea1fbd5/7640152970665_Cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Logical_Progression
@@ -2166,6 +2278,7 @@
 - title: Salad Days
   artist: Mac DeMarco
   year: 2014
+  slug: macdemarco-saladdays
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/5c/83/4b5c833d-2160-bc68-0905-5b91d2b6732a/817949019495.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Salad_Days_(Mac_DeMarco_album)
@@ -2175,6 +2288,7 @@
 - title: Madvillainy
   artist: Madvillain
   year: 2004
+  slug: madvillain-madvillainy
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/c2/1a/1ac21a9d-3ffd-3f80-dc96-223622b50b5f/Madvillainy.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Madvillainy
@@ -2184,6 +2298,7 @@
 - title: Real Life
   artist: Magazine
   year: 1978
+  slug: magazine-reallife
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/7f/80/9b7f802d-810b-dc29-b089-3d48a757d067/13ULAIM50389.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Real_Life_(Magazine_album)
@@ -2193,6 +2308,7 @@
 - title: Bubblegum
   artist: Mark Lanegan Band
   year: 2004
+  slug: marklaneganband-bubblegum
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/b6/e7/5cb6e780-4d29-3460-932f-1bf60f3cbd85/607618023782.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bubblegum_(Mark_Lanegan_album)
@@ -2202,6 +2318,7 @@
 - title: Phantom Radio
   artist: Mark Lanegan Band
   year: 2014
+  slug: marklaneganband-phantomradio
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/02/b4/02/02b4021b-169e-0c85-4c72-50eaa875d201/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Phantom_Radio
@@ -2211,6 +2328,7 @@
 - title: De-Loused In The Comatorium
   artist: The Mars Volta
   year: 2003
+  slug: themarsvolta-delousedinthecomatorium
   genre: Experimental, Prog Rock, Post-Hardcore
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/93/5c/5c935c52-ae8a-7511-90af-475d0b95c9f3/06UMGIM57032.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/De-Loused_in_the_Comatorium
@@ -2220,6 +2338,7 @@
 - title: What's Going On
   artist: Marvin Gaye
   year: 1971
+  slug: marvingaye-whatsgoingon
   genre: Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/What%27s_Going_On_(album)
@@ -2229,6 +2348,7 @@
 - title: Colour Yes
   artist: Matthew Halsall
   year: 2009
+  slug: matthewhalsall-colouryes
   genre: Modern Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/21/6c/2c/216c2c70-b29c-2bb9-8e51-13cd9c1beb83/5050580718760_cover.jpg/600x600bb.jpg
   link: https://matthewhalsall.bandcamp.com/album/colour-yes
@@ -2238,6 +2358,7 @@
 - title: Blue Lines
   artist: Massive Attack
   year: 1991
+  slug: massiveattack-bluelines
   genre: Trip Hop
   cover: https://upload.wikimedia.org/wikipedia/en/a/a7/MassiveAttackBlueLines.jpg
   link: https://en.m.wikipedia.org/wiki/Blue_Lines
@@ -2247,6 +2368,7 @@
 - title: Mezzanine
   artist: Massive Attack
   year: 1998
+  slug: massiveattack-mezzanine
   genre: Trip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/98/55/0a98555b-8d9d-3b46-660a-b91261557d17/00724384559953.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Mezzanine_(album)
@@ -2256,6 +2378,7 @@
 - title: Heligoland
   artist: Massive Attack
   year: 2010
+  slug: massiveattack-heligoland
   genre: Trip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/89/ea/1389ea43-83fe-6cf2-59df-85216996d80b/05099960946652.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Heligoland_(album)
@@ -2265,6 +2388,7 @@
 - title: 2013
   artist: Meilyr Jones
   year: 2016
+  slug: meilyrjones-2013
   genre: Indie Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e3/8f/f5/e38ff5b1-fc82-f851-9221-16f270ace011/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/2013_(album)
@@ -2274,6 +2398,7 @@
 - title: Black Album
   artist: Metallica
   year: 1991
+  slug: metallica-blackalbum
   genre: Heavy Metal
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/66/6a/34666a28-d0ea-cf3d-3019-759186b14de4/21UMGIM48676.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Metallica_(album)
@@ -2283,6 +2408,7 @@
 - title: Congratulations
   artist: MGMT
   year: 2010
+  slug: mgmt-congratulations
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/00/52/08/mzi.qggckqcd.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Congratulations_(MGMT_album)
@@ -2292,6 +2418,7 @@
 - title: Off the Wall
   artist: Michael Jackson
   year: 1979
+  slug: michaeljackson-offthewall
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/b0/7f/ccb07f0d-1530-00b0-244a-6332daffc2b9/dj.xnuhftrz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Off_the_Wall
@@ -2301,6 +2428,7 @@
 - title: Thriller
   artist: Michael Jackson
   year: 1982
+  slug: michaeljackson-thriller
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Thriller
@@ -2310,6 +2438,7 @@
 - title: Right Time
   artist: Mighty Diamonds
   year: 1976
+  slug: mightydiamonds-righttime
   genre: Reggae
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e5/a7/99/e5a799ba-298c-07e8-2bc1-9c0a33f0cbe6/00724381032954.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Right_Time
@@ -2319,6 +2448,7 @@
 - title: Bitches Brew
   artist: Miles Davis
   year: 1970
+  slug: milesdavis-bitchesbrew
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/e1/63/9be1630c-486d-760c-76cf-04282174700a/074646577424.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bitches_Brew
@@ -2328,6 +2458,7 @@
 - title: Under Construction
   artist: Missy Elliott
   year: 2002
+  slug: missyelliott-underconstruction
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/67/63/8e/67638ee7-4bf1-5bcd-75af-0c7868c23478/dj.mzvpzeqc.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Under_Construction_(album)
@@ -2337,6 +2468,7 @@
 - title: The Moldy Peaches
   artist: The Moldy Peaches
   year: 2001
+  slug: themoldypeaches-themoldypeaches
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/dc/55/b6/mzi.umfxwamr.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Moldy_Peaches_(album)
@@ -2346,6 +2478,7 @@
 - title: Moondog
   artist: Moondog
   year: 1969
+  slug: moondog
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/81/2b/66812b5b-2ca9-3a2d-eb19-357461d8d5dd/886447005965.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Moondog_(1969_album)
@@ -2355,6 +2488,7 @@
 - title: Origin of Symmetry
   artist: Muse
   year: 2001
+  slug: muse-originofsymmetry
   genre: Alternative Rock, Space Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/c8/0b/0cc80b73-aa09-492d-4fcc-984cab29acfa/825646096909.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Origin_of_Symmetry
@@ -2364,6 +2498,7 @@
 - title: Loveless
   artist: My Bloody Valentine
   year: 1991
+  slug: mybloodyvalentine-loveless
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/9c/a2/d89ca2ad-3191-d877-4c2f-13fb3e619a7b/887830015998.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Loveless_(album)
@@ -2373,6 +2508,7 @@
 - title: Illmatic
   artist: Nas
   year: 1994
+  slug: nas-illmatic
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/13/50/e813500d-51cd-6c37-c405-53a668cbde97/886444072496.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Illmatic
@@ -2382,6 +2518,7 @@
 - title: Filthy Underneath
   artist: Nadine Shah
   year: 2024
+  slug: nadineshah-filthyunderneath
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f4/5a/54/f45a5456-4e75-eb9a-5a95-517706dfcf9e/23UM1IM13819.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Filthy_Underneath
@@ -2391,6 +2528,7 @@
 - title: Loud Louder Stop
   artist: Neil Cowley Trio
   year: 2008
+  slug: neilcowleytrio-loudlouderstop
   genre: Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/bc/76/4abc7649-88ec-8f16-6b55-e1d9117116bb/5060124730035.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Loud_Louder_Stop
@@ -2400,6 +2538,7 @@
 - title: Welcome Reality
   artist: Nero
   year: 2011
+  slug: nero-welcomereality
   genre: 
   cover: https://a5.mzstatic.com/us/r1000/0/Music124/v4/42/0e/90/420e90de-1541-aeda-fc2a-b699569229c6/00602527780047.rgb.jpg
   link: https://en.m.wikipedia.org/wiki/Welcome_Reality
@@ -2409,6 +2548,7 @@
 - title: In The Aeroplane Over The Sea
   artist: Neutral Milk Hotel
   year: 1998
+  slug: neutralmilkhotel-intheaeroplaneoverthesea
   genre: 
   cover: https://archive.org/download/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e-8579764982_thumb250.jpg
   link: https://en.wikipedia.org/wiki/In_the_Aeroplane_Over_the_Sea
@@ -2418,6 +2558,7 @@
 - title: New York Dolls
   artist: New York Dolls
   year: 1973
+  slug: newyorkdolls-newyorkdolls
   genre: 
   cover: https://i.discogs.com/NGRgLqIa8IHrd9ES5f6CpiKMJGYBWtG8JkkkSHxOK4s/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk1/MTctMTU1NjY1ODQ5/MC0xNTg4LmpwZWc.jpeg
   link: https://en.wikipedia.org/wiki/New_York_Dolls_(album)
@@ -2427,6 +2568,7 @@
 - title: The Firstborn is Dead
   artist: Nick Cave and the Bad Seeds
   year: 1985
+  slug: nickcave-thefirstbornisdead
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9b/02/af/9b02afc9-1423-b4d8-4a2c-fe20a7442b8a/5099923699656.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Firstborn_Is_Dead
@@ -2436,6 +2578,7 @@
 - title: Let Love In
   artist: Nick Cave and the Bad Seeds
   year: 1994
+  slug: nickcave-letlovein
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/c4/a9/7bc4a9bb-7061-1b0c-6da7-2f75185b0285/5099909572058.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Let_Love_In
@@ -2445,6 +2588,7 @@
 - title: Murder Ballads
   artist: Nick Cave and the Bad Seeds
   year: 1996
+  slug: nickcave-murderballads
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/33/41/5f/33415f6c-f636-ead8-078b-f7e67dc398ed/5099909572454.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Murder_Ballads
@@ -2454,6 +2598,7 @@
 - title: Push The Sky Away
   artist: Nick Cave and the Bad Seeds
   year: 2013
+  slug: nickcave-pushtheskyaway
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features/v4/78/b9/65/78b9651c-4868-ca76-8777-793177cc967a/dj.xvsmmslt.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Push_the_Sky_Away
@@ -2463,6 +2608,7 @@
 - title: Skeleton Tree
   artist: Nick Cave and the Bad Seeds
   year: 2016
+  slug: nickcave-skeletontree
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/78/ca/c078caca-479e-1616-6337-21b1d26bf210/5060454943860.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Skeleton_Tree
@@ -2472,6 +2618,7 @@
 - title: Ghosteen
   artist: Nick Cave and the Bad Seeds
   year: 2019
+  slug: nickcave-ghosteen
   genre: Art Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/13/54/56/135456fb-4061-84ad-f75a-90ec8b0bc612/5056167114802_1.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ghosteen
@@ -2481,6 +2628,7 @@
 - title: Nilsson Schmilsson
   artist: Nilsson
   year: 1971
+  slug: nilsson-nilssonschmilsson
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/f1/bf/f7f1bf43-3324-6c2d-d7e0-368d506fd56d/078635451528.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Nilsson_Schmilsson
@@ -2490,6 +2638,7 @@
 - title: Little Girl Blue
   artist: Nina Simone
   year: 1959
+  slug: ninasimone-littlegirlblue
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/91/02/969102f0-5629-ca7d-f952-6856248b935e/4050538685794.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Little_Girl_Blue
@@ -2499,6 +2648,7 @@
 - title: Pretty Hate Machine
   artist: Nine Inch Nails
   year: 1989
+  slug: nineinchnails-prettyhatemachine
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ca/12/6a/ca126ae1-0019-7c93-c5d4-6fbd49230e6b/14CMGIM00979.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pretty_Hate_Machine
@@ -2508,6 +2658,7 @@
 - title: Nevermind
   artist: Nirvana
   year: 1991
+  slug: nirvana-nevermind
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Nevermind
@@ -2517,6 +2668,7 @@
 - title: In Utero
   artist: Nirvana
   year: 1993
+  slug: nirvana-inutero
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_Utero
@@ -2526,6 +2678,7 @@
 - title: The First Days of Spring
   artist: Noah and the Whale
   year: 2009
+  slug: noahandthewhale-thefirstdaysofspring
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/98/57/78/985778d9-40f8-3877-a712-c99ca903ef69/00602527188928.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_First_Days_of_Spring
@@ -2535,6 +2688,7 @@
 - title: Ready to Die
   artist: The Notorious B.I.G.
   year: 1994
+  slug: thenotoriousbig-readytodie
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/5b/0e/505b0e6f-cb2d-df8f-58df-02a8d8e61c59/075679456762.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ready_to_Die
@@ -2544,6 +2698,7 @@
 - title: Straight Outta Compton
   artist: NWA
   year: 1989
+  slug: nwa-straightouttacompton
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/82/52/e38252e8-148d-551e-2216-4b51e847f1bd/00602547276506.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Straight_Outta_Compton
@@ -2553,6 +2708,7 @@
 - title: Definitely Maybe
   artist: Oasis
   year: 1994
+  slug: oasis-definitelymaybe
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/e7/ea/9fe7eac2-87dc-c1df-3333-dc30b82bdd74/5051961006100.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Definitely_Maybe
@@ -2562,6 +2718,7 @@
 - title: (What's The Story) Morning Glory?
   artist: Oasis
   year: 1995
+  slug: oasis-whatsthestorymorningglory
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/92/e0/0492e08b-cbcc-9969-9ad6-8f5a0888068c/5051961007107.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F
@@ -2571,6 +2728,7 @@
 - title: Smash
   artist: The Offspring
   year: 1994
+  slug: theoffspring-smash
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/a3/6f/afa36ff7-01fd-f054-1e05-b257aff7cd20/0045778686865.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Smash_(The_Offspring_album)
@@ -2580,6 +2738,7 @@
 - title: Americana
   artist: The Offspring
   year: 1998
+  slug: theoffspring-americana
   genre: Punk Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/79/7b/74797b37-ea15-e667-1e75-8f59053e41f3/00602557270945.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Americana_(The_Offspring_album)
@@ -2589,6 +2748,7 @@
 - title: Of The Blue Colour Of The Sky
   artist: OK Go
   year: 2010
+  slug: okgo-ofthebluecolourofthesky
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/ad/c3/eaadc317-1c7f-4748-b613-b8392448bf68/884977645187_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Of_the_Blue_Colour_of_the_Sky
@@ -2598,6 +2758,7 @@
 - title: Return to the 36 Chambers- The Dirty Version
   artist: Ol' Dirty Bastard
   year: 1995
+  slug: oldirtybastard-returntothe36chambers
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/81/7e/42817e6c-3dd8-978b-7ec2-2713c3091736/mzi.konoucoi.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Return_to_the_36_Chambers:_The_Dirty_Version
@@ -2607,6 +2768,7 @@
 - title: Stankonia
   artist: OutKast
   year: 2000
+  slug: outkast-stankonia
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/4c/f4/e04cf460-46a5-992a-87c7-2c1aef7e3a46/730082607223.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Stankonia
@@ -2616,6 +2778,7 @@
 - title: Speakerboxxx / The Love Below
   artist: OutKast
   year: 2003
+  slug: outkast-speakerboxxx
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/e6/fc/39e6fca2-9d12-cc95-81d0-f8f9d11d51c7/196872578973.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Speakerboxxx/The_Love_Below
@@ -2625,6 +2788,7 @@
 - title: Horses
   artist: Patti Smith
   year: 1975
+  slug: pattismith-horses
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/cd/a8/0bcda80a-0046-aa13-1416-71d844dfb711/886445500394.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Horses_(album)
@@ -2634,6 +2798,7 @@
 - title: Ten
   artist: Pearl Jam
   year: 1991
+  slug: pearljam-ten
   genre: Grunge
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/26/d8/b926d8be-9037-509b-9a26-6f2071117d26/5099746888497.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ten_(Pearl_Jam_album)
@@ -2643,6 +2808,7 @@
 - title: Punisher
   artist: Phoebe Bridgers
   year: 2020
+  slug: phoebebridgers-punisher
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/91/4f/39914f60-e9aa-4ae9-3962-44b0a5e5d570/656605150062.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Punisher_(album)
@@ -2652,6 +2818,7 @@
 - title: The Piper At The Gates of Dawn
   artist: Pink Floyd
   year: 1967
+  slug: pinkfloyd-thepiperatthegatesofdawn
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/07/cd/c9/07cdc978-7bc4-08ab-89e5-dab18a42b863/886445635799.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Piper_at_the_Gates_of_Dawn
@@ -2661,6 +2828,7 @@
 - title: The Dark Side of the Moon
   artist: Pink Floyd
   year: 1973
+  slug: pinkfloyd-thedarksideofthemoon
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/de/e1/22/dee122e8-c9b6-9d06-185b-9a665c5e5f52/196589805232.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon
@@ -2670,6 +2838,7 @@
 - title: Stories from the City, Stories from the Sea
   artist: PJ Harvey
   year: 2000
+  slug: pjharvey-storiesfromthecity
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/7d/49/e77d49c6-7525-89c6-8aa2-be174c939214/00731454814522.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Stories_from_the_City,_Stories_from_the_Sea
@@ -2679,6 +2848,7 @@
 - title: Let England Shake
   artist: PJ Harvey
   year: 2011
+  slug: pjharvey-letenglandshake
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/33/7f/e3337f07-ce48-338c-dd4f-47a2eeb800af/00602527626604.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Let_England_Shake
@@ -2688,6 +2858,7 @@
 - title: Without You I'm Nothing
   artist: Placebo
   year: 1998
+  slug: placebo-withoutyouimnothing
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/4e/33/394e3318-f803-51f2-7f28-10e63b45a6d3/5060186926902_1.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Without_You_I%27m_Nothing_(Placebo_album)
@@ -2697,6 +2868,7 @@
 - title: Sleeping With Ghosts
   artist: Placebo
   year: 2003
+  slug: placebo-sleepingwithghosts
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/49/29/26492925-3c94-2ab3-8a34-ce7248c12f53/5060186926896_1.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sleeping_with_Ghosts
@@ -2706,6 +2878,7 @@
 - title: Beard, Wives, Denim
   artist: Pond
   year: 2012
+  slug: pond-beardwivesdenim
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/ba/64/86ba64eb-743a-a6b3-a92e-9e628681656b/52828.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Beard,_Wives,_Denim
@@ -2715,6 +2888,7 @@
 - title: Dummy
   artist: Portishead
   year: 1994
+  slug: portishead-dummy
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dummy_(album)
@@ -2724,6 +2898,7 @@
 - title: Portishead
   artist: Portishead
   year: 1997
+  slug: portishead-portishead
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/d1/97/20d1978c-e152-61a0-77cf-119397215d51/06UMGIM15814.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Portishead_(album)
@@ -2733,6 +2908,7 @@
 - title: Three
   artist: Portishead
   year: 1998
+  slug: portishead-three
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/0e/fc/180efcb7-d89a-8488-612d-398c74da25e4/08UMGIM04102.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Third_(Portishead_album)
@@ -2742,6 +2918,7 @@
 - title: Screamadelica
   artist: Primal Scream
   year: 1991
+  slug: primalscream-screamadelica
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2f/ff/79/2fff79b7-0fa2-99fb-83b4-50a983107dad/mzi.wfovewrb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Screamadelica
@@ -2751,6 +2928,7 @@
 - title: Purple Rain
   artist: Prince
   year: 1984
+  slug: prince-purplerain
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/17/f2/0017f24f-e580-b77a-71a8-1bc7b75881bf/603497822065.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Purple_Rain_(album)
@@ -2760,6 +2938,7 @@
 - title: Experience
   artist: The Prodigy
   year: 1992
+  slug: theprodigy-experience
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/2f/bc/f62fbcf2-c37b-d194-e120-a8b3a79e1dc4/634904011079.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Experience_(The_Prodigy_album)
@@ -2769,6 +2948,7 @@
 - title: Music for the Jilted Generation
   artist: The Prodigy
   year: 1994
+  slug: theprodigy-jiltedgeneration
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/87/0f/51870f4e-5622-e50b-9e15-6e52c4fd91f8/634904011482.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Music_for_the_Jilted_Generation
@@ -2778,6 +2958,7 @@
 - title: The Fat of the Land
   artist: The Prodigy
   year: 1997
+  slug: theprodigy-thefatoftheland
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/45/9a/35459ad9-effb-70f1-3361-ab1cc3d05236/634904012182.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Fat_of_the_Land
@@ -2787,6 +2968,7 @@
 - title: Dirt Chambers Sessions Volume One
   artist: The Prodigy
   year: 1999
+  slug: theprodigy-dirtchamberssessions
   genre: Electronic, Breakbeat, Hip Hop
   cover: https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/3/2/8/0634904012823/tsp20120924165628/Dirtchamber-seions-volume-1.jpg
   link: https://en.wikipedia.org/wiki/The_Dirtchamber_Sessions_1999
@@ -2796,6 +2978,7 @@
 - title: Always Outnumbered, Never Outgunned
   artist: The Prodigy
   year: 2004
+  slug: theprodigy-alwaysoutnumbered
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/25/f7/4625f767-f2ff-33c7-611c-11c87e32c8dc/634904018368.png/600x600bb.jpg
   link: https://en.m.wikipedia.org/wiki/Always_Outnumbered,_Never_Outgunned
@@ -2805,6 +2988,7 @@
 - title: It Takes A Nation Of Millions To Hold Us Back
   artist: Public Enemy
   year: 1988
+  slug: publicenemy-ittakesanation
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/49/d0/9f49d09b-6842-081e-8cec-67b19a686397/06UMGIM18700.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back
@@ -2814,6 +2998,7 @@
 - title: Fear Of A Black Planet
   artist: Public Enemy
   year: 1990
+  slug: publicenemy-fearofablackplanet
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/56/ff/5f56ff7b-71b3-3e5f-208a-3b20d96bb4b0/06UMGIM21173.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Fear_of_a_Black_Planet
@@ -2823,6 +3008,7 @@
 - title: Different Class
   artist: Pulp
   year: 1995
+  slug: pulp-differentclass
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/4c/c7/a74cc719-a64b-66f7-c8c4-ee3a23b40037/00731452416520.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Different_Class
@@ -2832,6 +3018,7 @@
 - title: This Is Hardcore
   artist: Pulp
   year: 1998
+  slug: pulp-thisishardcore
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1c/eb/1b/1ceb1b37-e3a2-4844-38cd-35873916948b/00731452448620.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/This_Is_Hardcore
@@ -2841,6 +3028,7 @@
 - title: Purple Mountains
   artist: Purple Mountains
   year: 2019
+  slug: purplemountains
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/71/6c/55716cc7-aeb8-5b2d-f4f1-e8e6022e625e/781484068020.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Purple_Mountains_(album)
@@ -2850,6 +3038,7 @@
 - title: Otherworldly
   artist: The Pyramids
   year: 2012
+  slug: thepyramids-otherworldly
   genre: Avant-garde Jazz, Spiritual Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/63/41/0d/63410d97-db3e-e741-7782-cca55ba138b2/pyr.jpg/600x600bb.jpg
   link: https://thepyramids.bandcamp.com/album/otherworldly
@@ -2859,6 +3048,7 @@
 - title: Yessir Whatever
   artist: Quasimoto
   year: 2013
+  slug: quasimoto-yessirwhatever
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/fa/a8/dafaa809-4421-a651-3881-fddfb93420e9/STH2326.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Yessir_Whatever
@@ -2868,6 +3058,7 @@
 - title: A Night At The Opera
   artist: Queen
   year: 1975
+  slug: queen-anightattheopera
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/79/5e/2a795e51-8e3e-a743-0dd5-0947ad3383f0/14UMGIM39390.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)
@@ -2877,6 +3068,7 @@
 - title: All Hail The Queen
   artist: Queen Latifah
   year: 1989
+  slug: queenlatifah-allhailthequeen
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/eb/9b/0deb9b8f-6c70-bd9a-c284-84e19cebae16/081227867966.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/All_Hail_the_Queen
@@ -2886,6 +3078,7 @@
 - title: Songs for the Deaf
   artist: Queens of the Stone Age
   year: 2002
+  slug: queensofthestoneage-songsforthedeaf
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/77/fc/cb/77fccb6d-96d8-3a6b-a71b-66c76b1fe4d3/00606949343521.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Songs_for_the_Deaf
@@ -2895,6 +3088,7 @@
 - title: OK Computer
   artist: Radiohead
   year: 1997
+  slug: radiohead-okcomputer
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/OK_Computer
@@ -2904,6 +3098,7 @@
 - title: Kid A
   artist: Radiohead
   year: 2000
+  slug: radiohead-kida
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8e/13/bd8e1358-b367-a689-cb84-cebd0b067dc4/634904078263.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Kid_A
@@ -2913,6 +3108,7 @@
 - title: In Rainbows
   artist: Radiohead
   year: 2007
+  slug: radiohead-inrainbows
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/50/c7/dd50c790-99ac-d3d0-5ab8-e3891fb8fd52/634904032463.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_Rainbows
@@ -2922,6 +3118,7 @@
 - title: Rage Against The Machine
   artist: Rage Against The Machine
   year: 1991
+  slug: rageagainstthemachine
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)
@@ -2931,6 +3128,7 @@
 - title: Blood Sugar Sex Magik
   artist: Red Hot Chili Peppers
   year: 1991
+  slug: redhotchilipeppers-bssm
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/2b/56/2b2b564c-e21e-bd40-a8cf-cb47dedcb7df/093624932147.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Blood_Sugar_Sex_Magik
@@ -2940,6 +3138,7 @@
 - title: Murmur
   artist: R.E.M.
   year: 1983
+  slug: rem-murmur
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/e2/c3/6ce2c349-4169-df92-e5ca-2faba4cf087f/09UMGIM13824.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Murmur_(album)
@@ -2949,6 +3148,7 @@
 - title: Reckoning
   artist: R.E.M.
   year: 1984
+  slug: rem-reckoning
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/c7/55/07c7551b-deb1-63eb-fb26-6b53397a75db/06UMGIM23660.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Reckoning_(album)
@@ -2958,6 +3158,7 @@
 - title: Coles Corner
   artist: Richard Hawley
   year: 2005
+  slug: richardhawley-colescorner
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c6/b5/fe/c6b5fec8-e7bb-4ffe-91bc-0a26e5c69234/dj.pfglhkev.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Coles_Corner
@@ -2967,6 +3168,7 @@
 - title: New Forms
   artist: Roni Size / Reprazent
   year: 1997
+  slug: ronisizereprazent-newforms
   genre: Drum and Bass
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/b5/49/bfb549f3-b875-ba13-4bff-57fc9d8898b4/5400863130701_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/New_Forms
@@ -2976,6 +3178,7 @@
 - title: Royal Blood
   artist: Royal Blood
   year: 2014
+  slug: royalblood-royalblood
   genre: Alternative Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1f/84/6e/1f846e84-32a3-cb11-c7e8-2d71f99ca776/dj.hkdxeoxk.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Royal_Blood_(album)
@@ -2985,6 +3188,7 @@
 - title: Run The Jewels
   artist: Run The Jewels
   year: 2013
+  slug: runthejewels
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/2b/c5/d42bc5f7-7ca5-2b31-b5e1-e4059b7a0d05/853895007148.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Run_the_Jewels_(album)
@@ -2994,6 +3198,7 @@
 - title: Afro Temple
   artist: Sabu Martinez
   year: 1973
+  slug: sabumartinez-afrotemple
   genre: Latin Jazz, Afrobeat
   cover: https://www.dustygroove.com/images/products/m/martin_sabu_afrotempl_101b.jpg
   link: https://en.wikipedia.org/wiki/Afro_Temple
@@ -3003,6 +3208,7 @@
 - title: Foxbase Alpha
   artist: Saint Etienne
   year: 1991
+  slug: saintetienne-foxbasealpha
   genre: Electronic, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/e8/d7/1f/e8d71f4b-e994-ea4b-44fd-4653c010f733/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Foxbase_Alpha
@@ -3012,6 +3218,7 @@
 - title: Northern Exposure
   artist: Sasha And John Digweed
   year: 1996
+  slug: sashaandjohndigweed-northernexposure
   genre: Progressive House, Trance
   cover: https://i1.sndcdn.com/artworks-000004839546-1vz4lr-t500x500.jpg
   link: https://en.wikipedia.org/wiki/Northern_Exposure_(Sasha_%26_John_Digweed_album)
@@ -3021,6 +3228,7 @@
 - title: Angles
   artist: Scroobius Pip vs Dan Le Sac
   year: 2008
+  slug: scroobiuspipvsdanlesac-angles
   genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/aa/46/86aa46db-14e5-f28f-3660-5c0023d113d0/mzi.xrspenin.tif/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Angles_(album)
@@ -3030,6 +3238,7 @@
 - title: Grandeza
   artist: Sessa
   year: 2019
+  slug: sessa-grandeza
   genre: Latin
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/dd/da/53dddab9-1667-41b6-dae6-c8174ad95358/184923136562_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Grandeza
@@ -3039,6 +3248,7 @@
 - title: Never Mind the Bollocks, Here's the Sex Pistols
   artist: Sex Pistols
   year: 1977
+  slug: sexpistols-nevermindthebollocks
   genre: Punk Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b5/de/3a/b5de3acd-3008-fe1d-8f40-f4a497cfb16c/00602527965031.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols
@@ -3048,6 +3258,7 @@
 - title: Remind Me Tomorrow
   artist: Sharon Van Etten
   year: 2019
+  slug: sharonvanetten-remindmetomorrow
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/06/f3/0006f34f-a5cf-a6bf-edbe-62b826faf64c/dj.srbbhdke.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Remind_Me_Tomorrow
@@ -3057,6 +3268,7 @@
 - title: Sharon Van Etten & The Attachment Theory
   artist: Sharon Van Etten
   year: 2025
+  slug: sharonvanetten-sharonvanettenandtheattachmenttheory
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/45/3a/95453a58-bbb3-31be-c4fa-97e94b0b4d0d/48684.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sharon_Van_Etten_%26_The_Attachment_Theory
@@ -3066,6 +3278,7 @@
 - title: Salt of the Earth
   artist: Shotty Horroh
   year: 2018
+  slug: shottyhorroh-saltoftheearth
   genre: Hip Hop, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/af/b2/14/afb21401-78ad-9b7d-b5bd-3a4f88fec7d6/886446917238.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Salt_of_the_Earth_(Shotty_Horroh_album)
@@ -3075,6 +3288,7 @@
 - title: ( )
   artist: Sigur Rós
   year: 2002
+  slug: sigurros-untitled
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/8f/61/f28f6108-5452-a9be-2964-c278652d3085/190296913341.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/()_(Sigur_R%C3%B3s_album)
@@ -3084,6 +3298,7 @@
 - title: Bright Flight
   artist: Silver Jews
   year: 2001
+  slug: silverjews-brightflight
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7a/6f/f4/7a6ff4d5-ac39-b466-1ae9-f35e776ec770/036172921522.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bright_Flight
@@ -3093,6 +3308,7 @@
 - title: Spiderland
   artist: Slint
   year: 1991
+  slug: slint-spiderland
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/90/c1/c890c1f3-6e1b-dd55-8638-6d82b0f90e52/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Spiderland
@@ -3102,6 +3318,7 @@
 - title: Slipknot
   artist: Slipknot
   year: 1999
+  slug: slipknot-slipknot
   genre: Nu Metal
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/e3/a3/c2e3a370-175c-d67e-7a57-fdb3e1cfc959/016861752507.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Slipknot_(album)
@@ -3111,6 +3328,7 @@
 - title: There's a Riot Goin' On
   artist: Sly & The Family Stone
   year: 1971
+  slug: slythefamilystone-theresariotgoinon
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/9f/91019f68-fbc9-5620-d49a-88043d75371e/828767591124.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/There%27s_a_Riot_Goin%27_On
@@ -3120,6 +3338,7 @@
 - title: Mellon Collie and the Infinite Sadness
   artist: Smashing Pumpkins
   year: 1995
+  slug: smashingpumpkins-melloncollie
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/30/ea/3730ea31-78ad-b6ac-9869-656efb5dfd79/00602577577536.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Mellon_Collie_and_the_Infinite_Sadness
@@ -3129,6 +3348,7 @@
 - title: Wall of Eyes
   artist: The Smile
   year: 2024
+  slug: thesmile-wallofeyes
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/28/09/df2809ad-cedd-d09d-6360-bcfbff610828/191404139479.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wall_of_Eyes
@@ -3138,6 +3358,7 @@
 - title: Strangeways, Here We Come
   artist: The Smiths
   year: 1987
+  slug: thesmiths-strangewaysherewecome
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/f9/fc/44f9fc4b-6bf8-5b51-282f-9c565366a8f5/745099189969.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Strangeways,_Here_We_Come
@@ -3147,6 +3368,7 @@
 - title: The Queen Is Dead
   artist: The Smiths
   year: 1986
+  slug: thesmiths-thequeenisdead
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Queen_Is_Dead
@@ -3156,6 +3378,7 @@
 - title: Pimp Master
   artist: SOIL & "PIMP" SESSIONS
   year: 2005
+  slug: soilpimpsessions-pimpmaster
   genre: Jazz, Acid Jazz, Crossover Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/23/2f/08232f4e-c918-a273-8540-d42ee8c67a4b/VICL-61566.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pimp_Master
@@ -3165,6 +3388,7 @@
 - title: The Stone Roses
   artist: The Stone Roses
   year: 1989
+  slug: thestoneroses
   genre: Madchester, Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/de/bd/71/debd715a-d49b-1ec8-6b4d-bf3f25e0e90b/dj.rldpqukx.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Stone_Roses_(album)
@@ -3174,6 +3398,7 @@
 - title: Doggystyle
   artist: Snoop Doggy Dogg
   year: 1993
+  slug: snoop-doggystyle
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/fb/31/f6fb3104-cded-a755-53c9-be0a5527b5bc/659783313694_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Doggystyle
@@ -3183,6 +3408,7 @@
 - title: Playing With Fire
   artist: Spacemen 3
   year: 1989
+  slug: spacemen3-playingwithfire
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/4b/f9/7d4bf94e-58f3-0f96-1c8e-f7857b9824d4/5056321612458.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Playing_with_Fire_(Spacemen_3_album)
@@ -3192,6 +3418,7 @@
 - title: Kimono My House
   artist: Sparks
   year: 1974
+  slug: sparks-kimonomyhouse
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/57/ed/36/57ed368e-b28f-6641-3f78-e737bf3b2d18/00602517912779.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Kimono_My_House
@@ -3201,6 +3428,7 @@
 - title: Specials
   artist: The Specials
   year: 1979
+  slug: thespecials-specials
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9b/72/04/9b720417-a897-df83-5919-d0558fda67fc/0810098501088.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Specials_(album)
@@ -3210,6 +3438,7 @@
 - title: Ladies And Gentleman We Are Floating In Space
   artist: Spiritualized
   year: 1997
+  slug: spiritualized-ladiesandgentleman
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/d1/b6/32d1b6a7-1ff3-212b-b85c-95cead2d7372/195081146409.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ladies_and_Gentlemen_We_Are_Floating_in_Space
@@ -3219,6 +3448,7 @@
 - title: Emperor Tomato Ketchup
   artist: Stereolab
   year: 1996
+  slug: stereolab-emperortomatoketchup
   genre: Indie Rock, Post Rock, Krautrock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/e5/01/19e5011c-a666-1823-559c-3509aa06abc9/dj.omgprlex.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Emperor_Tomato_Ketchup
@@ -3228,6 +3458,7 @@
 - title: Wake Up...It's Tomorrow
   artist: Strawberry Alarm Clock
   year: 1968
+  slug: strawberryalarmclock-wakeupitstomorrow
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/99/8b/49998b99-8812-4a73-dfa1-cd50c16508f1/00602537759187.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wake_Up..._It%27s_Tomorrow
@@ -3237,6 +3468,7 @@
 - title: The Stooges
   artist: The Stooges
   year: 1969
+  slug: thestooges
   genre: Garage Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/18/b1/0d/18b10d00-6d5e-8877-d3e5-070d079de6a6/dj.wtepolml.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Stooges_(album)
@@ -3246,6 +3478,7 @@
 - title: Original Pirate Material
   artist: The Streets
   year: 2002
+  slug: thestreets-originalpiratematerial
   genre: Electronic, Hip Hop, UK Garage
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/b7/02/6db70261-c634-2fa5-bc5c-5cc231a91ae8/s06.odtfpkas.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Original_Pirate_Material
@@ -3255,6 +3488,7 @@
 - title: A Grand Don't Come For Free
   artist: The Streets
   year: 2004
+  slug: thestreets-agranddontcomeforfree
   genre: Electronic, Breaks, UK Garage
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/3a/66/673a66cf-4aea-74b9-b98d-db3126315325/s06.yhibaurj.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Grand_Don%27t_Come_for_Free
@@ -3264,6 +3498,7 @@
 - title: Is This It
   artist: The Strokes
   year: 2001
+  slug: thestrokes-isthisit
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/18/7b/cf187bcd-029d-5167-bab6-87219f32d95a/078636804521.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Is_This_It
@@ -3273,6 +3508,7 @@
 - title: Carrie & Lowell
   artist: Sufjan Stevens
   year: 2015
+  slug: sufjanstevens-carrielowell
   genre: Indie Folk
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/61/bc/ba61bcaf-2034-f13e-6f66-fdb578d618dc/656605609966.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Carrie_%26_Lowell
@@ -3282,6 +3518,7 @@
 - title: Fuzzy Logic
   artist: Super Furry Animals
   year: 1996
+  slug: superfurryanimals-fuzzylogic
   genre: Psychedelic Rock, Indie Rock, Experimental
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c0/a8/7f/c0a87f87-16a0-1a8c-5c4c-731f36df982d/4050538216516.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Fuzzy_Logic_(album)
@@ -3291,6 +3528,7 @@
 - title: Crime of the Century
   artist: Supertramp
   year: 1974
+  slug: supertramp-crimeofthecentury
   genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/cd/49/39cd4988-2b67-33bf-1aaa-c401b397c35d/00600753547687.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Crime_of_the_Century
@@ -3300,6 +3538,7 @@
 - title: Breakfast in America
   artist: Supertramp
   year: 1979
+  slug: supertramp-breakfastinamerica
   genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/25/10/4325100c-4848-5959-cfb3-2ff08731f417/10UMGIM21526.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Breakfast_in_America
@@ -3309,6 +3548,7 @@
 - title: The Madcap Laughs
   artist: Syd Barrett
   year: 1970
+  slug: sydbarrett-themadcaplaughs
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/d3/3e/83d33ec3-7ed3-671b-69cc-ec4f30695a8e/5099991755827.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Madcap_Laughs
@@ -3318,6 +3558,7 @@
 - title: Toxicity
   artist: System of a Down
   year: 2001
+  slug: systemofadown-toxicity
   genre: Nu Metal
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Toxicity_(album)
@@ -3327,6 +3568,7 @@
 - title: Electric Warrior
   artist: T. Rex
   year: 1971
+  slug: trex-electricwarrior
   genre: Glam
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/92/3a/99/923a9920-2a86-e7e3-b177-949dd6c1d023/00602537055876.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Electric_Warrior
@@ -3336,6 +3578,7 @@
 - title: Spirit of Eden
   artist: Talk Talk
   year: 1988
+  slug: talktalk-spiritofeden
   genre: Abstract, Post Rock, Ambient
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/84/e8/3684e84e-5b87-f5d3-3e93-500c9807aefd/724385712951.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Spirit_of_Eden
@@ -3345,6 +3588,7 @@
 - title: 77
   artist: Talking Heads
   year: 1977
+  slug: talkingheads-77
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/bc/01/a4bc01f0-bb72-f42f-84c9-08d0bf98d0a8/dj.adpnobgy.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Talking_Heads:_77
@@ -3354,6 +3598,7 @@
 - title: More Songs About Buildings And Food
   artist: Talking Heads
   year: 1978
+  slug: talkingheads-moresongs
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/6a/8b/e7/mzi.vbyfmxaz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/More_Songs_About_Buildings_and_Food
@@ -3363,6 +3608,7 @@
 - title: Fear of Music
   artist: Talking Heads
   year: 1979
+  slug: talkingheads-fearofmusic
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/b8/dc/ee/b8dcee50-35f7-0821-1c5c-65c6a56b6227/dj.vwcxdnqx.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Fear_of_Music
@@ -3372,6 +3618,7 @@
 - title: Remain in Light
   artist: Talking Heads
   year: 1980
+  slug: talkingheads-remaininlight
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/87/5f/5b/mzi.zzquknhm.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Remain_in_Light
@@ -3381,6 +3628,7 @@
 - title: Speaking in Tongues
   artist: Talking Heads
   year: 1983
+  slug: talkingheads-speakingintongues
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/8a/83/238a8346-7a18-a507-ccb7-a86cbaee9d7c/mzi.orgozngz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Speaking_in_Tongues
@@ -3390,6 +3638,7 @@
 - title: Lonerism
   artist: Tame Impala
   year: 2012
+  slug: tameimpala-lonerism
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b7/40/9b/b7409bc6-24fa-b956-5613-4be8dc62be06/12UMGIM64219.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Lonerism
@@ -3399,6 +3648,7 @@
 - title: Songs From The Big Chair
   artist: Tears for Fears
   year: 1985
+  slug: tearsforfears-songsfromthebigchair
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/41/43/744143ae-afad-8380-106e-1c1bc48922e4/14UMGIM34762.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Songs_from_the_Big_Chair
@@ -3408,6 +3658,7 @@
 - title: Marquee Moon
   artist: Television
   year: 1977
+  slug: television-marqueemoon
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/6a/c1/1b6ac100-8d0e-ec9d-4639-88b11ed2cdad/603497886029.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Marquee_Moon
@@ -3417,6 +3668,7 @@
 - title: Drunk
   artist: Thundercat
   year: 2017
+  slug: thundercat-drunk
   genre: Electronic, Hip Hop, Jazz, Funk / Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/12/02/e5120236-aae7-fd46-b6f8-9e641e96c3f7/5054429007756.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Drunk_(Thundercat_album)
@@ -3426,6 +3678,7 @@
 - title: A Wizard, A True Star
   artist: Todd Rundgren
   year: 1973
+  slug: toddrundgren-awizardatruestar
   genre: Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/64/d6/fb64d6a2-2283-8f52-cd41-9a8cbb7a22d4/603497884193.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Wizard,_a_True_Star
@@ -3435,6 +3688,7 @@
 - title: Something/Anything?
   artist: Todd Rundgren
   year: 1972
+  slug: toddrundgren-somethinganything
   genre: Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/c0/45/bdc045ff-2b04-4950-bb63-b7fc03fec6ea/603497884162.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Something/Anything%3F
@@ -3444,6 +3698,7 @@
 - title: It's Album Time
   artist: Todd Terje
   year: 2014
+  slug: toddterje-itsalbumtime
   genre: Electronic, Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1e/5b/b0/1e5bb079-498e-cf95-d922-2663610dc267/5060186922560_1.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/It%27s_Album_Time
@@ -3453,6 +3708,7 @@
 - title: Full Moon Fever
   artist: Tom Petty
   year: 1989
+  slug: tompetty-fullmoonfever
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f3/71/47/f37147d5-d029-880b-bdc1-5929c907909a/06UMGIM04214.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Full_Moon_Fever
@@ -3462,6 +3718,7 @@
 - title: Tom Tom Club
   artist: Tom Tom Club
   year: 1981
+  slug: tomtomclub-tomtomclub
   genre: Electronic, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/6f/14/906f1454-6cd1-e8f5-a148-ef70cf665c5e/06UMGIM42568.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tom_Tom_Club_(album)
@@ -3471,6 +3728,7 @@
 - title: Loveplaydance
   artist: Toshio Matsuura Group
   year: 2018
+  slug: toshiomatsuuragroup-loveplaydance
   genre: Jazz, Electronic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c2/16/01/c2160170-a68c-9b82-629b-7a76ce0d1419/00602567378631.rgb.jpg/600x600bb.jpg
   link: https://toshiomatsuuragroup.bandcamp.com/album/loveplaydance
@@ -3480,6 +3738,7 @@
 - title: A Laughing Death in Meatspace
   artist: Tropical Fuck Storm
   year: 2018
+  slug: tropicalfuckstorm-alaughingdeathinmeatspace
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/07/05/b2/0705b26e-4ec9-a699-bedf-174fd68aceda/714270693403.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Laughing_Death_in_Meatspace
@@ -3489,6 +3748,7 @@
 - title: Braindrops
   artist: Tropical Fuck Storm
   year: 2019
+  slug: tropicalfuckstorm-braindrops
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/0e/98/6e0e981d-26ae-7935-d410-260c83a496b2/753936904354.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Braindrops
@@ -3498,6 +3758,7 @@
 - title: w h o k i l l
   artist: Tune-Yards
   year: 2011
+  slug: tuneyards-whokill
   genre: Electronic, Art Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/2c/1b/b02c1b32-6dba-e873-3b82-f3fea3931adf/652637310641.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Whokill
@@ -3507,6 +3768,7 @@
 - title: Call Me If You Get Lost
   artist: Tyler, The Creator
   year: 2021
+  slug: tylerthecreator-callmeifyougetlost
   genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/47/0a/65470a4c-a70f-4a0b-f77b-3edb39e9097a/886449377039.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Call_Me_If_You_Get_Lost
@@ -3516,6 +3778,7 @@
 - title: Multi-Love
   artist: Unknown Mortal Orchestra
   year: 2015
+  slug: unknownmortalorchestra-multilove
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/61/5d/93615d50-5623-7703-28fc-e4298e191cba/656605226262.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Multi-Love
@@ -3525,6 +3788,7 @@
 - title: What Did You Expect from The Vaccines?
   artist: The Vaccines
   year: 2011
+  slug: thevaccines-whatdidyouexpect
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/bd/a8/37/mzi.cnocgtjt.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/What_Did_You_Expect_from_The_Vaccines%3F
@@ -3534,6 +3798,7 @@
 - title: The Velvet Underground & Nico
   artist: The Velvet Underground & Nico
   year: 1967
+  slug: thevelvetunderground-thevelvetundergroundandnico
   genre: Art Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/92/93/39/9293397f-a707-237e-ec7e-0ca613a67e3c/06UMGIM04143.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico
@@ -3543,6 +3808,7 @@
 - title: Street Worms
   artist: Viagra Boys
   year: 2018
+  slug: viagraboys-streetworms
   genre: Post-Punk
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/aa/35/eeaa351e-e593-ae4f-1f76-7e9863a1da5d/5054526838536.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Street_Worms
@@ -3552,6 +3818,7 @@
 - title: Lost In The Dream
   artist: The War On Drugs
   year: 2014
+  slug: thewarondrugs-lostinthedream
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3b/e7/98/3be79889-aea5-5139-5330-3cbe1b364ef3/656605031064.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Lost_in_the_Dream
@@ -3561,6 +3828,7 @@
 - title: Who's Next
   artist: The Who
   year: 1971
+  slug: thewho-whosnext
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/d5/19/4ed519ca-3f8b-65ee-eb21-89d5c6a0b44e/00602547140265.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Who%27s_Next
@@ -3570,6 +3838,7 @@
 - title: Yankee Hotel Foxtrot
   artist: Wilco
   year: 2001
+  slug: wilco-yankeehotelfoxtrot
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/1d/3c/791d3cfe-d1b0-67a9-acbd-559fd83b3401/075597966961.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Yankee_Hotel_Foxtrot
@@ -3579,6 +3848,7 @@
 - title: Wolfmother
   artist: Wolfmother
   year: 2005
+  slug: wolfmother
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/4f/18/7e4f1872-57de-9a2c-02d1-770ac11a1529/06UMGIM41019.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wolfmother_(album)
@@ -3588,6 +3858,7 @@
 - title: The Meadowlands
   artist: The Wrens
   year: 2003
+  slug: thewrens-themeadowlands
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m07/d09/h01/s05.bufypcbx.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Meadowlands
@@ -3597,6 +3868,7 @@
 - title: Enter The Wu-Tang (36 Chambers)
   artist: Wu-Tang Clan
   year: 1993
+  slug: wutangclan-enterthewutang
   genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/58/b1/7c58b153-2525-d47f-ab7a-9c9fe6882826/888880400017.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Enter_the_Wu-Tang_(36_Chambers)
@@ -3606,6 +3878,7 @@
 - title: Drums and Wires
   artist: XTC
   year: 1979
+  slug: xtc-drumsandwires
   genre: New Wave
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/f5/6c/2bf56c75-84a0-c886-7c10-aec2345fe469/00724385065354.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Drums_and_Wires
@@ -3615,6 +3888,7 @@
 - title: Pursuit of Momentary Happiness
   artist: Yak
   year: 2019
+  slug: yak-pursuitofmomentaryhappiness
   genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/04/71/0a/04710a87-c345-c604-7cc0-76e78294b830/00602577277016.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pursuit_of_Momentary_Happiness
@@ -3624,6 +3898,7 @@
 - title: Fever to Tell
   artist: Yeah Yeah Yeahs
   year: 2003
+  slug: yeahyeahyeahs-fevertotell
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/9b/9a/1c9b9a3e-099c-b3d6-c3ce-4a270a2d221c/17UM1IM27260.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Fever_to_Tell
@@ -3633,6 +3908,7 @@
 - title: Mister Yellowman
   artist: Yellowman
   year: 1982
+  slug: yellowman-misteryellowman
   genre: Reggae
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/b1/f9/3eb1f947-ff9f-ed45-f0d1-17cfb5cc286f/601811003565.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Mister_Yellowman
@@ -3642,6 +3918,7 @@
 - title: Yesterday's Folks
   artist: US69
   year: 1969
+  slug: us69-yesterdaysfolks
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/2f/fe/29/2ffe29d5-06b1-aeeb-4e5c-c798e5b4d62f/mzm.kcekdzub.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/US69_(album)
@@ -3651,6 +3928,7 @@
 - title: The Year Of Hibernation
   artist: Youth Lagoon
   year: 2011
+  slug: youthlagoon-theyearofhibernation
   genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/22/2d/84222db0-c68a-ce99-0fd8-e8c7674bc9f7/886446283388.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wondrous_Bughouse
@@ -3660,6 +3938,7 @@
 - title: Wondrous Bughouse
   artist: Youth Lagoon
   year: 2013
+  slug: youthlagoon-wondrousbughouse
   genre: Electronic, Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/98/29/69/982969b3-f071-2949-3635-2e5706681cf7/886446283494.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wondrous_Bughouse
@@ -3669,6 +3948,7 @@
 - title: Heaven is a Junkyard
   artist: Youth Lagoon
   year: 2023
+  slug: youthlagoon-heavenisajunkyard
   genre: Electronic, Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/19/72/67/197267e7-fedf-09eb-17e4-5a9271b60f67/197187454440.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Heaven_Is_a_Junkyard
@@ -3678,6 +3958,7 @@
 - title: Rarely Do I Dream
   artist: Youth Lagoon
   year: 2025
+  slug: youthlagoon-rarelydoidream
   genre: Electronic, Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/70/c9/7a70c90a-386f-8bae-0c0e-ddfa5b8935d6/198846747200.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rarely_Do_I_Dream
