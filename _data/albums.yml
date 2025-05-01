@@ -361,7 +361,7 @@
   genre: 
   cover: https://upload.wikimedia.org/wikipedia/en/d/db/BeckMidniteVultures.jpg
   link: https://en.wikipedia.org/wiki/Midnight_Vultures
-  discogs: 
+  discogs: 128270
   review: 
   youtube: 
   spotify: 
@@ -649,7 +649,7 @@
   genre: Mashup, Electronic, Hip Hop
   cover: https://i1.sndcdn.com/artworks-000098112456-8ny0kr-t500x500.jpg
   link: https://www.discogs.com/Bullion-Presents-The-Beach-Boys-Vs-J-Dilla-Pet-Sounds-In-The-Key-Of-Dee/release/1958588
-  discogs: 
+  discogs: 12852988
   review: 
   youtube: https://www.youtube.com/playlist?list=OLAK5uy_lG54414B-6fEaG726bW-4C9m1I1-4Qo740
   spotify: 
@@ -817,7 +817,7 @@
   genre: Electronic, Trip Hop, Turntablism
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/05/28/db0528f4-f9d8-ea97-44c5-a447f2869b8f/5054429193923.png/600x600bb.jpg
   link: https://www.discogs.com/Coldcut-Vs-DJ-Food-Cold-Krush-Cuts/release/10886
-  discogs: 
+  discogs: 38941
   review: 
   youtube: https://www.youtube.com/watch?v=H46jS-b2z783
   spotify: 
@@ -1057,7 +1057,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/bf/c6/ecbfc6ee-1c0c-7a6f-bc00-36e8f5a2b745/652637323153.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Love_This_Giant
-  discogs: 
+  discogs: 3857635
   review: 
   youtube: 
   spotify: 
@@ -1549,7 +1549,7 @@
   slug: frankzappa-apostrophe
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/27/e4/4227e4f9-784d-3209-9d38-38cbbfcf0907/12UMGIM36704.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Apostrophe_(')
-  discogs: 
+  discogs: 509401
   review: https://www.sputnikmusic.com/review/650/Frank-Zappa-Apostrophe/#google_vignette
   youtube: https://www.youtube.com/watch?v=shq0PoqGp84&list=PLMNMmvIC2uGaSasBdRs1ZBCn4eHunIGxr
   spotify: 3EbtMJsHbspjhN6Xd4plIu
@@ -2831,6 +2831,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/5b/0e/505b0e6f-cb2d-df8f-58df-02a8d8e61c59/075679456762.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ready_to_Die
+  discogs: 317356
   youtube: 
   spotify: 2HTbQ0RHwukKVXAlTmCZP2
 
@@ -3068,11 +3069,12 @@
 
 - title: Three
   artist: Portishead
-  year: 1998
+  year: 
   slug: portishead-three
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/0e/fc/180efcb7-d89a-8488-612d-398c74da25e4/08UMGIM04102.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Third_(Portishead_album)
+  discogs: 1325439
   youtube: 
   spotify: 
 
@@ -3139,6 +3141,7 @@
   genre: Electronic, Breakbeat, Hip Hop
   cover: https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/3/2/8/0634904012823/tsp20120924165628/Dirtchamber-seions-volume-1.jpg
   link: https://en.wikipedia.org/wiki/The_Dirtchamber_Sessions_1999
+  discogs: 150343
   youtube: https://www.youtube.com/watch?v=H46jS-b2z784
   spotify: 
 
@@ -3491,6 +3494,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/8f/61/f28f6108-5452-a9be-2964-c278652d3085/190296913341.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/()_(Sigur_R%C3%B3s_album)
+  discogs: 169627
   youtube: 
   spotify: 3FR8CV7OSyZDnxneavnh8t
 
@@ -3612,6 +3616,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/fb/31/f6fb3104-cded-a755-53c9-be0a5527b5bc/659783313694_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Doggystyle
+  discogs: 794093
   youtube: 
   spotify: 5IFOummNcGXY3qCBWRchqP
 
@@ -3656,6 +3661,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/d1/b6/32d1b6a7-1ff3-212b-b85c-95cead2d7372/195081146409.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ladies_and_Gentlemen_We_Are_Floating_in_Space
+  discogs: 2349306
   youtube: 
   spotify: 
 
@@ -4008,6 +4014,7 @@
   genre: Electronic, Art Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/2c/1b/b02c1b32-6dba-e873-3b82-f3fea3931adf/652637310641.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Whokill
+  discogs: 2851639
   youtube: https://www.youtube.com/watch?v=QLcvF17ohHQ&list=PLqrDYLvMD54xgknr9ajnavszZOkbiUWzh
   spotify: 3ZjiKy5Tb1MIFRyGBBzoos
 
