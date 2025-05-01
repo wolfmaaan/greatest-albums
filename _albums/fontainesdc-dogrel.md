@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Dogrel
+title: Dogrel - Fontaines D.C.
 slug: fontainesdc-dogrel
 album_slug: fontainesdc-dogrel
 ---

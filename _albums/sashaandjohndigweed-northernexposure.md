@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Northern Exposure
+title: Northern Exposure - Sasha And John Digweed
 slug: sashaandjohndigweed-northernexposure
 album_slug: sashaandjohndigweed-northernexposure
 ---

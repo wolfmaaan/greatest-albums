@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Future Days
+title: Future Days - Can
 slug: futuredays
 album_slug: futuredays
 ---

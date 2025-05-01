@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Screamadelica
+title: Screamadelica - Primal Scream
 slug: primalscream-screamadelica
 album_slug: primalscream-screamadelica
 ---

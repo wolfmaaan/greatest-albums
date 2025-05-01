@@ -1,6 +1,6 @@
 ---
 layout: album
-title: The Seaside
+title: The Seaside - Cardiacs
 slug: theseaside
 album_slug: theseaside
 ---

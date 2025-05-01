@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Horses
+title: Horses - Patti Smith
 slug: pattismith-horses
 album_slug: pattismith-horses
 ---

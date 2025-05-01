@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Surrender
+title: Surrender - Chemical Brothers
 slug: surrender
 album_slug: surrender
 ---

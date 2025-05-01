@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Tapestry
+title: Tapestry - Carole King
 slug: tapestry
 album_slug: tapestry
 ---

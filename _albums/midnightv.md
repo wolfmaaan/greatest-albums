@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Midnight Vultures
+title: Midnight Vultures - Beck
 slug: midnightv
 album_slug: midnightv
 ---

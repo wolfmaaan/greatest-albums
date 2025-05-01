@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Timeless
+title: Timeless - Goldie
 slug: goldie-timeless
 album_slug: goldie-timeless
 ---

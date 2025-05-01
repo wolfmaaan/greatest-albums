@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Tellin' Stories
+title: Tellin' Stories - The Charlatans
 slug: tellinstories
 album_slug: tellinstories
 ---

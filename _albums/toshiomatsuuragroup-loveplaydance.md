@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Loveplaydance
+title: Loveplaydance - Toshio Matsuura Group
 slug: toshiomatsuuragroup-loveplaydance
 album_slug: toshiomatsuuragroup-loveplaydance
 ---

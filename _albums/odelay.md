@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Odelay
+title: Odelay - Beck
 slug: odelay
 album_slug: odelay
 ---

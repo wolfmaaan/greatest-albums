@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Geogaddi
+title: Geogaddi - Boards of Canada
 slug: geogaddi
 album_slug: geogaddi
 ---

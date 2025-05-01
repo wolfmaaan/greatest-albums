@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Mezzanine
+title: Mezzanine - Massive Attack
 slug: massiveattack-mezzanine
 album_slug: massiveattack-mezzanine
 ---

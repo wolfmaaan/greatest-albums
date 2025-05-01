@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Nevermind
+title: Nevermind - Nirvana
 slug: nirvana-nevermind
 album_slug: nirvana-nevermind
 ---

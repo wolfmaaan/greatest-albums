@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Spiderland
+title: Spiderland - Slint
 slug: slint-spiderland
 album_slug: slint-spiderland
 ---

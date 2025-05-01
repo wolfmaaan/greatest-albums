@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Grace
+title: Grace - Jeff Buckley
 slug: jeffbuckley-grace
 album_slug: jeffbuckley-grace
 ---

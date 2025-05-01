@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Blackstar
+title: Blackstar - David Bowie
 slug: blackstar
 album_slug: blackstar
 ---

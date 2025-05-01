@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Parklife
+title: Parklife - Blur
 slug: parklife
 album_slug: parklife
 ---

@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Transformer
+title: Transformer - Lou Reed
 slug: loureed-transformer
 album_slug: loureed-transformer
 ---

@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Ten
+title: Ten - Pearl Jam
 slug: pearljam-ten
 album_slug: pearljam-ten
 ---

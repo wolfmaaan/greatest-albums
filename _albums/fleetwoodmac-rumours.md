@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Rumours
+title: Rumours - Fleetwood Mac
 slug: fleetwoodmac-rumours
 album_slug: fleetwoodmac-rumours
 ---

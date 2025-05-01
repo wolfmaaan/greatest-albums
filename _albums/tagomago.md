@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Tago Mago
+title: Tago Mago - Can
 slug: tagomago
 album_slug: tagomago
 ---

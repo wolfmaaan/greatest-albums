@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Paranoid Cocoon
+title: Paranoid Cocoon - Cotton Jones
 slug: paranoidcocoon
 album_slug: paranoidcocoon
 ---

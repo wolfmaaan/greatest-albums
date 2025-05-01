@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Apostrophe (')
+title: Apostrophe (') - Frank Zappa
 slug: frankzappa-apostrophe
 album_slug: frankzappa-apostrophe
 ---

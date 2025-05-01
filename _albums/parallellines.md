@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Parallel Lines
+title: Parallel Lines - Blondie
 slug: parallellines
 album_slug: parallellines
 ---

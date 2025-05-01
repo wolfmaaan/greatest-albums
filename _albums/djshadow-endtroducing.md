@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Endtroducing
+title: Endtroducing - DJ Shadow
 slug: djshadow-endtroducing
 album_slug: djshadow-endtroducing
 ---

@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Rounds
+title: Rounds - Four Tet
 slug: fourtet-rounds
 album_slug: fourtet-rounds
 ---

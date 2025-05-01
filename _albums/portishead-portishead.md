@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Portishead
+title: Portishead - Portishead
 slug: portishead-portishead
 album_slug: portishead-portishead
 ---

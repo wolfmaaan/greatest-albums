@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Bubblegum
+title: Bubblegum - Mark Lanegan Band
 slug: marklaneganband-bubblegum
 album_slug: marklaneganband-bubblegum
 ---

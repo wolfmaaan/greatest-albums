@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Heligoland
+title: Heligoland - Massive Attack
 slug: massiveattack-heligoland
 album_slug: massiveattack-heligoland
 ---

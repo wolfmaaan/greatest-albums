@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Mister Yellowman
+title: Mister Yellowman - Yellowman
 slug: yellowman-misteryellowman
 album_slug: yellowman-misteryellowman
 ---

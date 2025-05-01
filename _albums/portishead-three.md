@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Three
+title: Three - Portishead
 slug: portishead-three
 album_slug: portishead-three
 ---

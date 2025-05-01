@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Revolver
+title: Revolver - The Beatles
 slug: revolver
 album_slug: revolver
 ---

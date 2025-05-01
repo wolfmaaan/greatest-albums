@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Curtis
+title: Curtis - Curtis Mayfield
 slug: curtis
 album_slug: curtis
 ---

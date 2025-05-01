@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Maggot Brain
+title: Maggot Brain - Funkadelic
 slug: funkadelic-maggotbrain
 album_slug: funkadelic-maggotbrain
 ---

@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Low
+title: Low - David Bowie
 slug: low
 album_slug: low
 ---

@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Modern Kosmology
+title: Modern Kosmology - Jane Weaver
 slug: janeweaver-modernkosmology
 album_slug: janeweaver-modernkosmology
 ---

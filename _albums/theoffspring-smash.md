@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Smash
+title: Smash - The Offspring
 slug: theoffspring-smash
 album_slug: theoffspring-smash
 ---

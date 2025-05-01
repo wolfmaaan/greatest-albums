@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Autobahn
+title: Autobahn - Kraftwerk
 slug: kraftwerk-autobahn
 album_slug: kraftwerk-autobahn
 ---

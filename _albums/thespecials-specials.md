@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Specials
+title: Specials - The Specials
 slug: thespecials-specials
 album_slug: thespecials-specials
 ---

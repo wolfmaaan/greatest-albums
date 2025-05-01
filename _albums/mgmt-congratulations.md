@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Congratulations
+title: Congratulations - MGMT
 slug: mgmt-congratulations
 album_slug: mgmt-congratulations
 ---

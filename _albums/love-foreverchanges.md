@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Forever Changes
+title: Forever Changes - Love
 slug: love-foreverchanges
 album_slug: love-foreverchanges
 ---

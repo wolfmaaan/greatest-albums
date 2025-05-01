@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Different Class
+title: Different Class - Pulp
 slug: pulp-differentclass
 album_slug: pulp-differentclass
 ---

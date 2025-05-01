@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Foxbase Alpha
+title: Foxbase Alpha - Saint Etienne
 slug: saintetienne-foxbasealpha
 album_slug: saintetienne-foxbasealpha
 ---

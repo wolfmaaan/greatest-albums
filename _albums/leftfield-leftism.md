@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Leftism
+title: Leftism - Leftfield
 slug: leftfield-leftism
 album_slug: leftfield-leftism
 ---

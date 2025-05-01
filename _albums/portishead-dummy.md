@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Dummy
+title: Dummy - Portishead
 slug: portishead-dummy
 album_slug: portishead-dummy
 ---

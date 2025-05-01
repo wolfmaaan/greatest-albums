@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Hang
+title: Hang - Foxygen
 slug: foxygen-hang
 album_slug: foxygen-hang
 ---

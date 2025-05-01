@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Berlin
+title: Berlin - Lou Reed
 slug: loureed-berlin
 album_slug: loureed-berlin
 ---

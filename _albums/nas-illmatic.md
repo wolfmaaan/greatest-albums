@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Illmatic
+title: Illmatic - Nas
 slug: nas-illmatic
 album_slug: nas-illmatic
 ---

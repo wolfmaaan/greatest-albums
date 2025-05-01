@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Nilsson Schmilsson
+title: Nilsson Schmilsson - Nilsson
 slug: nilsson-nilssonschmilsson
 album_slug: nilsson-nilssonschmilsson
 ---

@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Iradelphic
+title: Iradelphic - Clark
 slug: iradelphic
 album_slug: iradelphic
 ---

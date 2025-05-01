@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Grandeza
+title: Grandeza - Sessa
 slug: sessa-grandeza
 album_slug: sessa-grandeza
 ---

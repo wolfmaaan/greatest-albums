@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Braindrops
+title: Braindrops - Tropical Fuck Storm
 slug: tropicalfuckstorm-braindrops
 album_slug: tropicalfuckstorm-braindrops
 ---

@@ -1,6 +1,6 @@
 ---
 layout: album
-title: In Utero
+title: In Utero - Nirvana
 slug: nirvana-inutero
 album_slug: nirvana-inutero
 ---

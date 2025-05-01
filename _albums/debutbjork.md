@@ -1,6 +1,6 @@
 ---
 layout: album
-title: Debut
+title: Debut - Bjork
 slug: debutbjork
 album_slug: debutbjork
 ---
