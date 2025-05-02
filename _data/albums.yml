@@ -3115,33 +3115,36 @@
   artist: Portishead
   year: 1994
   slug: portishead-dummy
-  genre: 
+  genre: Electronic, Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/71/93/c1719342-df7d-e9c5-c87c-53dae5afb289/00042282855329.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dummy_(album)
-  discogs: 6627505
-  youtube: 
+  discogs: 22840
+  review: https://pitchfork.com/reviews/albums/23079-dummy/
+  youtube: https://www.youtube.com/watch?v=lHKsQe9ouko
   spotify: 3539EbNgIdEDGBKkUf4wno
 
 - title: Portishead
   artist: Portishead
   year: 1997
   slug: portishead-portishead
-  genre: 
+  genre: Electronic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/d1/97/20d1978c-e152-61a0-77cf-119397215d51/06UMGIM15814.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Portishead_(album)
-  discogs: 17009292
-  youtube: 
+  discogs: 22827
+  review: https://www.sputnikmusic.com/review/10493/Portishead-Portishead/#google_vignette
+  youtube: https://www.youtube.com/watch?v=FBXGd81YNzc
   spotify: 3G36754KQVLyGuskraEAVA
 
 - title: Third
   artist: Portishead
-  year: 
+  year: 2008
   slug: portishead-three
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/0e/fc/180efcb7-d89a-8488-612d-398c74da25e4/08UMGIM04102.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Third_(Portishead_album)
-  discogs: 1325439
-  youtube: 
+  discogs: 1320059
+  review: https://pitchfork.com/reviews/albums/11438-third/
+  youtube: https://www.youtube.com/watch?v=-M6hGzO4hFU
   spotify: 4BnNSzOWadogStvyYshJIo
 
 - title: Screamadelica
