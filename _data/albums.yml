@@ -238,432 +238,432 @@
   artist: Beastie Boys
   year: 1986
   slug: licensestoill
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Licensed_to_Ill
-  discogs: 7383459
-  review: 
-  youtube: 
+  discogs: 47190
+  review: https://pitchfork.com/reviews/albums/607-licensed-to-ill/
+  youtube: https://www.youtube.com/watch?v=QCM0-irFCSk
   spotify: 11oR0ZuqB3ucZwb5TGbZxb
 
 - title: Paul's Boutique
   artist: Beastie Boys
   year: 1989
   slug: paulsboutique
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/8c/46/638c461c-7bdd-5181-13c5-619b9c178a9f/13UABIM29394.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Paul%27s_Boutique
-  discogs: 14310634
-  review: 
-  youtube: 
+  discogs: 103647
+  review: https://pitchfork.com/reviews/albums/12671-pauls-boutique/
+  youtube: https://www.youtube.com/watch?v=iySa7HTWgSI
   spotify: 1kmyirVya5fRxdjsPFDM05
 
 - title: Ill Communication
   artist: Beastie Boys
   year: 1994
   slug: illcomm
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/6c/ab/5a6cabf6-3e47-a0f0-5092-bc18623291ed/00724382859956.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ill_Communication
-  discogs: 6885299
-  review: 
-  youtube: 
+  discogs: 46508
+  review: https://pitchfork.com/reviews/albums/13319-ill-communication-deluxe-edition/
+  youtube: https://www.youtube.com/watch?v=2PKpOSvhv8k
   spotify: 6lfjbwFGzQ6aSNP1N3JlT8
 
 - title: Pet Sounds
   artist: The Beach Boys
   year: 1966
   slug: petsounds
-  genre: 
+  genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/bb/c4/35bbc4eb-9387-97b0-b138-64b7a949ea43/13UABIM03512.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pet_Sounds
-  discogs: 1430770
-  review: 
-  youtube: 
+  discogs: 390866
+  review: https://pitchfork.com/reviews/albums/9371-pet-sounds-40th-anniversary/
+  youtube: https://www.youtube.com/watch?v=3y44BJgkdZs
   spotify: 2CNEkSE8TADXRT2AzcEt1b
 
 - title: Rubber Soul
   artist: The Beatles
   year: 1965
   slug: rubbersoul
-  genre: 
+  genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rubber_Soul
-  discogs: 4592801
-  review: 
-  youtube: 
+  discogs: 393617
+  review: https://pitchfork.com/reviews/albums/13433-rubber-soul/
+  youtube: https://www.youtube.com/watch?v=U54e4KPtU1o
   spotify: 50o7kf2wLwVmOTVYJOTplm
 
 - title: Revolver
   artist: The Beatles
   year: 1966
   slug: revolver
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/4a/10/584a1058-de0a-6a6b-d0bd-da09a028b8bc/00602567705499.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Revolver_(album)
-  discogs: 12420096
-  review: 
-  youtube: 
+  discogs: 409199
+  review: https://pitchfork.com/reviews/albums/13434-revolver/
+  youtube: https://www.youtube.com/watch?v=HmZ2tHu-jVg
   spotify: 3PRoXYsngSwjEQWR5PsHWR
 
 - title: Sgt. Pepper's Lonely Hearts Club Band
   artist: The Beatles
   year: 1967
   slug: sgtpepper
-  genre: 
+  genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/79/8d/6f798d84-7475-8525-fc91-f7b51b2b5a9b/00602567725428.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band
-  discogs: 24515366
-  review: 
-  youtube: 
+  discogs: 499497
+  review: https://pitchfork.com/reviews/albums/13435-sgt-peppers-lonely-hearts-club-band/
+  youtube: https://www.youtube.com/watch?v=Fh3Hpx9YfJ4
   spotify: 6QaVfG1pHYl1z15ZxkvVDW
 
 - title: The Beatles
   artist: The Beatles
   year: 1968
   slug: whitealbum
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/5b/89/fa5b898d-bad6-e053-4195-260e5c74f2bb/00602567725466.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Beatles_(album)
-  discogs: 8436355
-  review: 
-  youtube: 
+  discogs: 456663
+  review: https://pitchfork.com/reviews/albums/13432-the-beatles/
+  youtube: https://www.youtube.com/watch?v=yKOhCKgdiwY
   spotify: 1klALx0u4AavZNEvC4LrTL
 
 - title: Abbey Road
   artist: The Beatles
   year: 1969
   slug: abbeyroad
-  genre: 
+  genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/53/43/485343e3-dd6a-0034-faec-f4b6403f8108/13UMGIM63890.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Abbey_Road
-  discogs: 17325487
-  review: 
-  youtube: 
+  discogs: 2498807
+  review: https://pitchfork.com/reviews/albums/13431-abbey-road/
+  youtube: https://www.youtube.com/watch?v=VpV53LqcuhU
   spotify: 0ETFjACtuP2ADo6LFhL6HN
 
 - title: Odelay
   artist: Beck
   year: 1996
   slug: odelay
-  genre: 
+  genre: Electronic, Hip Hop, Rock, Funk / Soul, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8d/bd/6f/8dbd6f98-5445-2673-153b-d77f0e272e1c/00720642490822.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Odelay
-  discogs: 9190778
-  review: 
-  youtube: 
+  discogs: 235913
+  review: https://pitchfork.com/reviews/albums/11104-odelay-deluxe-edition/
+  youtube: https://www.youtube.com/watch?v=RQ6EnfFGDiM
   spotify: 3PpTsdpZmaLUh6RvViu9G7
 
 - title: Midnight Vultures
   artist: Beck
   year: 1999
   slug: midnightv
-  genre: 
+  genre: Electronic, Hip Hop, Rock, Funk / Soul, Pop
   cover: https://upload.wikimedia.org/wikipedia/en/d/db/BeckMidniteVultures.jpg
   link: https://en.wikipedia.org/wiki/Midnight_Vultures
-  discogs: 128270
-  review: 
-  youtube: 
+  discogs: 261598
+  review: https://www.stereogum.com/2065389/beck-midnite-vultures-turns-20/reviews/the-anniversary/
+  youtube: https://www.youtube.com/watch?v=uisfCr8ZVBA
   spotify: 5Mk8LGoWoPg0igqQXprzfR
 
 - title: Postindustrial Hometown Blues
   artist: Big Special
   year: 2024
   slug: postindustrial
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/d8/99/8fd899c0-cbf0-e82f-8885-204ac3b8e9e3/822166000256_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Postindustrial_Hometown_Blues
-  discogs: 30641758
-  review: 
-  youtube: 
+  discogs: 30632431
+  review: https://louderthanwar.com/big-special-postindustrial-hometown-blues-review-album-of-the-week/
+  youtube: https://www.youtube.com/watch?v=n24xTnuoUTM
   spotify: 02q0ISnitj4Q7flAbRppvo
 
 - title: Dragon New Warm Mountain I Believe In You
   artist: Big Thief
   year: 2022
   slug: dragonnew
-  genre: 
+  genre: Rock, Folk, World, & Country
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/c8/ea/14c8ea65-2155-8d44-f0c5-6faa8f51f95d/191400040878.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Dragon_New_Warm_Mountain_I_Believe_in_You
-  discogs: 22192015
-  review: 
-  youtube: 
+  discogs: 22078003
+  review: https://pitchfork.com/reviews/albums/big-thief-dragon-new-warm-mountain-i-believe-in-you/
+  youtube: https://www.youtube.com/watch?v=MTIzsTv1ENY
   spotify: 7Ln81p86r5cCsesd3KBWIY
 
 - title: A Bad Wind Blows In My Heart
   artist: Bill Ryder-Jones
   year: 2013
   slug: badwind
-  genre: 
+  genre: Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/f9/ba/4cf9bac5-807b-aa92-e5d3-93bf02396fc5/billryderjones_abadwind.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Bad_Wind_Blows_in_My_Heart
-  discogs: 4467317
-  review: 
-  youtube: 
+  discogs: 4503735
+  review: https://pitchfork.com/reviews/albums/18073-bill-ryder-jones-a-bad-wind-blows-in-my-heart/
+  youtube: https://www.youtube.com/watch?v=rwgghG3jUEI
   spotify: 05c1UvFyLyxIh6hjbIWhKm
 
 - title: Junkyard
   artist: The Birthday Party
   year: 1982
   slug: junkyard
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/b0/88/56b088e0-a3d2-f560-9511-08b32bb53d12/652637020786.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Junkyard_(album)
-  discogs: 2495539
-  review: 
-  youtube: 
+  discogs: 422339
+  review: https://pitchfork.com/reviews/albums/the-birthday-party-junkyard/
+  youtube: https://www.youtube.com/watch?v=cVipOEOWkg8
   spotify: 6oTv6C1t13JKxiNQZVkJwM
 
 - title: Debut
   artist: Bjork
   year: 1993
   slug: debutbjork
-  genre: 
+  genre: Electronic, Jazz, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/b0/57/dbb05765-70f8-9e0e-0a60-6d7cd71ef3d9/5016958995065.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Debut_(Bj%C3%B6rk_album)
   discogs: 13314019
-  review: 
-  youtube: 
+  review: https://www.theguardian.com/music/musicblog/2013/jul/05/bjork-debut-20-years-of-innovation
+  youtube: https://www.youtube.com/watch?v=fW7AUFadFGo
   spotify: 7qopDhMKBIfoIM2gJcecbr
 
 - title: Ants From Up There
   artist: Black Country, New Road
   year: 2022
   slug: antsfromupthere
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/83/4f/3e834feb-a778-0df8-6c1b-83afddc888da/5054429151442.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ants_from_Up_There
-  discogs: 21979144
-  review: 
-  youtube: 
+  discogs: 21933142
+  review: https://pitchfork.com/reviews/albums/black-country-new-road-ants-from-up-there/
+  youtube: https://www.youtube.com/watch?v=MIJjiW_aAFQ
   spotify: 21xp7NdU1ajmO1CX0w2Egd
 
 - title: Enema of The State
   artist: blink-182
   year: 1999
   slug: enema
-  genre: 
+  genre: Rock
   cover: https://a5.mzstatic.com/us/r1000/0/Music221/v4/c1/3d/86/c13d8619-0794-ceee-6b1b-d0709119a9cf/16UMGIM35657.rgb.jpg
   link: https://en.m.wikipedia.org/wiki/Enema_of_the_State
-  discogs: 21773080
-  review: 
-  youtube: 
+  discogs: 2220492
+  review: https://pitchfork.com/reviews/albums/blink-182-enema-of-the-state/
+  youtube: https://www.youtube.com/watch?v=V0DfPkNCo-g
   spotify: 652N05EcNH1a4bIlUixQE2
 
 - title: Silent Alarm
   artist: Bloc Party
   year: 2005
   slug: silentalarm
-  genre: silentalarm
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/f3/40/bff340ad-740a-25dc-2a68-0c8bd28b52ae/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Silent_Alarm
-  discogs: 741368
-  review: 
-  youtube: 
+  discogs: 401388
+  review: https://pitchfork.com/reviews/albums/1130-silent-alarm/
+  youtube: https://www.youtube.com/watch?v=ZLEMgOyYWnc
   spotify: 1VpqO2dBJdAS3YAimXlhEM
 
 - title: Parallel Lines
   artist: Blondie
   year: 1978
   slug: parallellines
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/1e/01/b01e0139-3640-a161-ef5c-027451d30c48/00724353359959.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Parallel_Lines
-  discogs: 12691228
-  review: 
-  youtube: 
+  discogs: 229449
+  review: https://pitchfork.com/reviews/albums/12058-parallel-lines-deluxe-edition/
+  youtube: https://www.youtube.com/watch?v=5-LwYHZpCYI
   spotify: 4M6s2jbhKWEcOdXZ8WiHts
 
 - title: Parklife
   artist: Blur
   year: 1994
   slug: parklife
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/71/66/8a71664b-3baa-537b-e008-b32d86da27bc/5099997227755.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Parklife
-  discogs: 5771353
-  review: 
-  youtube: 
+  discogs: 674311
+  review: https://www.nme.com/features/blurs-parklife-25-anniversary-2479653
+  youtube: https://www.youtube.com/watch?v=WIS-9_KS1To
   spotify: 0YS25Dr3hMtMFlVTfuvzl4
 
 - title: The Ballad of Darren
   artist: Blur
   year: 2023
   slug: balladofdarren
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/5e/55/255e55f8-46d3-ebeb-c742-d67aa2181093/5054197688263.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Ballad_of_Darren
-  discogs: 27313605
-  review: 
-  youtube: 
+  discogs: 27313518
+  review: https://pitchfork.com/reviews/albums/blur-the-ballad-of-darren/
+  youtube: https://www.youtube.com/watch?v=hIPKo1XkFF0
   spotify: 0gIZSG9WUDO3TK0B5y7UtU
 
 - title: Music Has the Right to Children
   artist: Boards of Canada
   year: 1998
   slug: musichastheright
-  genre: 
+  genre: Electronic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b5/4c/c2/b54cc20d-03f5-f2c4-4a0d-9b51ad65af89/dj.txuslqgv.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Music_Has_the_Right_to_Children
-  discogs: 10076682
-  review: 
-  youtube: 
+  discogs: 11778
+  review: https://pitchfork.com/reviews/albums/838-music-has-the-right-to-children/
+  youtube: https://www.youtube.com/watch?v=yJj24t6nOn4
   spotify: 6LZiNXaDvhzvnXUubVOmNU
 
 - title: Geogaddi
   artist: Boards of Canada
   year: 2002
   slug: geogaddi
-  genre: 
+  genre: Electronic
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/77/7c/2e777c13-60e3-c231-8be0-b0d43dc91598/mzi.yseuvnlj.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Geogaddi
-  discogs: 17230972
-  review: 
-  youtube: 
+  discogs: 24435
+  review: https://pitchfork.com/reviews/albums/837-geogaddi/
+  youtube: https://www.youtube.com/watch?v=vDkHR80rNtw
   spotify: 4T7JGfRryhw5POaXalkApE
 
 - title: Highway 61 Revisited
   artist: Bob Dylan
   year: 1965
   slug: highwaysixtyone
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/ff/c0/f8ffc056-55b4-2033-657d-32492d1eea25/827969239926.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Highway_61_Revisited
-  discogs: 12716113
-  review: 
-  youtube: 
+  discogs: 921213
+  review: https://albumism.com/features/bob-dylan-highway-61-revisited-turns-55-anniversary-retrospective
+  youtube: https://www.youtube.com/watch?v=8PP2MjP84Gw
   spotify: 6YabPKtZAjxwyWbuO9p4ZD
 
 - title: Blonde on Blonde
   artist: Bob Dylan
   year: 1966
   slug: blondeonblonde
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/9d/bf/209dbf58-f698-7181-33de-0c29480beba0/074640084126.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Blonde_on_Blonde
-  discogs: 4079455
-  review: 
-  youtube: 
+  discogs: 1431601
+  review: https://pitchfork.com/reviews/albums/21997-blonde-on-blonde-revisited/
+  youtube: https://www.youtube.com/watch?v=fm-po_FUmvM
   spotify: 4NP1rhnsPdYpnyJP0p0k0L
 
 - title: Blood on the Tracks
   artist: Bob Dylan
   year: 1975
   slug: bloodonthetracks
-  genre: 
+  genre: Rock, Folk, World, & Country
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/6e/4d/346e4d1c-c9ef-cf7f-96d9-aad97286febb/074643323529.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Blood_on_the_Tracks
-  discogs: 4684995
-  review: 
-  youtube: 
+  discogs: 374993
+  review: https://pitchfork.com/reviews/albums/22485-blood-on-the-tracks/
+  youtube: https://www.youtube.com/watch?v=5PvcS-55lhs
   spotify: 4WD4pslu83FF6oMa1e19mF
 
 - title: The Bravest Man In The Universe
   artist: Bobby Womack
   year: 2012
   slug: bravestman
-  genre: 
+  genre: Electronic, Funk / Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/0f/f5/f50ff522-9217-5f82-281f-9ce814bacf75/634904056155.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Bravest_Man_in_the_Universe
-  discogs: 3670789
-  review: 
-  youtube: 
+  discogs: 3655993
+  review: https://pitchfork.com/reviews/albums/16721-the-bravest-man-in-the-universe/
+  youtube: https://www.youtube.com/watch?v=CLQqryQPK94
   spotify: 1d0vqL31qzWAWB8cxyfvuP
 
 - title: Natty Dread
   artist: Bob Marley
   year: 1974
   slug: nattydread
-  genre: 
+  genre: Reggae
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b9/ec/9f/b9ec9f4a-c4f1-5136-7587-86826e28d67b/06UMGIM34964.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Natty_Dread
-  discogs: 3488239
-  review: 
-  youtube: 
+  discogs: 557836
+  review: https://www.sputnikmusic.com/review/65146/Bob-Marley-and-The-Wailers-Natty-Dread/
+  youtube: https://www.youtube.com/watch?v=8n0Omapcbsc
   spotify: 1d8lF3nZpEIFeEbWmAt9Ey
 
 - title: Exodus
   artist: Bob Marley
   year: 1977
   slug: exodus
-  genre: 
+  genre: Reggae
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/fa/f8/23faf820-c4fa-2bf1-d672-846971f5cf5c/06UMGIM31355.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_&_The_Wailers_album)
-  discogs: 3202107
-  review: 
-  youtube: 
+  discogs: 525689
+  review: https://pitchfork.com/reviews/albums/10969-exodus-30th-anniversary-edition/
+  youtube: https://www.youtube.com/watch?v=dsf8Qp7fl5E
   spotify: 655KljKIXl42fiNDMKivbY
 
 - title: My Life In The Bush Of Ghosts
   artist: Brian Eno and David Byrne
   year: 1981
   slug: bushofghosts
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/45/2c/5e/452c5ea2-7f65-e5df-4874-c4ef2f6b3fb5/00094633134157.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/My_Life_in_the_Bush_of_Ghosts
   discogs: 15084012
-  review: 
-  youtube: 
+  review: https://pitchfork.com/reviews/albums/1064-my-life-in-the-bush-of-ghosts/
+  youtube: https://www.youtube.com/watch?v=efWa-lDQn6A
   spotify: 1pZ2sRK1RhRWvpequeQqQa
 
 - title: Thank God for Mental Illness
   artist: The Brian Jonestown Massacre
   year: 1996
   slug: thankgod
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/b1/57/62b15715-aa07-dcea-504a-e6efd304ca73/689492067229.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Thank_God_for_Mental_Illness
-  discogs: 7379150
-  review: 
-  youtube: 
+  discogs: 7379154
+  review: https://www.tinymixtapes.com/music-review/brian-jonestown-massacre-thank-god-mental-illness
+  youtube: https://www.youtube.com/watch?v=YiDlLfqMndY
   spotify: 6A7Eja5un4Bho0swBTvh2r
 
 - title: Who Killed Sgt. Pepper?
   artist: The Brian Jonestown Massacre
   year: 2010
   slug: whokilledsgtpepper
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/55/05/90550589-4678-aa42-14f4-f0a589112006/5055300312259.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Who_Killed_Sgt._Pepper%3F
-  discogs: 6691965
-  review: 
-  youtube: 
+  discogs: 2145239
+  review: https://pitchfork.com/reviews/albums/14009-who-killed-sgt-pepper/
+  youtube: https://www.youtube.com/watch?v=48o98VFlBbg
   spotify: 4he8IsVFqwcPbzd3AvCPnB
 
 - title: The Noise Made by People
   artist: Broadcast
   year: 2000
   slug: noisemade
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/b4/9f/20b49faf-2f6b-53a1-6747-9496f6841fd3/mzi.jskzhdnu.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Noise_Made_by_People
-  discogs: 15640335
-  review: 
-  youtube: 
+  discogs: 30902
+  review: https://pitchfork.com/reviews/albums/946-the-noise-made-by-people/
+  youtube: https://www.youtube.com/watch?v=2M-p2YWhbCA
   spotify: 10nM1bEq6nBmY5CvK9gDVI
 
 - title: The Beach Boys Vs J Dilla - Pet Sounds- In The Key Of Dee
   artist: Bullion
   year: 2009
   slug: beachboysjdilla
-  genre: Mashup, Electronic, Hip Hop
+  genre: Hip Hop
   cover: https://i1.sndcdn.com/artworks-000098112456-8ny0kr-t500x500.jpg
   link: https://www.discogs.com/Bullion-Presents-The-Beach-Boys-Vs-J-Dilla-Pet-Sounds-In-The-Key-Of-Dee/release/1958588
-  discogs: 12852988
-  review: 
-  youtube: https://www.youtube.com/playlist?list=OLAK5uy_lG54414B-6fEaG726bW-4C9m1I1-4Qo740
+  discogs: 7202492
+  review: https://bobdylanwrotepropagandasongs.wordpress.com/2010/04/02/bullion-the-beach-boys-vs-j-dilla-pet-sounds-in-the-key-of-dee/
+  youtube: https://www.youtube.com/watch?v=Zed-xaU3gx4
   spotify: 
 
 - title: Locust Abortion Technician
   artist: Butthole Surfers
   year: 1987
   slug: locustabortion
-  genre: Krautrock
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/eb/31/5feb31cc-2a75-7244-a16a-7c059933202a/191401199063.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Locust_Abortion_Technician
-  discogs: 23952380
-  review: 
-  youtube: 
+  discogs: 389893
+  review: https://thequietus.com/opinion-and-essays/anniversary/butthole-surfers-locust-abortion-technician/
+  youtube: https://www.youtube.com/watch?v=ErkDjGdWKmc
   spotify: 0YaG8TgKhZGxqEqMC913FY
 
 - title: Tago Mago
@@ -1876,6 +1876,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/62/8c/a1628c8d-f9a9-d278-1a97-ebae7fc3e7d6/00602547276612.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/AmeriKKKa%27s_Most_Wanted
   discogs: 15248845
+  review: 
   youtube: 
   spotify: 3AI5kAUjgNtZBwFRi6opDc
 
@@ -1887,6 +1888,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/2c/56/fb2c56ca-05ad-f73f-a1b7-9917081db1b9/17UMGIM08423.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Lust_for_Life_(album)
   discogs: 4215136
+  review: 
   youtube: 
   spotify: 2jnV6ytZOmt71iEC5xHEYz
 
@@ -1898,8 +1900,22 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/8c/74/918c742a-e6db-62d7-82bc-c8d963b6501a/mzi.gvjonqqr.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/S.C.I.E.N.C.E.
   discogs: 6024386
+  review: 
   youtube: https://www.youtube.com/playlist?list=PL9E232D307448799E
   spotify: 0XC5hMpEFLDSuRxc5bVtIZ
+
+- title: Hot Buttered Soul
+  artist: Isaac Hayes
+  year: 1969
+  slug: isaac-hot
+  genre: Funk / Soul
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/08/65/630865dc-ee73-cb3e-c3b3-6e0d27d06789/00888072013339.rgb.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Hot_Buttered_Soul
+  discogs: 533998
+  review: 
+  review: https://pitchfork.com/reviews/albums/13233-hot-buttered-soul/
+  youtube: https://www.youtube.com/watch?v=dVCMyOaIKI0
+  spotify: 
 
 - title: 3 + 3
   artist: The Isley Brothers
@@ -1909,6 +1925,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/1a/2f/7e1a2f9c-154a-49d0-0484-44550a26da26/mzm.fckxoqtz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/3_%2B_3_(The_Isley_Brothers_album)
   discogs: 1862270
+  review: 
   youtube: 
   spotify: 27eI33obJuyKebMTxAJJam
 
@@ -1920,6 +1937,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/06/ef/f8/mzi.tbdtgmvt.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Livingroom_Hush
   discogs: 12478082
+  review: 
   youtube: https://www.youtube.com/playlist?list=OLAK5uy_n32x4Vqj-2n4jP9_q7F-1s2W1wQ_Q3p_U
   spotify: 
 
@@ -1931,6 +1949,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/72/2c/55/722c5548-b4b6-1e20-c447-7dd5d3339b01/809236148407_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Modern_Kosmology
   discogs: 21624841
+  review: 
   youtube: 
   spotify: 6PN720FM9NAPx1N4NIKkSi
 
@@ -1942,6 +1961,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/01/b2/1f01b29d-1c98-db7b-f6e0-06a7884e694f/13UABIM52393.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Kings_%26_Queens_(album)
   discogs: 2079972
+  review: 
   youtube: 
   spotify: 4e3fJnly4W3A5kL339KOuc
 
@@ -1953,6 +1973,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/51/01/8e51015a-6ac5-da6a-f244-c1f936a766a1/0886445417623.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Oxyg%C3%A8ne
   discogs: 1133256
+  review: 
   youtube: 
   spotify: 6qF91BDNaJY4PI0mSwYv8L
 
@@ -1964,6 +1985,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album)
   discogs: 14382682
+  review: 
   youtube: 
   spotify: 7yQtjAjhtNi76KRu05XWFS
 
@@ -1975,6 +1997,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/17/e8/6c/mzi.vswtukmi.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Waveform_Transmission_Vol._1
   discogs: 112900
+  review: 
   youtube: https://www.youtube.com/playlist?list=PLo10h1U-gH6O0K9c498879yY-314q5u75
   spotify: 
 
@@ -1986,6 +2009,7 @@
   cover: https://i1.sndcdn.com/artworks-000186620556-mhd0z7-t1080x1080.jpg
   link: https://www.discogs.com/Jeff-Mills-Live-At-The-Liquid-Room-Tokyo/master/1414
   discogs: 9459
+  review: 
   youtube: https://www.youtube.com/watch?v=H46jS-b2z78
   spotify: 
 
@@ -1997,6 +2021,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/bd/17/5cbd17d6-ceea-e185-e889-ee494cc650da/828765035125.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Surrealistic_Pillow
   discogs: 6202368
+  review: 
   youtube: 
   spotify: 6lPb7Eoon6QPbscWbMsk6a
 
@@ -2008,6 +2033,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ce/f6/6d/cef66d7b-41b0-5d17-a104-d707dbb706b9/JimSullivan.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/U.F.O._(Jim_Sullivan_album)
   discogs: 25134763
+  review: 
   youtube: 
   spotify: 55RKe7RarXpZa1Y2RDOGFj
 
@@ -2019,6 +2045,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/52/f2/1452f20c-eedb-5988-177d-33e7d7fe6697/dj.gzmeisav.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Are_You_Experienced
   discogs: 13764650
+  review: 
   youtube: 
   spotify: 7rSZXXHHvIhF4yUFdaOCy9
 
@@ -2030,6 +2057,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/1e/7a/061e7ae6-f0e7-b2e0-9f4e-6caac75011dd/00602498642412.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Futures_(album)
   discogs: 17625826
+  review: 
   youtube: 
   spotify: 2EDsu3fuAiflZczcFZTr4y
 
@@ -2041,6 +2069,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/8f/08/fe8f0815-5573-0fd9-bc5d-3d6a69841d97/07UMGIM12579.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/%C3%81frica_Brasil
   discogs: 4527485
+  review: 
   youtube: 
   spotify: 0esHQqYklDPje00NUNq6py
 
@@ -2052,6 +2081,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/ff/16/beff16bd-7416-650e-31d9-7aabdb29e55c/5400863132415_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Quality_Control_(Jurassic_5_album)
   discogs: 1160658
+  review: 
   youtube: 
   spotify: 296P8sper6AM6uUW7uJD4B
 
@@ -2063,6 +2093,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/ae/61/0dae6140-d4af-d0df-eae0-3c92eb392a33/15UMGIM11922.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly
   discogs: 6781286
+  review: 
   youtube: 
   spotify: 7ycBtnsMtyVbbwTfJwRjSP
 
@@ -2074,6 +2105,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/d9/24/08d924cf-3f00-268c-c772-58b7f96b5797/5060391090474_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Universe_Smiles_Upon_You
   discogs: 23302286
+  review: 
   youtube: 
   spotify: 32MaUU5gk5Ig0nHC9G5VNX
 
@@ -2085,6 +2117,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/44/d1/c944d1fb-ceff-9ce2-2a00-2b9e291e0972/5400863147006_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Killing_Joke_(1980_album)
   discogs: 21508324
+  review: 
   youtube: 
   spotify: 3IPjvl1nQ20Xaq9MUT4SCl
 
@@ -2096,6 +2129,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/2f/c7/19/2fc71988-6871-be2c-6731-a3d0f2a6b232/Court_2500px.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_the_Court_of_the_Crimson_King
   discogs: 2117268
+  review: 
   youtube: 
   spotify: 75ol9OP8bJaRqzGimpFHDm
 
@@ -2107,6 +2141,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/57/19/505719b9-3609-c060-4bc3-2c2761dbf617/5414939801877_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/I%27m_in_Your_Mind_Fuzz
   discogs: 21318772
+  review: 
   youtube: 
   spotify: 2QcTwxhZapPixm8ymwUgmE
 
@@ -2118,6 +2153,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/32/c1/fa/32c1fa28-ca9e-2887-b255-cfeb756c622a/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Quarters!
   discogs: 10223209
+  review: 
   youtube: 
   spotify: 2sJsyTO56RIPMrWmKV4908
 
@@ -2129,6 +2165,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e5/fe/63/e5fe6377-11c1-bea2-0bc6-b4127d1ef4b5/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Nonagon_Infinity
   discogs: 17652898
+  review: 
   youtube: 
   spotify: 2tEvJY6mmREPqmxZG5PJMT
 
@@ -2140,6 +2177,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/23/14/9b/23149bb9-8b2e-14aa-b407-08dbfdfd791f/5414939950261_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Flying_Microtonal_Banana
   discogs: 17536138
+  review: 
   youtube: 
   spotify: 6h0sHXieTPtHkmtHXYhau8
 
@@ -2151,6 +2189,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/83/f6/b0/83f6b0a5-b4be-f29c-0bdb-a64d5e606685/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Polygondwanaland
   discogs: 11400816
+  review: 
   youtube: 
   spotify: 6FAntlrL2g642UbLj66GTi
 
@@ -2162,6 +2201,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/2d/34/e12d3408-1ac8-3ca2-d00e-f30983a816ed/22UMGIM15617.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Omnium_Gatherum
   discogs: 25361272
+  review: 
   youtube: 
   spotify: 4tuqA7qbVsPukqsYPPrcF7
 
@@ -2173,6 +2213,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/6b/96/af6b965d-a1c8-7652-58ed-be34a81c0be3/22UMGIM47432.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ice,_Death,_Planets,_Lungs,_Mushrooms_and_Lava
   discogs: 25495108
+  review: 
   youtube: 
   spotify: 2nPbslvl01lfELsFHTKp0s
 
@@ -2184,6 +2225,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/19/1c/4b/191c4b01-df7c-638c-7c55-529c71e82447/4050538402223.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Kinks_Are_the_Village_Green_Preservation_Society
   discogs: 15923148
+  review: 
   youtube: 
   spotify: 2zYEcirgirihBtUr9ninD6
 
@@ -2195,6 +2237,7 @@
   cover: https://upload.wikimedia.org/wikipedia/en/7/7e/The_KLF_-_The_White_Room.jpg
   link: https://en.wikipedia.org/wiki/The_White_Room
   discogs: 83197
+  review: 
   youtube: 
   spotify: 7n7NzplHz7xjmTRQ9TxQqu
 
@@ -2206,6 +2249,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/a6/b0/49a6b061-cbd8-ede5-446d-dae8b50e3b32/5099996601457.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Autobahn_(album)
   discogs: 6404846
+  review: 
   youtube: 
   spotify: 0DzC0tyowMi2O9QfkDRvfJ
 
@@ -2217,6 +2261,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/e3/3c/a4/e33ca4f1-de53-e0e5-d1ef-13efec4a4273/dj.cbjzkonz.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Tour_de_France_(album)
   discogs: 1267362
+  review: 
   youtube: 
   spotify: 6NYyISRJeOlJ1IldQtNvMw
 
@@ -2228,6 +2273,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/a9/3c/2ba93c89-3df4-b71b-5636-d3574f37d686/744861114659.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bottle_It_In
   discogs: 12670292
+  review: 
   youtube: 
   spotify: 1UVthTEgHP0WcZZxqHtkvL
 
@@ -2239,6 +2285,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/42/98/594298b6-0c76-629b-765b-a3f192153176/4250506815202_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/What_Another_Man_Spills
   discogs: 14112057
+  review: 
   youtube: 
   spotify: 6OD0rEuHacpfSwdA4RAs8H
 
@@ -2250,6 +2297,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill
   discogs: 32356719
+  review: 
   youtube: 
   spotify: 1BZoqf8Zje5nGdwZhOjAtD
 
@@ -2261,6 +2309,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/fe/a5/fbfea51a-0130-d557-c1f4-9e5e98b7bab8/094638511359.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sound_of_Silver
   discogs: 3673180
+  review: 
   youtube: 
   spotify: 1R8kkopLT4IAxzMMkjic6X
 
@@ -2272,6 +2321,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/cc/76/93cc7668-54bc-d18f-1d24-21b70d08fe4f/5099749831025.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Leftism
   discogs: 5005105
+  review: 
   youtube: 
   spotify: 6Hh2XrY2Yuse8omAzSabdp
 
@@ -2283,6 +2333,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/87/cd/a387cd06-2081-d3d4-e899-cedcb79f30e7/634904013905.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Lemonjelly.ky
   discogs: 187269
+  review: 
   youtube: 
   spotify: 6cugMaPzUNXXz60wNX3Amk
 
@@ -2294,6 +2345,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/36/d8/57/36d85723-8403-4d85-37d4-4eebb03e1660/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Do_Hollywood
   discogs: 14703977
+  review: 
   youtube: 
   spotify: 04xC6nnUMECj3jQadPXxwq
 
@@ -2305,6 +2357,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/68/8a/51688a6c-7e38-7725-cd56-0dbd7072bb9c/609008271261.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Up_the_Bracket
   discogs: 16168976
+  review: 
   youtube: 
   spotify: 4iddETnfRjPwoPCo9PjeyX
 
@@ -2315,6 +2368,7 @@
   genre: 
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/22/d7/c022d742-bee6-7f53-cd23-dee90303299b/15UMGIM64609.rgb.jpg/600x600bb.jpg
   discogs: 9811525
+  review: 
   link: https://en.wikipedia.org/wiki/Chocolate_Starfish_and_the_Hot_Dog_Flavored_Water
   spotify: 5mi7FKaWE5CtcOjdyxScA7
 
@@ -2326,6 +2380,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/08/14/88/0814883a-444f-6447-3eec-6753eb129d5e/5056167162674_1.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sometimes_I_Might_Be_Introvert
   discogs: 20092828
+  review: 
   youtube: 
   spotify: 4nOym5RKE8Opauf3rMxPAW
 
@@ -2337,6 +2392,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e7/69/2ae76967-b94e-3b80-a079-93202eeb6157/886445151930.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Transformer_(album)
   discogs: 1865599
+  review: 
   youtube: 
   spotify: 5SqbMEyAt8332ISGiLX0St
 
@@ -2348,6 +2404,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/47/93/ab47936e-b96b-cd80-dd4e-9e30626e72c5/dj.pembshjg.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Berlin_(Lou_Reed_album)
   discogs: 7897677
+  review: 
   youtube: 
   spotify: 4iaDgkP0M6ahEHrBynAFei
 
@@ -2359,6 +2416,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5a/ee/47/5aee470b-8df3-2b3d-f24e-5f79f24350a9/603497886968.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Forever_Changes
   discogs: 4127792
+  review: 
   youtube: https://youtu.be/VRTKtOZ-ta0?si=uTR-9nXo2zlrd75S
   spotify: 2amHBpP8C0EUy6yBNy6nN6
 
@@ -2370,6 +2428,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/7e/a6/3c7ea6e2-6f33-4512-69c2-1257aea1fbd5/7640152970665_Cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Logical_Progression
   discogs: 15903
+  review: 
   youtube: https://www.youtube.com/watch?v=H46jS-b2z788
   spotify: 
 
@@ -2381,6 +2440,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/5c/83/4b5c833d-2160-bc68-0905-5b91d2b6732a/817949019495.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Salad_Days_(Mac_DeMarco_album)
   discogs: 18061876
+  review: 
   youtube: 
   spotify: 2sij95QgjmgrhNv33achzn
 
@@ -2392,6 +2452,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/c2/1a/1ac21a9d-3ffd-3f80-dc96-223622b50b5f/Madvillainy.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Madvillainy
   discogs: 6460318
+  review: 
   youtube: 
   spotify: 19bQiwEKhXUBJWY6oV3KZk
 
@@ -2403,6 +2464,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9b/7f/80/9b7f802d-810b-dc29-b089-3d48a757d067/13ULAIM50389.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Real_Life_(Magazine_album)
   discogs: 5800561
+  review: 
   youtube: 
   spotify: 57l34nudIa2wEI2q3zdTVo
 
@@ -2414,6 +2476,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/b6/e7/5cb6e780-4d29-3460-932f-1bf60f3cbd85/607618023782.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bubblegum_(Mark_Lanegan_album)
   discogs: 7821481
+  review: 
   youtube: https://www.youtube.com/watch?v=wgPLrTacBvE&list=PLjkLkZV6Ld2jfwteCBGRLaVgMIdEG9cvT
   spotify: 4tK7Hlb92sbC6OEKQG7QiJ
 
@@ -2425,6 +2488,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/02/b4/02/02b4021b-169e-0c85-4c72-50eaa875d201/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Phantom_Radio
   discogs: 12197040
+  review: 
   youtube: https://www.youtube.com/watch?v=wG7b2HvLsAg&list=PLdCXK5lclGdi8I3vLQP9vnQhHkZgzSgWs
   spotify: 6t8u7Zp9hd99e18oR3xYxJ
 
@@ -2436,6 +2500,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/93/5c/5c935c52-ae8a-7511-90af-475d0b95c9f3/06UMGIM57032.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/De-Loused_in_the_Comatorium
   discogs: 22873787
+  review: 
   youtube: https://www.youtube.com/watch?v=VcL5sfl4H1w&list=PLaVHibd49QFJ5V-qPcY-NGYjSe1P7xlFp
   spotify: 5yq5H94vrdtWGlas2RZjsC
 
@@ -2447,6 +2512,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/What%27s_Going_On_(album)
   discogs: 23888714
+  review: 
   youtube: https://www.youtube.com/watch?v=ApthDWoPMFQ&list=PLc60gkdW0bcFbUwumMvBpxVrFbkeRzoPf
   spotify: 2v6ANhWhZBUKkg6pJJBs3B
 
@@ -2458,6 +2524,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/21/6c/2c/216c2c70-b29c-2bb9-8e51-13cd9c1beb83/5050580718760_cover.jpg/600x600bb.jpg
   link: https://matthewhalsall.bandcamp.com/album/colour-yes
   discogs: 13591003
+  review: 
   youtube: https://www.youtube.com/watch?v=Xq6i2MFivMY&list=PLoqB-MDfxiVxIgz3Ty6FpEAcuIrik0IQz
   spotify: 5Pdyuk0PEwXvPUKgAwMP46
 
