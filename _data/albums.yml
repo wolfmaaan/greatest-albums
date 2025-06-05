@@ -1602,6 +1602,18 @@
   youtube: https://www.youtube.com/watch?v=bEoaZc7pY4M&list=PLLlShhoizXgvyHb4CLoVSuGV1R6phw7k1
   spotify: 7j7lsExGJtBHLgDYzjclwk
 
+- title: GI
+  artist: Germs
+  year: 1979
+  genre: Punk Rock
+  slug: germs-gi
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music/69/33/b9/mzi.jymfmfof.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/GI_(album)
+  discogs: 374364
+  review: https://pitchfork.com/reviews/albums/germs-gi/
+  youtube: https://www.youtube.com/watch?v=sm8Z9V8I0cA
+  spotify: 
+
 - title: Pieces of a Man
   artist: Gil Scott-Heron
   year: 1971
@@ -3432,6 +3444,17 @@
   discogs: 30336275
   youtube: https://www.youtube.com/playlist?list=PLfP644l045L53a-u8p3v-xW01lqj-l21m
   spotify: 3e38PrPtIRDGbtbpc6jHrM
+
+- title: Things Fall Apart
+  artist: The Roots
+  year: 1999
+  slug: roots-things
+  genre: Hip Hop
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/56/c2/a256c22e-aa5d-0d93-0717-15a81eced86e/06UMGIM02261.rgb.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Things_Fall_Apart_(album)
+  discogs: 227016
+  youtube: https://www.youtube.com/watch?v=qQGtNA6WEao
+  spotify: 
 
 - title: Royal Blood
   artist: Royal Blood

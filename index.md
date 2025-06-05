@@ -16,32 +16,6 @@ title: Greatest Albums of All Time
   <option value="year">Sort by Year</option>
 </select>
 
-<!-- <div class="album-list">
-  {% for album in site.data.albums %}
-    <div class="album">
-      <img src="{{ album.cover }}" alt="{{ album.title }} cover" class="album-cover">
-      <h2 class="title"><a href="{{ album.link }}" target="_blank">{{ album.title }}</a></h2>
-      <p class="artist"><strong>Artist:</strong> {{ album.artist }}</p>
-      <p class="year"><strong>Year:</strong> {{ album.year }}</p>
-    </div>
-  {% endfor %}
-</div> -->
-
-<!-- <div class="album-list">
-  {% for album in site.data.albums %}
-    <div class="album">
-      <a href="/albums/{{ album.slug }}/">
-        <img src="{{ album.cover }}" alt="{{ album.title }} cover" class="album-cover">
-      </a>
-      <h2 class="title">
-        <a href="{{ album.link }}" target="_blank">{{ album.title }}</a>
-      </h2>
-      <p class="artist"><strong>Artist:</strong> {{ album.artist }}</p>
-      <p class="year"><strong>Year:</strong> {{ album.year }}</p>
-    </div>
-  {% endfor %}
-</div> -->
-
 <div class="album-list">
   {% for album in site.data.albums %}
     <div class="album">
@@ -56,7 +30,6 @@ title: Greatest Albums of All Time
     </div>
   {% endfor %}
 </div>
-
 
 <style>
 .album-list {
