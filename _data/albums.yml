@@ -922,13 +922,25 @@
   artist: Curtis Mayfield
   year: 1970
   slug: curtis
-  genre: 
+  genre: Funk / Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/37/7e/f9377e37-bad1-6aee-c672-a9a0bf37cdd4/081227847562.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Curtis_(album)
-  discogs: 11119573
-  review: 
-  youtube: 
+  discogs: 766925
+  review: https://albumism.com/features/curtis-mayfield-debut-solo-album-curtis-turns-50-anniversary-retrospective
+  youtube: https://www.youtube.com/watch?v=084Z5BuaLrE&list=RD084Z5BuaLrE&start_radio=1
   spotify: 3tgJmEz0R0ZsRSrpwafp4R
+
+- title: Black Sunday
+  artist: Cypress Hill
+  year: 1993
+  slug: cypress-black
+  genre: Hip Hop
+  cover: https://a5.mzstatic.com/us/r1000/0/Music115/v4/f0/6f/0d/f06f0d17-87e4-8c35-723a-76870e60d3e2/5099747407529.jpg
+  link: https://en.wikipedia.org/wiki/Black_Sunday_(Cypress_Hill_album)
+  discogs: 213571
+  review: https://thequietus.com/opinion-and-essays/anniversary/cypress-hill-black-sunday-review-anniversary/
+  youtube: https://www.youtube.com/watch?v=ARGFhMihDsQ&list=RDARGFhMihDsQ&start_radio=1
+  spotify: 
 
 - title: Alive 2007
   artist: Daft Punk
