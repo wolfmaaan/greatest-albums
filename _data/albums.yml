@@ -862,60 +862,60 @@
   artist: The Coral
   year: 2002
   slug: thecoral
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/c2/f6/45/c2f64501-19b7-90cf-0560-52f5eaa610fc/886445746112.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Coral_(album)
-  discogs: 1305962
-  review: 
-  youtube: 
+  discogs: 802201
+  review: https://pitchfork.com/reviews/albums/1602-the-coral/
+  youtube: https://youtu.be/j3Z7nCm92K0?si=eFETrx20Cbp-GC3x
   spotify: 6Fhnezpt7TKojq1ufkZ5qA
 
 - title: Nightfreak and the Sons of Becker
   artist: The Coral
   year: 2004
   slug: nightfreak
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/91/c8/3a/mzi.wzwppwei.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Nightfreak_and_the_Sons_of_Becker
-  discogs: 7817832
-  review: 
-  youtube: 
+  discogs: 892185
+  review: https://www.theguardian.com/music/2004/jan/23/popandrock.shopping4
+  youtube: https://youtu.be/ke8Cf6rwRBI?si=7YcadZfqleuHt8gy
   spotify: 1P3zBepNYsQI2zu7hcrk5r
 
 - title: Sometimes I Sit and Think, and Sometimes I Just Sit
   artist: Courtney Barnett
   year: 2015
   slug: sometimes
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/de/91/45de91d1-ee47-53fa-0c0a-3b875bf7d6c7/5060186926773.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sometimes_I_Sit_and_Think%2C_and_Sometimes_I_Just_Sit
-  discogs: 7964035
-  review: 
-  youtube: 
+  discogs: 6801379
+  review: https://pitchfork.com/reviews/albums/20268-sometimes-i-sit-and-think-and-sometimes-i-just-sit/
+  youtube: https://youtu.be/k2sW53Hjo30?si=tV0140eRQczzqrwt
   spotify: 1VHxShkFJR9xA281epCtkz
 
 - title: Men's Needs, Women's Needs, Whatever
   artist: The Cribs
   year: 2007
   slug: mensneeds
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/f9/3e/18f93e9f-3dc7-1017-f9af-e8872dd5ae41/5055036271264_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Men%27s_Needs%2C_Women%27s_Needs%2C_Whatever
-  discogs: 10171818
-  review: 
-  youtube: 
+  discogs: 1131383
+  review: https://pitchfork.com/reviews/albums/10438-mens-needs-womens-needs-whatever/
+  youtube: https://youtu.be/rLKL6iUFSQQ?si=2JGt-0LD-QScT6i5
   spotify: 5PsAfQKOZDPkF5OLddBuQ2
 
 - title: In the Belly of the Brazen Bull
   artist: The Cribs
   year: 2012
   slug: brazenbull
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d5/5a/a2/d55aa2d6-636e-f44e-dc74-20c5582d4ee0/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_the_Belly_of_the_Brazen_Bull
-  discogs: 4446965
-  review: 
-  youtube: 
+  discogs: 3602924
+  review: https://pitchfork.com/reviews/albums/16567-the-cribs-in-the-belly-of-the-brazen-bull/
+  youtube: https://youtu.be/N1b0POvWLyI?si=AmxLpWhbwej_aN0T
   spotify: 4pM9XLF9xMDunYFDyYmuYt
 
 - title: Curtis
@@ -2361,16 +2361,28 @@
   youtube: 
   spotify: 6cugMaPzUNXXz60wNX3Amk
 
+- title: The Age of the Understatement
+  artist: The Last Shadow Puppets
+  year: 2008
+  slug: lastshadow-under
+  genre: Rock
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/81/95/c28195a2-27fb-9adc-f5c8-a7da6b7e9c1c/dj.hvfaoqyy.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/The_Age_of_the_Understatement
+  discogs: 1368696
+  review: https://pitchfork.com/reviews/albums/11433-the-age-of-the-understatement/
+  youtube: https://youtu.be/XGV8xCkpXjE?si=TGsf02BdqxN105eI
+  spotify: 
+
 - title: Do Hollywood
   artist: The Lemon Twigs
   year: 2016
   slug: thelemontwigs-dohollywood
-  genre: 
+  genre: Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/36/d8/57/36d85723-8403-4d85-37d4-4eebb03e1660/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Do_Hollywood
-  discogs: 14703977
-  review: 
-  youtube: 
+  discogs: 9223608
+  review: https://www.theguardian.com/music/2016/oct/13/the-lemon-twigs-do-hollywood-album-review-4ad
+  youtube: https://youtu.be/pJGzm2fF2Uo?si=hufYQEYrVDmqSFMj
   spotify: 04xC6nnUMECj3jQadPXxwq
 
 - title: Up The Bracket
@@ -3278,6 +3290,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/4c/c7/a74cc719-a64b-66f7-c8c4-ee3a23b40037/00731452416520.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Different_Class
   discogs: 9823629
+  review: 
   youtube: 
   spotify: 3ly9T2L4pqTZijFgQssd3x
 
@@ -3289,6 +3302,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1c/eb/1b/1ceb1b37-e3a2-4844-38cd-35873916948b/00731452448620.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/This_Is_Hardcore
   discogs: 12570965
+  review: 
   youtube: 
   spotify: 32T4VUVJCN17nA2uybRRon
 
@@ -3300,6 +3314,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/71/6c/55716cc7-aeb8-5b2d-f4f1-e8e6022e625e/781484068020.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Purple_Mountains_(album)
   discogs: 21969889
+  review: 
   youtube: 
   spotify: 6YM4MpYgz6BhIeqQkxp3u4
 
@@ -3311,6 +3326,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/63/41/0d/63410d97-db3e-e741-7782-cca55ba138b2/pyr.jpg/600x600bb.jpg
   link: https://thepyramids.bandcamp.com/album/otherworldly
   discogs: 3728505
+  review: 
   youtube: https://www.youtube.com/playlist?list=OLAK5uy_l94l25f42v9w6414f5w6g3y4p9y_1_u0Q
   spotify: 64Cd3H6vKvCBSOz8Of4ODN
 
@@ -3322,6 +3338,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/fa/a8/dafaa809-4421-a651-3881-fddfb93420e9/STH2326.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Yessir_Whatever
   discogs: 23418518
+  review: 
   youtube: 
   spotify: 6jnkEgtcxePHtbay62bota
 
@@ -3329,10 +3346,11 @@
   artist: Queen
   year: 1975
   slug: queen-anightattheopera
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/79/5e/2a795e51-8e3e-a743-0dd5-0947ad3383f0/14UMGIM39390.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)
-  discogs: 8740191
+  discogs: 612780
+  review: https://www.classicrockreview.com/2015/10/1975-queen-night-at-opera/
   youtube: 
   spotify: 1GbtB4zTqAsyfZEsm1RZfx
 
@@ -3340,10 +3358,11 @@
   artist: Queen Latifah
   year: 1989
   slug: queenlatifah-allhailthequeen
-  genre: 
+  genre: Electronic, Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/eb/9b/0deb9b8f-6c70-bd9a-c284-84e19cebae16/081227867966.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/All_Hail_the_Queen
-  discogs: 11223829
+  discogs: 226362
+  review: https://magazine.waxpoetics.com/connections/women-in-music-artists-and-writers/rediscovery/queen-latifah-all-hail-the-queen/
   youtube: 
   spotify: 6Agl4DVuihiDPuxuN1L8Jv
 
@@ -3351,10 +3370,11 @@
   artist: Queens of the Stone Age
   year: 2002
   slug: queensofthestoneage-songsforthedeaf
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/77/fc/cb/77fccb6d-96d8-3a6b-a71b-66c76b1fe4d3/00606949343521.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Songs_for_the_Deaf
   discogs: 14582135
+  review: https://pitchfork.com/reviews/albums/6606-songs-for-the-deaf/
   youtube: 
   spotify: 4w3NeXtywU398NYW4903rY
 
@@ -3362,10 +3382,11 @@
   artist: Radiohead
   year: 1997
   slug: radiohead-okcomputer
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/OK_Computer
   discogs: 8617558
+  review: https://pitchfork.com/features/ok-computer-at-20/10039-what-it-felt-like-to-review-ok-computer-when-it-first-came-out/
   youtube: 
   spotify: 6dVIqQ8qmQ5GBnJ9shOYGE
 
@@ -3373,10 +3394,11 @@
   artist: Radiohead
   year: 2000
   slug: radiohead-kida
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8e/13/bd8e1358-b367-a689-cb84-cebd0b067dc4/634904078263.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Kid_A
   discogs: 11814586
+  review: https://pitchfork.com/reviews/albums/6656-kid-a/
   youtube: 
   spotify: 6GjwtEZcfenmOf6l18N7T7
 
@@ -3384,10 +3406,11 @@
   artist: Radiohead
   year: 2007
   slug: radiohead-inrainbows
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/50/c7/dd50c790-99ac-d3d0-5ab8-e3891fb8fd52/634904032463.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/In_Rainbows
   discogs: 10737847
+  review: https://pitchfork.com/reviews/albums/10785-in-rainbows/
   youtube: 
   spotify: 5vkqYmiPBYLaalcmjujWxK
 
@@ -3395,10 +3418,11 @@
   artist: Rage Against The Machine
   year: 1991
   slug: rageagainstthemachine
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/08/bf/8e08bf66-8690-1ba7-affb-fe173c08623d/074645295923.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)
   discogs: 31306491
+  review: https://pitchfork.com/reviews/albums/rage-against-the-machine-rage-against-the-machine/
   youtube: 
   spotify: 4Io5vWtmV1rFj4yirKb4y4
 
@@ -3406,10 +3430,11 @@
   artist: Red Hot Chili Peppers
   year: 1991
   slug: redhotchilipeppers-bssm
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/2b/56/2b2b564c-e21e-bd40-a8cf-cb47dedcb7df/093624932147.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Blood_Sugar_Sex_Magik
   discogs: 13039377
+  review: https://pitchfork.com/reviews/albums/22107-blood-sugar-sex-magik/
   youtube: 
   spotify: 30Perjew8HyGkdSmqguYyg
 
@@ -3417,10 +3442,11 @@
   artist: R.E.M.
   year: 1983
   slug: rem-murmur
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/e2/c3/6ce2c349-4169-df92-e5ca-2faba4cf087f/09UMGIM13824.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Murmur_(album)
   discogs: 2180289
+  review: https://pitchfork.com/reviews/albums/12464-murmur-deluxe-edition/
   youtube: 
   spotify: 24O8MuUe4K4qtH9BXJ3Ijf
 
@@ -3428,10 +3454,11 @@
   artist: R.E.M.
   year: 1984
   slug: rem-reckoning
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/c7/55/07c7551b-deb1-63eb-fb26-6b53397a75db/06UMGIM23660.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Reckoning_(album)
   discogs: 18201781
+  review: https://pitchfork.com/reviews/albums/13130-reckoning-deluxe-edition/
   youtube: 
   spotify: 10kwpzBwrmL7MJoCYsFMcn
 
@@ -3439,10 +3466,11 @@
   artist: Richard Hawley
   year: 2005
   slug: richardhawley-colescorner
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c6/b5/fe/c6b5fec8-e7bb-4ffe-91bc-0a26e5c69234/dj.pfglhkev.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Coles_Corner
   discogs: 2339718
+  review: https://pitchfork.com/reviews/albums/4023-coles-corner/
   youtube: 
   spotify: 3Gm6V4tzZaYFbnhrvubylJ
 
@@ -3454,6 +3482,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/b5/49/bfb549f3-b875-ba13-4bff-57fc9d8898b4/5400863130701_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/New_Forms
   discogs: 30336275
+  review: https://www.bbc.co.uk/music/reviews/jh6m/
   youtube: https://www.youtube.com/playlist?list=PLfP644l045L53a-u8p3v-xW01lqj-l21m
   spotify: 3e38PrPtIRDGbtbpc6jHrM
 
@@ -3464,8 +3493,8 @@
   genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/56/c2/a256c22e-aa5d-0d93-0717-15a81eced86e/06UMGIM02261.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Things_Fall_Apart_(album)
-  discogs: 227016
-  review: 
+  discogs: 5343063
+  review: https://pitchfork.com/reviews/albums/22132-things-fall-apart/
   youtube: https://www.youtube.com/watch?v=qQGtNA6WEao
   spotify: 
 
@@ -3476,8 +3505,8 @@
   genre: Alternative Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1f/84/6e/1f846e84-32a3-cb11-c7e8-2d71f99ca776/dj.hkdxeoxk.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Royal_Blood_(album)
-  discogs: 7145096
-  review: 
+  discogs: 6006258
+  review: https://pitchfork.com/reviews/albums/19814-royal-blood/
   youtube: https://www.youtube.com/playlist?list=PLfP644l045L736o0t6hXl-6l4Fw9-R7hQ
   spotify: 0BFzNaeaNv4mahOzwZFGHK
 
@@ -3485,11 +3514,11 @@
   artist: Run The Jewels
   year: 2013
   slug: runthejewels
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/2b/c5/d42bc5f7-7ca5-2b31-b5e1-e4059b7a0d05/853895007148.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Run_the_Jewels_(album)
-  discogs: 7205821
-  review: 
+  discogs: 4794192
+  review: https://pitchfork.com/reviews/albums/18219-run-the-jewels-run-the-jewels/
   youtube: 
   spotify: 07h5cYnfQm4mCDmEBiRtei
 
@@ -3501,7 +3530,7 @@
   cover: https://www.dustygroove.com/images/products/m/martin_sabu_afrotempl_101b.jpg
   link: https://en.wikipedia.org/wiki/Afro_Temple
   discogs: 2518036
-  review: 
+  review: http://www.ambientexotica.com/exorev271_sabu_afrotemple/
   youtube: https://www.youtube.com/watch?v=5Jv_nJ2vXkQ
   spotify: 
 
@@ -3513,7 +3542,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/e8/d7/1f/e8d71f4b-e994-ea4b-44fd-4653c010f733/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Foxbase_Alpha
   discogs: 1088077
-  review: 
+  review: https://pitchfork.com/reviews/albums/13058-foxbase-alpha-continental/
   youtube: https://www.youtube.com/watch?v=vZAajrxvDs4&list=PL8-XOnjKHlIUbbZpt8yD6GbvX2IensEt7
   spotify: 3NWRCkCxGD8lf6sBqyChLz
 
@@ -3525,7 +3554,7 @@
   cover: https://i1.sndcdn.com/artworks-000004839546-1vz4lr-t500x500.jpg
   link: https://en.wikipedia.org/wiki/Northern_Exposure_(Sasha_%26_John_Digweed_album)
   discogs: 191392
-  review: 
+  review: https://www.decodedmagazine.com/northern-exposure-the-mix-that-changed-everything/
   youtube: https://www.youtube.com/playlist?list=PL9B987E9629C6906A
   spotify: 
 
@@ -3537,7 +3566,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/86/aa/46/86aa46db-14e5-f28f-3660-5c0023d113d0/mzi.xrspenin.tif/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Angles_(album)
   discogs: 2348551
-  review: 
+  review: https://www.bbc.co.uk/music/reviews/qvmq/
   youtube: https://www.youtube.com/playlist?list=PL6978D8D442457F44
   spotify: 6q0Ft3k8hYdW7N8fGibeOs
 
@@ -3549,7 +3578,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/dd/da/53dddab9-1667-41b6-dae6-c8174ad95358/184923136562_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Grandeza
   discogs: 13856750
-  review: 
+  review: https://insheepsclothinghifi.com/album/sessa/
   youtube: https://www.youtube.com/watch?v=vm_TMCG3w50&list=PLMjQ8eLhqDtTcEYp3tjO2gIW0GWYDltvv
   spotify: 1wSpRh5lkxD1mDhU3QugMI
 
@@ -3560,8 +3589,8 @@
   genre: Punk Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b5/de/3a/b5de3acd-3008-fe1d-8f40-f4a497cfb16c/00602527965031.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols
-  discogs: 4181039
-  review: 
+  discogs: 429208
+  review: https://louderthanwar.com/sex-pistols-never-mind-the-bollocks-a-re-evaluation/
   youtube: https://www.youtube.com/watch?v=xnNpY3KA6GM&list=PL8twFco4YVGLKRxVUgmLD5eoC4t7Lld2Z
   spotify: 6ggO3YVhyonYuFWUPBRyIv
 
@@ -3573,7 +3602,7 @@
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/06/f3/0006f34f-a5cf-a6bf-edbe-62b826faf64c/dj.srbbhdke.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Remind_Me_Tomorrow
   discogs: 13075303
-  review: 
+  review: https://pitchfork.com/reviews/albums/sharon-van-etten-remind-me-tomorrow/
   youtube: https://www.youtube.com/watch?v=BiWasRqxGcI&list=PLZqsyBiYZFQ27eE3GEsZ9nXZ2JGByM6qr
   spotify: 4bfvR9TMwCm2tzXpboLH3t
 
@@ -3584,8 +3613,8 @@
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/45/3a/95453a58-bbb3-31be-c4fa-97e94b0b4d0d/48684.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sharon_Van_Etten_%26_The_Attachment_Theory
-  discogs: 33084144
-  review: 
+  discogs: 33061650
+  review: https://pitchfork.com/reviews/albums/sharon-van-etten-and-the-attachment-theory/
   youtube: https://www.youtube.com/watch?v=bZBsDxzSuHY&list=PLZxKy04e5wXqXUtt3vGn03azOOcy4xz3I
   spotify: 5aGKc7OL3d1aJodCG2747F
 
@@ -3596,8 +3625,8 @@
   genre: Hip Hop, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/af/b2/14/afb21401-78ad-9b7d-b5bd-3a4f88fec7d6/886446917238.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Salt_of_the_Earth_(Shotty_Horroh_album)
-  discogs: 13213474
-  review: 
+  discogs: 13028697
+  review: https://thesoulofaclown.com/2018/12/11/shotty-horror-salt-of-the-earth/
   youtube: https://www.youtube.com/watch?v=xJZy_9_TL4s&list=PL_PRKnsgcLHcdSzuvL45k0H_EIj4-q8Es
   spotify: 6MbCh4l8X0Jba7QRqgnchY
 
@@ -3605,11 +3634,11 @@
   artist: Sigur Rós
   year: 2002
   slug: sigurros-untitled
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/8f/61/f28f6108-5452-a9be-2964-c278652d3085/190296913341.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/()_(Sigur_R%C3%B3s_album)
-  discogs: 169627
-  review: 
+  discogs: 190053
+  review: https://pitchfork.com/reviews/albums/sigur-ros-untitled/
   youtube: 
   spotify: 3FR8CV7OSyZDnxneavnh8t
 
@@ -3617,11 +3646,11 @@
   artist: Silver Jews
   year: 2001
   slug: silverjews-brightflight
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7a/6f/f4/7a6ff4d5-ac39-b466-1ae9-f35e776ec770/036172921522.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Bright_Flight
-  discogs: 552864
-  review: 
+  discogs: 541158
+  review: https://pitchfork.com/reviews/albums/7161-bright-flight/
   youtube: 
   spotify: 3nyA5CLiEDw7jWJ8W4Vu4J
 
@@ -3629,11 +3658,11 @@
   artist: Slint
   year: 1991
   slug: slint-spiderland
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/90/c1/c890c1f3-6e1b-dd55-8638-6d82b0f90e52/cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Spiderland
   discogs: 1997851
-  review: 
+  review: https://pitchfork.com/reviews/albums/19182-slint-spiderland-remastered-box-set/
   youtube: https://youtu.be/FAApF-FDkoY?si=HJ5UKl632pWtEAsN
   spotify: 2NnkLRaeX33d1Mn8ZLgTo8
 
@@ -3644,8 +3673,8 @@
   genre: Nu Metal
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/e3/a3/c2e3a370-175c-d67e-7a57-fdb3e1cfc959/016861752507.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Slipknot_(album)
-  discogs: 6807151
-  review: 
+  discogs: 371116
+  review: https://www.kerrang.com/these-nine-freaks-have-just-made-the-best-debut-of-the-year-are-you-ready
   youtube: https://www.youtube.com/playlist?list=PL536C2848E9318E64
   spotify: 72uUzz63evSCrRWCUyn3xt
 
@@ -3653,11 +3682,11 @@
   artist: Sly & The Family Stone
   year: 1971
   slug: slythefamilystone-theresariotgoinon
-  genre: 
+  genre: Funk / Soul
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/9f/91019f68-fbc9-5620-d49a-88043d75371e/828767591124.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/There%27s_a_Riot_Goin%27_On
-  discogs: 5219397
-  review: 
+  discogs: 473679
+  review: https://consequence.net/2021/11/theres-a-riot-goin-on-sly-and-the-family-stone-review/
   youtube: 
   spotify: 29f2cOueckYE8Nc1pkJjrU
 
@@ -3665,11 +3694,11 @@
   artist: Smashing Pumpkins
   year: 1995
   slug: smashingpumpkins-melloncollie
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/30/ea/3730ea31-78ad-b6ac-9869-656efb5dfd79/00602577577536.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Mellon_Collie_and_the_Infinite_Sadness
-  discogs: 26523188
-  review: 
+  discogs: 788491
+  review: https://pitchfork.com/reviews/albums/17389-mellon-collie-and-the-infinite-sadness/
   youtube: 
   spotify: 4bPT6Q8ppaSNppk1kbEbLl
 
@@ -3677,11 +3706,11 @@
   artist: The Smile
   year: 2024
   slug: thesmile-wallofeyes
-  genre: 
+  genre: Electronic, Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/28/09/df2809ad-cedd-d09d-6360-bcfbff610828/191404139479.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wall_of_Eyes
-  discogs: 29539879
-  review: 
+  discogs: 28919746
+  review: https://pitchfork.com/reviews/albums/the-smile-wall-of-eyes/
   youtube: 
   spotify: 6PdPOv5ybKZ9ZuGMk5iGZd
 
@@ -3689,11 +3718,11 @@
   artist: The Smiths
   year: 1987
   slug: thesmiths-strangewaysherewecome
-  genre: 
+  genre: Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/f9/fc/44f9fc4b-6bf8-5b51-282f-9c565366a8f5/745099189969.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Strangeways,_Here_We_Come
-  discogs: 4358000
-  review: 
+  discogs: 373250
+  review: https://thequietus.com/opinion-and-essays/anniversary/strange-ways-here-we-come-the-smiths-review-anniversary/
   youtube: 
   spotify: 7jfexk2w5aDI25njkN0UGg
 
@@ -3701,11 +3730,11 @@
   artist: The Smiths
   year: 1986
   slug: thesmiths-thequeenisdead
-  genre: 
+  genre: Rock, Pop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/e8/70/1ae870c3-b402-096b-c4c4-8022af5a2ed9/745099189662.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Queen_Is_Dead
-  discogs: 12474371
-  review: 
+  discogs: 494927
+  review: https://pitchfork.com/reviews/albums/the-smiths-the-queen-is-dead/
   youtube: 
   spotify: 5Y0p2XCgRRIjna91aQE8q7
 
@@ -3716,8 +3745,8 @@
   genre: Jazz, Acid Jazz, Crossover Jazz
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/23/2f/08232f4e-c918-a273-8540-d42ee8c67a4b/VICL-61566.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Pimp_Master
-  discogs: 706566
-  review: 
+  discogs: 649493
+  review: https://www.allaboutjazz.com/pimp-master-soil-and-pimp-sessions-brownswood-productions-review-by-chris-may#:~:text=It%27s%20fast%2C%20it%27s%20rowdy%20and,%2C%20including%20Clark%27s%201958%20classic).
   youtube: https://www.youtube.com/watch?v=H46jS-b2z782
   spotify: 2BwL2wxY5jyUtUUDtorP5l
 
@@ -3728,69 +3757,69 @@
   genre: Madchester, Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/de/bd/71/debd715a-d49b-1ec8-6b4d-bf3f25e0e90b/dj.rldpqukx.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Stone_Roses_(album)
-  discogs: 7041970
-  review: 
-  youtube: https://www.youtube.com/playlist?list=PLvT4iWp4l0nB-J-98K7qg7s-9y-9K5p_Z
+  discogs: 156092
+  review: https://pitchfork.com/reviews/albums/13449-the-stone-roses/
+  youtube: https://youtu.be/P_9PU0Si4b0?si=S1xBG0BFCwR3hzko
   spotify: 0um9FI6BLBldL5POP4D4Cw
 
 - title: Doggystyle
   artist: Snoop Doggy Dogg
   year: 1993
   slug: snoop-doggystyle
-  genre: 
+  genre: Hip Hop
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/fb/31/f6fb3104-cded-a755-53c9-be0a5527b5bc/659783313694_cover.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Doggystyle
-  discogs: 794093
-  review: 
-  youtube: 
+  discogs: 226045
+  review: https://www.slantmagazine.com/music/snoop-dogg-doggystyle-retrospective-review/
+  youtube: https://youtu.be/TxlKe2oXows?si=JTfsYSpbMwH9HnSO
   spotify: 5IFOummNcGXY3qCBWRchqP
 
 - title: Playing With Fire
   artist: Spacemen 3
   year: 1989
   slug: spacemen3-playingwithfire
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/4b/f9/7d4bf94e-58f3-0f96-1c8e-f7857b9824d4/5056321612458.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Playing_with_Fire_(Spacemen_3_album)
-  discogs: 2542927
-  review: 
-  youtube: 
+  discogs: 492989
+  review: https://thequietus.com/interviews/spacemen-3-playing-with-fire-interview-review-anniversary/
+  youtube: https://youtu.be/XWhH8NPtQlI?si=umznCnhlK4KFscTy
   spotify: 0Ju8YUtJB0RMw8NZXgXe6n
 
 - title: Kimono My House
   artist: Sparks
   year: 1974
   slug: sparks-kimonomyhouse
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/57/ed/36/57ed368e-b28f-6641-3f78-e737bf3b2d18/00602517912779.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Kimono_My_House
-  discogs: 9584223
-  review: 
-  youtube: 
+  discogs: 2225866
+  review: https://faroutmagazine.co.uk/sparks-kimono-my-house-album-review/
+  youtube: https://youtu.be/BI9gOtRMogY?si=pkD7f89rCyZv-WVj
   spotify: 7KOmuu3cbJQEQYGt3XmLmY
 
 - title: Specials
   artist: The Specials
   year: 1979
   slug: thespecials-specials
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9b/72/04/9b720417-a897-df83-5919-d0558fda67fc/0810098501088.png/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Specials_(album)
-  discogs: 5751624
-  review: 
-  youtube: 
+  discogs: 382556
+  review: https://pitchfork.com/reviews/albums/the-specials-the-specials/
+  youtube: https://youtu.be/0eWzrqHYmZs?si=RKg0ByYkp5PntNPn
   spotify: 2OHPxPTasGkolt8lFDxCpE
 
 - title: Ladies And Gentleman We Are Floating In Space
   artist: Spiritualized
   year: 1997
   slug: spiritualized-ladiesandgentleman
-  genre: 
+  genre: Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/d1/b6/32d1b6a7-1ff3-212b-b85c-95cead2d7372/195081146409.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Ladies_and_Gentlemen_We_Are_Floating_in_Space
-  discogs: 2349306
-  review: 
-  youtube: 
+  discogs: 887933
+  review: https://thequietus.com/quietus-reviews/reissue-of-the-week/spiritualized-ladies-and-gentlemen-we-are-floating-in-space/
+  youtube: https://youtu.be/_eCGu2Te3ZA?si=N1SOOlKNZ-upKxr8
   spotify: 56YzQ0dhmRMDryZsrjdHun
 
 - title: Emperor Tomato Ketchup
@@ -3800,8 +3829,8 @@
   genre: Indie Rock, Post Rock, Krautrock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/e5/01/19e5011c-a666-1823-559c-3509aa06abc9/dj.omgprlex.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Emperor_Tomato_Ketchup
-  discogs: 4591389
-  review: 
+  discogs: 73459
+  review: https://pitchfork.com/reviews/albums/stereolab-emperor-tomato-ketchup/
   youtube: https://www.youtube.com/watch?v=GLYu0allKgs&list=PL5SMXYhIcZ5JTthU6b8D7KxznK4ebSNTW
   spotify: 2AJqzRQltkneduxKsqmgYJ
 
@@ -3812,8 +3841,8 @@
   genre: Psychedelic Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/99/8b/49998b99-8812-4a73-dfa1-cd50c16508f1/00602537759187.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Wake_Up..._It%27s_Tomorrow
-  discogs: 5742524
-  review: 
+  discogs: 1248921
+  review: https://everythingisnoise.net/features/a-scene-in-retrospect-strawberry-alarm-clock-wake-up-its-tomorrow/
   youtube: https://www.youtube.com/watch?v=Ey-qnCXYAg8&list=PLBDA16864A1941381
   spotify: 4DWojULyo8xC7cRB5QjKMm
 
@@ -3824,8 +3853,8 @@
   genre: Garage Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/18/b1/0d/18b10d00-6d5e-8877-d3e5-070d079de6a6/dj.wtepolml.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/The_Stooges_(album)
-  discogs: 3986405
-  review: 
+  discogs: 3527575
+  review: https://pitchfork.com/reviews/albums/11842-the-stooges-fun-house/
   youtube: https://www.youtube.com/watch?v=mmkfdYvXznM&list=PLMxy067kbpQjCZaATEzi6m-WS_PZ4gNOF
   spotify: 0Z1Y5L90NjqUD351YUQWdA
 
@@ -3836,8 +3865,8 @@
   genre: Electronic, Hip Hop, UK Garage
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/b7/02/6db70261-c634-2fa5-bc5c-5cc231a91ae8/s06.odtfpkas.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Original_Pirate_Material
-  discogs: 1152877
-  review: 
+  discogs: 93589
+  review: https://pitchfork.com/reviews/albums/7531-original-pirate-material/
   youtube: https://www.youtube.com/watch?v=G35mqJ9JtQM&list=PLV3QObPp4Pie78Ye0bVGk23aAC7WsPUhK
   spotify: 0hkZGxfsFypXbjq15hM6U9
 
@@ -3848,8 +3877,8 @@
   genre: Electronic, Breaks, UK Garage
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/3a/66/673a66cf-4aea-74b9-b98d-db3126315325/s06.yhibaurj.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/A_Grand_Don%27t_Come_for_Free
-  discogs: 4210241
-  review: 
+  discogs: 253076
+  review: https://pitchfork.com/reviews/albums/7533-a-grand-dont-come-for-free/
   youtube: https://www.youtube.com/watch?v=QIKqw-pTiJ0&list=PLd9wbquOb4FhJRAN2zdSAjRUJN1QwKU3Q
   spotify: 365ETCJBUmEWroc4UGBS1u
 
@@ -3860,8 +3889,8 @@
   genre: Indie Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/18/7b/cf187bcd-029d-5167-bab6-87219f32d95a/078636804521.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Is_This_It
-  discogs: 3707071
-  review: 
+  discogs: 383812
+  review: https://pitchfork.com/reviews/albums/7537-is-this-it/
   youtube: https://www.youtube.com/watch?v=0a5Wnuxe5x4
   spotify: 2yNaksHgeMQM9Quse463b5
 
@@ -3872,8 +3901,8 @@
   genre: Indie Folk
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/61/bc/ba61bcaf-2034-f13e-6f66-fdb578d618dc/656605609966.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Carrie_%26_Lowell
-  discogs: 6905559
-  review: 
+  discogs: 6549215
+  review: https://pitchfork.com/reviews/albums/20218-carrie-lowell/
   youtube: https://www.youtube.com/watch?v=5fgC_yTVZYo&list=PLgxqT2ynqZkkC_jl8FeoMZg1QQL52NgNR
   spotify: 64xtjfsPHNHch0CZ7fPTjS
 
@@ -3884,10 +3913,22 @@
   genre: Psychedelic Rock, Indie Rock, Experimental
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c0/a8/7f/c0a87f87-16a0-1a8c-5c4c-731f36df982d/4050538216516.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Fuzzy_Logic_(album)
-  discogs: 15802733
-  review: 
+  discogs: 1298216
+  review: https://pitchfork.com/reviews/albums/11835-fuzzy-logic-radiator-out-spaced-guerilla-mwng/
   youtube: https://www.youtube.com/watch?v=3oMAmmNGIHY&list=PLy4u88AKUauIHp7FS3nJx6yAgiqLaWfmj
   spotify: 4E9neQ6TnlFxMaLoboETua
+
+- title: I Should Coco
+  artist: Supergrass
+  year: 1995
+  slug: supergrass
+  genre: Rock
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/cd/49/39cd4988-2b67-33bf-1aaa-c401b397c35d/00600753547687.rgb.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/I_Should_Coco
+  discogs: 567996
+  review: https://www.bbc.co.uk/music/reviews/wn9x/
+  youtube: https://youtu.be/JElIN3-aWfY?si=XLAvyi6D-9I8tJKb
+  spotify: 
 
 - title: Crime of the Century
   artist: Supertramp
@@ -3896,9 +3937,9 @@
   genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/cd/49/39cd4988-2b67-33bf-1aaa-c401b397c35d/00600753547687.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Crime_of_the_Century
-  discogs: 6134807
-  review: 
-  youtube: 
+  discogs: 1300867
+  review: https://www.classicrockreview.com/2014/07/1974-supertramp-crime-of-century/#:~:text=Crime%20of%20the%20Century%20was,progressive%20rock%20and%20pop%20music.
+  youtube: https://youtu.be/b45F9b2bauI?si=oImX4OCJ5IOLhfwq
   spotify: 2wrHaulTgqqkVKx0k7Kq4r
 
 - title: Breakfast in America
@@ -3908,8 +3949,8 @@
   genre: Pop Rock
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/25/10/4325100c-4848-5959-cfb3-2ff08731f417/10UMGIM21526.rgb.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Breakfast_in_America
-  discogs: 6719005
-  review: 
+  discogs: 372272
+  review: https://www.classicrockreview.com/2014/12/1979-supertramp-breakfast-in-america/
   youtube: https://www.youtube.com/watch?v=hbqVPYZgK48&list=PLFqw6BaKB9yHlmVTR5RjXxEM8fcuK5oqj
   spotify: 1G40QqbxYWEeelWqf4hpbI
 
