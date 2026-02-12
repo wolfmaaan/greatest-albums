@@ -666,6 +666,18 @@
   youtube: https://www.youtube.com/watch?v=ErkDjGdWKmc
   spotify: 0YaG8TgKhZGxqEqMC913FY
 
+- title: Heavy Metal
+  artist: Cameron Winter
+  year: 2024
+  slug: cw-heavymetal
+  genre: Rock
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/74/90/267490c0-d04b-7268-76cc-c346cbbec1de/5400863168971_cover.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Heavy_Metal_(album)
+  discogs: 32538570
+  review: https://pitchfork.com/reviews/albums/cameron-winter-heavy-metal/
+  youtube: 
+  spotify: 
+
 - title: Tago Mago
   artist: Can
   year: 1971
@@ -2424,13 +2436,25 @@
   artist: Little Simz
   year: 2021
   slug: littlesimz-sometimesimightbeintrovert
-  genre: 
+  genre: Rap
   cover: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/08/14/88/0814883a-444f-6447-3eec-6753eb129d5e/5056167162674_1.jpg/600x600bb.jpg
   link: https://en.wikipedia.org/wiki/Sometimes_I_Might_Be_Introvert
   discogs: 20092828
-  review: 
+  review: https://pitchfork.com/reviews/albums/little-simz-sometimes-i-might-be-introvert/
   youtube: 
   spotify: 4nOym5RKE8Opauf3rMxPAW
+
+- title: Lotus
+  artist: Little Simz
+  year: 2025
+  slug: littlesimz-lotus
+  genre: Rap
+  cover: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c1/a8/f4c1a8b2-68b3-f85f-1cb2-13537255183f/199066765524.jpg/600x600bb.jpg
+  link: https://en.wikipedia.org/wiki/Lotus_(Little_Simz_album)
+  discogs: 34165663
+  review: https://pitchfork.com/reviews/albums/little-simz-lotus/
+  youtube: 
+  spotify: 
 
 - title: Transformer
   artist: Lou Reed
