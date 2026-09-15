@@ -8,7 +8,7 @@ title: About
 <p>A list inspired by others, but based on evidence. No one's actually listened to every one of the albums on the 1001 albums list. There are shocking emissions from every list anyway. Take this as the definitive one. Feel free to submit album requests to be added (or ignored, depending on the subject). You won't find any White Stripes or U2 here.</p>
 
 <h2>Wolfmaaan on Discogs</h2>
-[![image](https://fullcolorzagency.be/wp-content/uploads/2017/10/LOGO-Discogs-1.png)](https://www.discogs.com/user/wealthdale)
+[![image](https://fullcolorzagency.be/wp-content/uploads/2017/10/LOGO-Discogs-1.png)](https://www.discogs.com/user/wolfmaaan)
 
 <h2>Other lists you can ignore</h2>
 
